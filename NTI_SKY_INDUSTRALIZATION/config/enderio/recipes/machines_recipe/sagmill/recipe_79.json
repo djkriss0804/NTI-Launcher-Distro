@@ -1,0 +1,22 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_79",
+  "energy": 2400,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "ingotTin",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "thermalfoundation:material",
+      "data": 65,
+      "count": 1,
+      "chance": 1.0
+    }
+  ]
+}
