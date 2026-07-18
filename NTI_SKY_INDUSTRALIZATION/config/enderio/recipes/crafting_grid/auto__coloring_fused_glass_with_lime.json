@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BAA",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "fusedGlass" },
+    "B": { "type": "forge:ore_dict", "ore": "dyeLime" }
+  },
+  "result": { "item": "enderio:block_fused_glass", "data": 5, "count": 8 }
+}
