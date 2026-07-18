@@ -1,0 +1,34 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_118",
+  "energy": 5000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "oreClathrateEnder",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "thermalfoundation:material",
+      "data": 895,
+      "count": 2,
+      "chance": 1.0
+    },
+    {
+      "item": "thermalfoundation:material",
+      "data": 895,
+      "count": 2,
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:end_stone",
+      "data": 0,
+      "count": 1,
+      "chance": 0.15
+    }
+  ]
+}
