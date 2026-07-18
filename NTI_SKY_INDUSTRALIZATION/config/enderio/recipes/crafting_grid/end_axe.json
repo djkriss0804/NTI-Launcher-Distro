@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AA",
+    "AB",
+    " B"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotEndSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "itemInfinityRod" }
+  },
+  "result": { "item": "enderio:item_end_steel_axe" }
+}
