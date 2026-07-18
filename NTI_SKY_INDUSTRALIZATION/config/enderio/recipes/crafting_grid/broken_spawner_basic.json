@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ABA"
+  ],
+  "key": {
+    "A": { "item": "minecraft:iron_bars" },
+    "B": { "item": "tconstruct:ingots", "data": 4 },
+    "C": { "item": "newtechindustrial:sunnarium" }
+  },
+  "result": { "item": "enderio:item_broken_spawner" }
+}
