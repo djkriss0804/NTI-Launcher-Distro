@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ABA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "blockGlassHardened" },
+    "B": { "type": "forge:ore_dict", "ore": "fusedQuartz" },
+    "C": { "item": "item:minecraft", "data": cauldron }
+  },
+  "result": { "item": "enderio:block_reservoir", "count": 4 }
+}
