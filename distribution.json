@@ -1,5 +1,5 @@
 {
-    "version": "1.0.15",
+    "version": "1.0.16",
     "socials": {
         "discord": "https://discord.gg/",
         "github": "https://github.com/",
@@ -13028,18 +13028,6 @@
                     }
                 },
                 {
-                    "id": "IO_GLASSES.zs",
-                    "name": "IO_GLASSES.zs",
-                    "type": "File",
-                    "artifact": {
-                        "size": 3157,
-                        "MD5": "3ad81e65c6252b00a922c40ba4ec1a211d72c265",
-                        "hash": "3ad81e65c6252b00a922c40ba4ec1a211d72c265",
-                        "path": "scripts/IO_GLASSES.zs",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/scripts/IO_GLASSES.zs"
-                    }
-                },
-                {
                     "id": "MEKANISM_EDIT.zs",
                     "name": "MEKANISM_EDIT.zs",
                     "type": "File",
@@ -13098,18 +13086,6 @@
                         "path": "servers.dat",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/servers.dat"
                     }
-                },
-                {
-                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860",
-                    "name": "Minecraft Forge",
-                    "type": "ForgeHosted",
-                    "artifact": {
-                        "size": 0,
-                        "MD5": "00000000000000000000000000000000",
-                        "hash": "00000000000000000000000000000000",
-                        "path": "forge-1.12.2-14.23.5.2860-installer.jar",
-                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar"
-                    }
                 }
             ],
             "gitSubfolder": "NTI_SKY_INDUSTRALIZATION",
@@ -13122,13 +13098,7 @@
                 "ram": {
                     "recommended": 10240
                 }
-            },
-            "modLoaders": [
-                {
-                    "id": "forge",
-                    "version": "14.23.5.2860"
-                }
-            ]
+            }
         }
     ]
 }
