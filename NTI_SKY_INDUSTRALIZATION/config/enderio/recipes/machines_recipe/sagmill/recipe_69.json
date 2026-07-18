@@ -1,0 +1,40 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_69",
+  "energy": 3600,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "oreIron",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "thermalfoundation:material",
+      "data": 0,
+      "count": 2,
+      "chance": 1.0
+    },
+    {
+      "item": "thermalfoundation:material",
+      "data": 65,
+      "count": 1,
+      "chance": 0.05
+    },
+    {
+      "item": "thermalfoundation:material",
+      "data": 69,
+      "count": 1,
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "data": 0,
+      "count": 1,
+      "chance": 0.15
+    }
+  ]
+}
