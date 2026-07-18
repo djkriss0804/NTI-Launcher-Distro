@@ -1,0 +1,40 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_52",
+  "energy": 2000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "ore": "sugarcane",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "minecraft:sugar",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:sugar",
+      "data": 0,
+      "count": 1,
+      "chance": 0.5
+    },
+    {
+      "item": "minecraft:sugar",
+      "data": 0,
+      "count": 1,
+      "chance": 0.5
+    },
+    {
+      "item": "enderio:item_material",
+      "data": 46,
+      "count": 1,
+      "chance": 0.1
+    }
+  ]
+}
