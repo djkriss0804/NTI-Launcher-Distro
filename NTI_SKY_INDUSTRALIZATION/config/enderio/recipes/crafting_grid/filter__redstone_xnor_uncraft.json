@@ -1,0 +1,8 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:redstone_torch" },
+    { "item": "enderio:item_redstone_xnor_filter" }
+  ],
+  "result": { "item": "enderio:item_redstone_xor_filter" }
+}
