@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EFE"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotElectricalSteel" },
+    "B": { "item": "item:minecraft", "data": cauldron },
+    "C": { "item": "enderio:block_tank", "data": 0 },
+    "D": { "type": "forge:ore_dict", "ore": "itemMachineChassi" },
+    "E": { "type": "forge:ore_dict", "ore": "ingotDarkSteel" },
+    "F": { "item": "minecraft:furnace" }
+  },
+  "result": { "item": "enderio:block_vat" }
+}
