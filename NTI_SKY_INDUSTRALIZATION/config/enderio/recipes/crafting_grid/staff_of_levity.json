@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "  A",
+    " B ",
+    "B  "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemPrecientCrystal" },
+    "B": { "type": "forge:ore_dict", "ore": "itemInfinityRod" }
+  },
+  "result": { "item": "enderio:item_staff_of_levity" }
+}
