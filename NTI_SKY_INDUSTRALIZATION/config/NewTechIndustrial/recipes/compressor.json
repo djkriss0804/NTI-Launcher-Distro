@@ -1,0 +1,86 @@
+[
+  {
+    "inputs": [
+      "minecraft:clay_ball"
+    ],
+    "outputId": "minecraft:clay",
+    "count": 9,
+    "inputCount": 1,
+    "energy": 1000,
+    "ticks": 100,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:redstone"
+    ],
+    "outputId": "minecraft:redstone_block",
+    "count": 9,
+    "inputCount": 1,
+    "energy": 1000,
+    "ticks": 100,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:coal:0"
+    ],
+    "outputId": "minecraft:coal_block",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 1000,
+    "ticks": 100,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:glowstone_dust"
+    ],
+    "outputId": "minecraft:glowstone",
+    "count": 9,
+    "inputCount": 1,
+    "energy": 1000,
+    "ticks": 200,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:diamond"
+    ],
+    "outputId": "minecraft:diamond_block",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 1000,
+    "ticks": 100,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:gold_ingot"
+    ],
+    "outputId": "minecraft:gold_block",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 1000,
+    "ticks": 100,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:sand:0"
+    ],
+    "outputId": "minecraft:sandstone:0",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 500,
+    "ticks": 50,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  }
+]
