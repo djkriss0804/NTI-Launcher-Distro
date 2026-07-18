@@ -1,0 +1,26 @@
+[
+  {
+    "inputs": [
+      "newtechindustrial:red_matter"
+    ],
+    "outputId": "minecraft:diamond",
+    "count": 1,
+    "inputCount": 10,
+    "energy": 50000,
+    "ticks": 500,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "newtechindustrial:red_matter"
+    ],
+    "outputId": "newtechindustrial:sunnarium",
+    "count": 1,
+    "inputCount": 64,
+    "energy": 200000,
+    "ticks": 2000,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  }
+]
