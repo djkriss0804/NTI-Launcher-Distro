@@ -1,0 +1,34 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_38",
+  "energy": 1200,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "minecraft:tallgrass:0",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:item_material",
+      "data": 47,
+      "count": 1,
+      "chance": 0.8
+    },
+    {
+      "item": "enderio:item_material",
+      "data": 47,
+      "count": 1,
+      "chance": 0.6
+    },
+    {
+      "item": "enderio:item_material",
+      "data": 47,
+      "count": 1,
+      "chance": 0.3
+    }
+  ]
+}
