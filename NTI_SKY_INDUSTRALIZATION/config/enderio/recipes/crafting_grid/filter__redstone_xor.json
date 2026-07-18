@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "key": {
+    "A": { "item": "minecraft:redstone_torch" },
+    "B": { "type": "forge:ore_dict", "ore": "ingotRedstoneAlloy" },
+    "C": { "type": "forge:ore_dict", "ore": "itemRedstoneFilterBase" }
+  },
+  "result": { "item": "enderio:item_redstone_xor_filter" }
+}
