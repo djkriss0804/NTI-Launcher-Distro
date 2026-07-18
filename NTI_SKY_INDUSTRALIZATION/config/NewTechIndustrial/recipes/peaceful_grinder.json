@@ -1,0 +1,74 @@
+[
+  {
+    "inputs": [
+      ""
+    ],
+    "outputId": "minecraft:bone",
+    "count": 2,
+    "inputCount": 1,
+    "energy": 0,
+    "ticks": 0,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      ""
+    ],
+    "outputId": "minecraft:dye:15",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 0,
+    "ticks": 0,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      ""
+    ],
+    "outputId": "minecraft:ender_pearl",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 0,
+    "ticks": 0,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      ""
+    ],
+    "outputId": "minecraft:beef",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 0,
+    "ticks": 0,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      ""
+    ],
+    "outputId": "minecraft:feather",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 0,
+    "ticks": 0,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      ""
+    ],
+    "outputId": "minecraft:egg:0",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 0,
+    "ticks": 0,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  }
+]
