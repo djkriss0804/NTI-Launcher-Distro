@@ -1,0 +1,286 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiOptions
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+# --- USTAWIENIA TŁA ---
+
+customization {
+  path = resources/newtech/background/ae2serverroombackground.jpg
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+### ==================================
+### KOLUMNA LEWA (X = -160, Szerokość = 150)
+### ==================================
+
+# --- Przycisk Lewy 1 (Y = 81) ---
+customization {
+  action = resizebutton
+  identifier = %id=505208%
+  width = 150
+  height = 20
+}
+customization {
+  identifier = %id=505208%
+  orientation = top-centered
+  x = -160
+  y = 81
+  action = movebutton
+}
+customization {
+  identifier = %id=505208%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+# --- Przycisk Lewy 2 (Y = 111) ---
+customization {
+  action = resizebutton
+  identifier = %id=345232%
+  width = 150
+  height = 20
+}
+customization {
+  identifier = %id=345232%
+  orientation = top-centered
+  x = -160
+  y = 111
+  action = movebutton
+}
+customization {
+  identifier = %id=345232%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+# --- Przycisk Lewy 3 (Y = 141) ---
+customization {
+  action = resizebutton
+  identifier = %id=505232%
+  width = 150
+  height = 20
+}
+customization {
+  identifier = %id=505232%
+  orientation = top-centered
+  x = -160
+  y = 141
+  action = movebutton
+}
+customization {
+  identifier = %id=505232%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+# --- Przycisk Lewy 4 (Y = 171) ---
+customization {
+  action = resizebutton
+  identifier = %id=505256%
+  width = 150
+  height = 20
+}
+customization {
+  identifier = %id=505256%
+  orientation = top-centered
+  x = -160
+  y = 171
+  action = movebutton
+}
+customization {
+  identifier = %id=505256%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+# --- Przycisk Lewy 5 (Y = 211) ---
+customization {
+  action = resizebutton
+  identifier = %id=345256%
+  width = 150
+  height = 20
+}
+customization {
+  identifier = %id=345256%
+  orientation = top-centered
+  x = -160
+  y = 211
+  action = movebutton
+}
+customization {
+  identifier = %id=345256%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+### ==================================
+### KOLUMNA PRAWA (X = 10, Szerokość = 150)
+### ==================================
+
+# --- Przycisk Prawy 1 (Y = 81) ---
+customization {
+  action = resizebutton
+  identifier = %id=345154%
+  width = 150
+  height = 20
+}
+customization {
+  identifier = %id=345154%
+  orientation = top-centered
+  x = 10
+  y = 81
+  action = movebutton
+}
+customization {
+  identifier = %id=345154%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+# --- Przycisk Prawy 2 (Y = 111) ---
+customization {
+  action = resizebutton
+  identifier = %id=345280%
+  width = 150
+  height = 20
+}
+customization {
+  identifier = %id=345280%
+  orientation = top-centered
+  x = 10
+  y = 111
+  action = movebutton
+}
+customization {
+  identifier = %id=345280%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+# --- Przycisk Prawy 3 (Y = 141) ---
+customization {
+  action = resizebutton
+  identifier = %id=345208%
+  width = 150
+  height = 20
+}
+customization {
+  identifier = %id=345208%
+  orientation = top-centered
+  x = 10
+  y = 141
+  action = movebutton
+}
+customization {
+  identifier = %id=345208%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+# --- Przycisk Prawy 4 (Y = 171) ---
+customization {
+  action = resizebutton
+  identifier = %id=505154%
+  width = 150
+  height = 20
+}
+customization {
+  identifier = %id=505154%
+  orientation = top-centered
+  x = 10
+  y = 171
+  action = movebutton
+}
+customization {
+  identifier = %id=505154%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+# --- Przycisk Prawy 5 (Y = 211) ---
+customization {
+  action = resizebutton
+  identifier = %id=505280%
+  width = 150
+  height = 20
+}
+customization {
+  identifier = %id=505280%
+  orientation = top-centered
+  x = 10
+  y = 211
+  action = movebutton
+}
+customization {
+  identifier = %id=505280%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+### ==================================
+### PRZYCISK DOLNY (X = -100, Szerokość = 200)
+### ==================================
+
+# --- Przycisk Gotowe / Done (Y = 242) ---
+customization {
+  action = resizebutton
+  identifier = %id=400334%
+  width = 200
+  height = 20
+}
+customization {
+  identifier = %id=400334%
+  orientation = top-centered
+  x = -100
+  y = 242
+  action = movebutton
+}
+customization {
+  identifier = %id=400334%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
