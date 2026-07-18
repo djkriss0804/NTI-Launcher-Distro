@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "type": "forge:ore_dict", "ore": "nuggetElectricalSteel" },
+    { "type": "forge:ore_dict", "ore": "nuggetElectricalSteel" },
+    { "type": "forge:ore_dict", "ore": "nuggetElectricalSteel" },
+    { "type": "forge:ore_dict", "ore": "nuggetElectricalSteel" },
+    { "type": "forge:ore_dict", "ore": "nuggetElectricalSteel" },
+    { "type": "forge:ore_dict", "ore": "nuggetElectricalSteel" },
+    { "type": "forge:ore_dict", "ore": "nuggetElectricalSteel" },
+    { "type": "forge:ore_dict", "ore": "nuggetElectricalSteel" },
+    { "type": "forge:ore_dict", "ore": "nuggetElectricalSteel" }
+  ],
+  "result": { "item": "enderio:item_alloy_ingot", "data": 0 }
+}
