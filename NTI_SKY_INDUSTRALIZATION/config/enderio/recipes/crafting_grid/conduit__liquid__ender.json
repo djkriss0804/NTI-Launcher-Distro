@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemConduitBinder" },
+    "B": { "item": "newtechindustrial:layered_enderium_plate" },
+    "C": { "item": "enderio:block_fused_quartz" }
+  },
+  "result": { "item": "enderio:item_liquid_conduit", "data": 2, "count": 2 }
+}
