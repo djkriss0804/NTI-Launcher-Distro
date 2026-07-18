@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    "DED"
+  ],
+  "key": {
+    "A": { "item": "enderio:item_xp_transfer" },
+    "B": { "type": "forge:ore_dict", "ore": "ingotEnergeticAlloy" },
+    "C": { "item": "enderio:block_tank", "data": 0 },
+    "D": { "type": "forge:ore_dict", "ore": "ingotSoularium" },
+    "E": { "type": "forge:ore_dict", "ore": "itemSoulMachineChassi" }
+  },
+  "result": { "item": "enderio:block_experience_obelisk" }
+}
