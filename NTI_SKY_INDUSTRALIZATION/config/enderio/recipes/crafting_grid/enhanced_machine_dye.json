@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemPulsatingPowder" },
+    "B": { "type": "forge:ore_dict", "ore": "dustNetherQuartz" },
+    "C": { "type": "forge:ore_dict", "ore": "ORGANIC_BLACK_DYE" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0, "count": 4 }
+}
