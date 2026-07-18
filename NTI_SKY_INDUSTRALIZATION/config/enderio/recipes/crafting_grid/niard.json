@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EFE"
+  ],
+  "key": {
+    "A": { "item": "item:minecraft", "data": bucket },
+    "B": { "item": "enderio:block_tank", "data": 0 },
+    "C": { "item": "minecraft:piston" },
+    "D": { "type": "forge:ore_dict", "ore": "itemMachineChassi" },
+    "E": { "type": "forge:ore_dict", "ore": "ingotElectricalSteel" },
+    "F": { "item": "enderio:block_dark_iron_bars" }
+  },
+  "result": { "item": "enderio:block_niard" }
+}
