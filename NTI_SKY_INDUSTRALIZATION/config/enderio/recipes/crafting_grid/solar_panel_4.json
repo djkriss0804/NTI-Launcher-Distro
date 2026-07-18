@@ -1,0 +1,18 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "   "
+  ],
+  "key": {
+    "A": [
+      { "item": "enderio:item_basic_capacitor", "data": 2 },
+      { "item": "enderio:item_capacitor_vivid" }
+    ],
+    "B": { "type": "forge:ore_dict", "ore": "fusedQuartz" },
+    "C": { "type": "forge:ore_dict", "ore": "itemPlatePhotovoltaic" },
+    "D": { "item": "enderio:block_solar_panel", "data": 2 }
+  },
+  "result": { "item": "enderio:block_solar_panel", "data": 3 }
+}
