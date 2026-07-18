@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "A A",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemClay" },
+    "B": { "type": "forge:ore_dict", "ore": "itemPulsatingPowder" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0 }
+}
