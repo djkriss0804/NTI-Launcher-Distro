@@ -1,0 +1,28 @@
+{
+  "machine": "alloysmelter",
+  "name": "alloysmelter_20",
+  "energy": 10000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "itemDeathUrnUnfired",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:dye:15",
+      "data": 0,
+      "count": 7,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:block_death_pouch",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ]
+}
