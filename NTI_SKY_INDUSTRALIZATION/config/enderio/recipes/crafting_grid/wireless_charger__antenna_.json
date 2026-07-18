@@ -1,0 +1,18 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    " D "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemWirelessDish" },
+    "B": { "type": "forge:ore_dict", "ore": "skullEnderResonator" },
+    "C": { "type": "forge:ore_dict", "ore": "itemMachineChassi" },
+    "D": [
+      { "item": "enderio:item_basic_capacitor", "data": 1 },
+      { "item": "enderio:item_capacitor_energetic_silver" }
+    ]
+  },
+  "result": { "item": "enderio:block_normal_wireless_charger" }
+}
