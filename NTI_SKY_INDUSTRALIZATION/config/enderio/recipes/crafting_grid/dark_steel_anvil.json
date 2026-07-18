@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    " B ",
+    "BBB"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "blockDarkSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "ingotDarkSteel" }
+  },
+  "result": { "item": "enderio:block_dark_steel_anvil" }
+}
