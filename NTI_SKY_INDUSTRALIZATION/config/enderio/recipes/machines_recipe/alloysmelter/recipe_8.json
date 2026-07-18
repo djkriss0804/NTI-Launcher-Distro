@@ -1,0 +1,28 @@
+{
+  "machine": "alloysmelter",
+  "name": "alloysmelter_8",
+  "energy": 2500,
+  "experience": 0.1,
+  "inputs": [
+    {
+      "item": "minecraft:glass",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:sand",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:block_fused_glass",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ]
+}
