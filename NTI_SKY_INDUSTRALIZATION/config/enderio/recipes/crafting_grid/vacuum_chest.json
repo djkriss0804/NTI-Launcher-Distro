@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": [
+      { "type": "forge:ore_dict", "ore": "ingotConstructionAlloy" },
+      { "type": "forge:ore_dict", "ore": "ingotIron" }
+    ],
+    "B": { "type": "forge:ore_dict", "ore": "chestWood" },
+    "C": { "type": "forge:ore_dict", "ore": "itemPulsatingCrystal" }
+  },
+  "result": { "item": "enderio:block_vacuum_chest" }
+}
