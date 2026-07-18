@@ -1,0 +1,52 @@
+{
+  "machine": "slicensplice",
+  "name": "slicensplice_2",
+  "energy": 20000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "ingotSoularium",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:skull:2",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "ingotSoularium",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "itemSilicon",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "dustRedstone",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "itemSilicon",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:item_material",
+      "data": 41,
+      "count": 1,
+      "chance": 1.0
+    }
+  ]
+}
