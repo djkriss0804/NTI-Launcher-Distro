@@ -1,0 +1,31 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    " B ",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemConduitBinder" },
+    "B": [
+      { "item": "appliedenergistics2:part" },
+      { "item": "appliedenergistics2:part", "data": 1 },
+      { "item": "appliedenergistics2:part", "data": 2 },
+      { "item": "appliedenergistics2:part", "data": 3 },
+      { "item": "appliedenergistics2:part", "data": 4 },
+      { "item": "appliedenergistics2:part", "data": 5 },
+      { "item": "appliedenergistics2:part", "data": 6 },
+      { "item": "appliedenergistics2:part", "data": 7 },
+      { "item": "appliedenergistics2:part", "data": 8 },
+      { "item": "appliedenergistics2:part", "data": 9 },
+      { "item": "appliedenergistics2:part", "data": 10 },
+      { "item": "appliedenergistics2:part", "data": 11 },
+      { "item": "appliedenergistics2:part", "data": 12 },
+      { "item": "appliedenergistics2:part", "data": 13 },
+      { "item": "appliedenergistics2:part", "data": 14 },
+      { "item": "appliedenergistics2:part", "data": 15 },
+      { "item": "appliedenergistics2:part", "data": 16 }
+    ]
+  },
+  "result": { "item": "enderio:item_me_conduit", "data": 0, "count": 4 }
+}
