@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "A",
+    "B",
+    "A"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotRedstoneAlloy" },
+    "B": { "type": "forge:ore_dict", "ore": "itemRedstoneFilterBase" }
+  },
+  "result": { "item": "enderio:item_redstone_or_filter" }
+}
