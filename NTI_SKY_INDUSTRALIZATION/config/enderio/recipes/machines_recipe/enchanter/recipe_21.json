@@ -1,0 +1,20 @@
+{
+  "machine": "enchanter",
+  "name": "enchanter_21",
+  "energy": 0,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "enderio:item_xp_transfer",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0,
+      "multiplier": 1.0,
+      "slot": -1
+    }
+  ],
+  "enchantment": "minecraft:mending",
+  "cost_multiplier": 1.0,
+  "is_filling": false,
+  "exp": 0
+}
