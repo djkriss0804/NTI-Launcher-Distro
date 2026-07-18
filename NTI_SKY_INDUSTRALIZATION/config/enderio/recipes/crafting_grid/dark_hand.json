@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "CCC"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotDarkSteel" },
+    "B": { "item": "minecraft:diamond_hoe" },
+    "C": { "type": "forge:ore_dict", "ore": "nuggetDarkSteel" }
+  },
+  "result": { "item": "enderio:item_dark_steel_hand" }
+}
