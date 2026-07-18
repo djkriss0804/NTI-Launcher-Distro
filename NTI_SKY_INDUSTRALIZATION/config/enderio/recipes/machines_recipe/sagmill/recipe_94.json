@@ -1,0 +1,40 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_94",
+  "energy": 3600,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "oreRedstone",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "minecraft:redstone",
+      "data": 0,
+      "count": 8,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:redstone",
+      "data": 0,
+      "count": 1,
+      "chance": 0.2
+    },
+    {
+      "item": "appliedenergistics2:material",
+      "data": 5,
+      "count": 1,
+      "chance": 0.8
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "data": 0,
+      "count": 1,
+      "chance": 0.15
+    }
+  ]
+}
