@@ -1,0 +1,15 @@
+{
+  "type": "enderio:upgrade_shaped",
+  "pattern": [
+    " A ",
+    " B ",
+    "CDC"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotEndSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "itemEnhancedMachineChassi" },
+    "C": { "type": "forge:ore_dict", "ore": "gearVibrant" },
+    "D": { "item": "enderio:block_wired_charger" }
+  },
+  "result": { "item": "enderio:block_enhanced_wired_charger" }
+}
