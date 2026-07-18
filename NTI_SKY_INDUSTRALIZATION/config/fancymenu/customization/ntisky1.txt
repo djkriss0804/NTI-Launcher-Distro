@@ -1,0 +1,337 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/newtech/media/feelslikecut.wav
+  loop = false
+  action = addaudio
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -70
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 140
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 0.3
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 0.3
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -70
+  action = movebutton
+  y = 41
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 140
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Settings
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 0.4
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 0.4
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = -70
+  action = movebutton
+  y = 71
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 140
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 0.5
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 0.5
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -70
+  action = movebutton
+  y = -50
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 140
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 0.2
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 0.2
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -70
+  action = movebutton
+  y = 11
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 140
+  action = resizebutton
+  height = 19
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/newtech/buttonhover.png
+  backgroundnormal = resources/newtech/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  seconds = 0.4
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 0.4
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 157
+  action = deep_customization_element:title_screen_branding
+  actionid = d44b7313-31dc-48c2-a53a-7dc1da857ee11781445015482
+  y = 463
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 731
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = fef02a61-7383-4701-9868-1c61f3cb9fd41781445015483
+  y = 485
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = ca348e18-bf4c-469c-bffc-b1af8cb1f6b11781445015483
+  y = 226
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 2dff2328-d583-4bc8-9748-6e9e52c2833d1781445015483
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 4cccc656-9b66-4151-960a-6252c0349c6c1781445015483
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 346
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 4d005a6a-dc24-4a4d-889a-1ab0641c5c9a1781458685036
+  y = 4
+  height = 19
+}
+
+customization {
+  path = resources/newtech/logonewtech.png
+  orientation = top-centered
+  x = -188
+  width = 384
+  actionid = 6b72892d-3443-49af-b05a-da8530029aa11781445911467
+  action = addtexture
+  y = -9
+  height = 81
+}
+
+customization {
+  path = resources/newtech/industralizationmark.png
+  orientation = top-centered
+  x = -154
+  width = 301
+  actionid = a029c032-96d1-4e56-b0fd-01c285c9e28a1781446210231
+  action = addtexture
+  y = 51
+  height = 29
+}
+
+customization {
+  path = resources/newtech/logosky.png
+  orientation = top-centered
+  x = -80
+  width = 161
+  actionid = aba11821-120d-4f51-b107-e7338b8463ae1781446333231
+  action = addtexture
+  y = 76
+  height = 49
+}
+
+customization {
+  orientation = mid-centered
+  delayappearanceseconds = 0.2
+  slim = true
+  scale = 60
+  showname = true
+  crouching = false
+  x = -143
+  actionid = 1efa47ea-a338-4aeb-9958-ff4f523324b41781458266377
+  action = addentity
+  y = 54
+  delayappearance = true
+  playername = %playername%
+  parrot = false
+  delayappearanceeverytime = true
+}
+
+customization {
+  orientation = mid-centered
+  delayappearanceseconds = 0.2
+  slim = true
+  scale = 60
+  showname = true
+  crouching = false
+  x = 144
+  actionid = a433b92c-44c1-4330-bb0d-498facff41f11781458318608
+  action = addentity
+  y = 53
+  delayappearance = true
+  playername = %playername%
+  parrot = false
+  delayappearanceeverytime = true
+}
+
