@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "CDE"
+  ],
+  "key": {
+    "A": { "item": "minecraft:wool", "data": 15 },
+    "B": { "item": "enderio:block_power_monitor" },
+    "C": { "type": "forge:ore_dict", "ore": "dyeRed" },
+    "D": { "type": "forge:ore_dict", "ore": "dyeYellow" },
+    "E": { "type": "forge:ore_dict", "ore": "dyeGreen" }
+  },
+  "result": { "item": "enderio:block_advanced_power_monitor" }
+}
