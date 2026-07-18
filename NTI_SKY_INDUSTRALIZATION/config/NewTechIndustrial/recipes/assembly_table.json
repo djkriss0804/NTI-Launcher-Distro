@@ -1,0 +1,54 @@
+[
+  {
+    "output": "newtechindustrial:redstone_chipset_red",
+    "outputCount": 1,
+    "energy": 100000,
+    "inputs": [
+      "minecraft:redstone"
+    ]
+  },
+  {
+    "output": "newtechindustrial:redstone_chipset_iron",
+    "outputCount": 1,
+    "energy": 100000,
+    "inputs": [
+      "newtechindustrial:redstone_chipset_red",
+      "minecraft:iron_ingot"
+    ]
+  },
+  {
+    "output": "newtechindustrial:redstone_chipset_gold",
+    "outputCount": 1,
+    "energy": 100000,
+    "inputs": [
+      "newtechindustrial:redstone_chipset_red",
+      "minecraft:gold_ingot"
+    ]
+  },
+  {
+    "output": "newtechindustrial:redstone_chipset_quartz",
+    "outputCount": 1,
+    "energy": 100000,
+    "inputs": [
+      "newtechindustrial:redstone_chipset_red",
+      "minecraft:quartz"
+    ]
+  },
+  {
+    "output": "newtechindustrial:redstone_chipset_diamond",
+    "outputCount": 1,
+    "energy": 100000,
+    "inputs": [
+      "newtechindustrial:redstone_chipset_red",
+      "minecraft:diamond"
+    ]
+  },
+  {
+    "output": "newtechindustrial:redstone_crystal",
+    "outputCount": 1,
+    "energy": 500000,
+    "inputs": [
+      "minecraft:redstone_block"
+    ]
+  }
+]
