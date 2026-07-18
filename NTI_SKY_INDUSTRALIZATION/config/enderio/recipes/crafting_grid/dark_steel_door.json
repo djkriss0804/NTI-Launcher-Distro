@@ -1,0 +1,12 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AA",
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotDarkSteel" }
+  },
+  "result": { "item": "item:enderio", "data": block_dark_steel_door, "count": 3 }
+}
