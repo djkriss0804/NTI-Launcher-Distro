@@ -1,0 +1,8 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "enderio:item_conduit_facade", "data": 1 },
+    { "type": "forge:ore_dict", "ore": "fusedGlass" }
+  ],
+  "result": { "item": "enderio:item_conduit_facade", "data": 3 }
+}
