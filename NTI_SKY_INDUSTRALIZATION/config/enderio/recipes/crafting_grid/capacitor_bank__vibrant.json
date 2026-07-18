@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": { "item": "enderio:block_cap_bank", "data": 2 },
+    "B": [
+      { "item": "enderio:item_basic_capacitor", "data": 2 },
+      { "item": "enderio:item_capacitor_vivid" }
+    ],
+    "C": { "type": "forge:ore_dict", "ore": "itemEnhancedMachineChassi" }
+  },
+  "result": { "item": "enderio:block_cap_bank", "data": 3 }
+}
