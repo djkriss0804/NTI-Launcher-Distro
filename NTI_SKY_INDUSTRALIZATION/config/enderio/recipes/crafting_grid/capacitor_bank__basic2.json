@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "key": {
+    "A": [
+      { "item": "enderio:item_basic_capacitor", "data": 0 },
+      { "item": "enderio:item_capacitor_silver" }
+    ],
+    "B": { "item": "enderio:item_power_conduit" },
+    "C": { "item": "newtechindustrial:energy_capacitor" }
+  },
+  "result": { "item": "enderio:block_cap_bank", "data": 1 }
+}
