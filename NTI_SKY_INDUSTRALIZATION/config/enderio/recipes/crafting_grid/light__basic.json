@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BCB"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "blockGlass" },
+    "B": [
+      { "type": "forge:ore_dict", "ore": "ingotConstructionAlloy" },
+      { "type": "forge:ore_dict", "ore": "ingotIron" }
+    ],
+    "C": { "type": "forge:ore_dict", "ore": "glowstone" }
+  },
+  "result": { "item": "enderio:block_electric_light", "data": 2 }
+}
