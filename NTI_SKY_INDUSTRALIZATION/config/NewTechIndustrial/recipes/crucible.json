@@ -1,0 +1,10 @@
+{
+  "heat_sources": {
+    "minecraft:blaze_powder": 5.0,
+    "minecraft:torch": 2.0
+  },
+  "melting": {
+    "minecraft:netherrack": 250,
+    "minecraft:cobblestone": 100
+  }
+}
