@@ -1,0 +1,17 @@
+{
+  "crook": {
+    "durability": 256,
+    "leavesSpeed": 6.0,
+    "extraDrops": [
+      { "item": "<minecraft:string:0>", "chance": 0.25 },
+      { "item": "<newtechindustrial:silkworm:0>", "chance": 0.10 }
+    ]
+  },
+  "silkworm": {
+    "enabled": true,
+    "consumeOnUse": true,
+    "stringMin": 2,
+    "stringMax": 5,
+    "extraSilkwormChance": 0.15
+  }
+}
