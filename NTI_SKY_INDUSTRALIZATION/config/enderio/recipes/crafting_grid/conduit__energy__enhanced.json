@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BBB",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemConduitBinder" },
+    "B": { "item": "newtechindustrial:signalum_wire" }
+  },
+  "result": { "item": "enderio:item_power_conduit", "data": 1, "count": 8 }
+}
