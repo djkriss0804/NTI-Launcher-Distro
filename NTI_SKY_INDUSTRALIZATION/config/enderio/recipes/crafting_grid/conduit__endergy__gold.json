@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BBB",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemConduitBinder" },
+    "B": { "item": "newtechindustrial:gold_wire" }
+  },
+  "result": { "item": "enderio:item_endergy_conduit", "data": 3, "count": 8 }
+}
