@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemConduitBinder" },
+    "B": { "type": "forge:ore_dict", "ore": "crystalPureFluix" },
+    "C": { "item": "appliedenergistics2:part", "data": 140 }
+  },
+  "result": { "item": "enderio:item_me_conduit", "data": 0, "count": 4 }
+}
