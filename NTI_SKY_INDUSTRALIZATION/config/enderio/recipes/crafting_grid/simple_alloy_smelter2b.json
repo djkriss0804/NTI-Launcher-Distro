@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EFE"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "plateIron" },
+    "B": { "item": "newtechindustrial:alloy_smelter" },
+    "C": { "type": "forge:ore_dict", "ore": "gearIronInfinity" },
+    "D": { "type": "forge:ore_dict", "ore": "itemSimpleMachineChassi" },
+    "E": { "item": "newtechindustrial:heating_coil" },
+    "F": { "item": "newtechindustrial:soc_advanced" }
+  },
+  "result": { "item": "enderio:block_simple_alloy_smelter" }
+}
