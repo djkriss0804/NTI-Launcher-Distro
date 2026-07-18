@@ -1,0 +1,26 @@
+[
+  {
+    "inputs": [
+      "minecraft:cobblestone"
+    ],
+    "outputId": "newtechindustrial:red_matter",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 1000000,
+    "ticks": 10000,
+    "fluidAmount": 0,
+    "multiplier": 0.01
+  },
+  {
+    "inputs": [
+      "newtechindustrial:dragon_soul"
+    ],
+    "outputId": "newtechindustrial:red_matter",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 500000,
+    "ticks": 5000,
+    "fluidAmount": 0,
+    "multiplier": 0.5
+  }
+]
