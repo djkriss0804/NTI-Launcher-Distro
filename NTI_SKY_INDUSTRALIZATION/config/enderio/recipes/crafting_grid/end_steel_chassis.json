@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": { "item": "enderio:block_end_iron_bars" },
+    "B": { "type": "forge:ore_dict", "ore": "ingotEndSteel" },
+    "C": { "type": "forge:ore_dict", "ore": "dustBedrock" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0 }
+}
