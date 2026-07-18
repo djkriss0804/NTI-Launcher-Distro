@@ -1,0 +1,40 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_93",
+  "energy": 3600,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "oreCoal",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "minecraft:coal",
+      "data": 0,
+      "count": 3,
+      "chance": 1.0
+    },
+    {
+      "item": "thermalfoundation:material",
+      "data": 768,
+      "count": 1,
+      "chance": 0.6
+    },
+    {
+      "item": "minecraft:diamond",
+      "data": 0,
+      "count": 1,
+      "chance": 0.001
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "data": 0,
+      "count": 1,
+      "chance": 0.15
+    }
+  ]
+}
