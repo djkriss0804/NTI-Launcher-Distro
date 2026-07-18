@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "socials": {
         "discord": "https://discord.gg/",
         "github": "https://github.com/",
@@ -19815,7 +19815,7 @@
                     }
                 },
                 {
-                    "id": "!mixinbooter-10.5.jar",
+                    "id": "local.mods:mixinbooter-105:1.0.0",
                     "name": "!mixinbooter-10.5.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19827,7 +19827,7 @@
                     }
                 },
                 {
-                    "id": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+                    "id": "local.mods:CoFHCore-1122-4661-universal:1.0.0",
                     "name": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19839,7 +19839,7 @@
                     }
                 },
                 {
-                    "id": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+                    "id": "local.mods:CoFHWorld-1122-1401-universal:1.0.0",
                     "name": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19851,7 +19851,7 @@
                     }
                 },
                 {
-                    "id": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+                    "id": "local.mods:CodeChickenLib-1122-323358-universal:1.0.0",
                     "name": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19863,7 +19863,7 @@
                     }
                 },
                 {
-                    "id": "Controlling-3.0.10.jar",
+                    "id": "local.mods:Controlling-3010:1.0.0",
                     "name": "Controlling-3.0.10.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19875,7 +19875,7 @@
                     }
                 },
                 {
-                    "id": "CraftTweaker2-1.12-4.1.20.702.jar",
+                    "id": "local.mods:CraftTweaker2-112-4120702:1.0.0",
                     "name": "CraftTweaker2-1.12-4.1.20.702.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19887,7 +19887,7 @@
                     }
                 },
                 {
-                    "id": "CrazyAE-v0.4.0.3-1994612.jar",
+                    "id": "local.mods:CrazyAE-v0403-1994612:1.0.0",
                     "name": "CrazyAE-v0.4.0.3-1994612.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19899,7 +19899,7 @@
                     }
                 },
                 {
-                    "id": "CustomLoadingScreen-1.12.2-1.5.7.jar",
+                    "id": "local.mods:CustomLoadingScreen-1122-157:1.0.0",
                     "name": "CustomLoadingScreen-1.12.2-1.5.7.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19911,7 +19911,7 @@
                     }
                 },
                 {
-                    "id": "CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+                    "id": "local.mods:CustomMainMenu-MC1122-2091:1.0.0",
                     "name": "CustomMainMenu-MC1.12.2-2.0.9.1.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19923,7 +19923,7 @@
                     }
                 },
                 {
-                    "id": "EnderCore-1.12.2-0.5.78.jar",
+                    "id": "local.mods:EnderCore-1122-0578:1.0.0",
                     "name": "EnderCore-1.12.2-0.5.78.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19935,7 +19935,7 @@
                     }
                 },
                 {
-                    "id": "EnderIO-1.12.2-5.3.72.jar",
+                    "id": "local.mods:EnderIO-1122-5372:1.0.0",
                     "name": "EnderIO-1.12.2-5.3.72.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19947,7 +19947,7 @@
                     }
                 },
                 {
-                    "id": "EnderIO-endergy-1.12.2-5.3.72.jar",
+                    "id": "local.mods:EnderIO-endergy-1122-5372:1.0.0",
                     "name": "EnderIO-endergy-1.12.2-5.3.72.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19959,7 +19959,7 @@
                     }
                 },
                 {
-                    "id": "EnderTweaker-1.12.2-1.2.3.jar",
+                    "id": "local.mods:EnderTweaker-1122-123:1.0.0",
                     "name": "EnderTweaker-1.12.2-1.2.3.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19971,7 +19971,7 @@
                     }
                 },
                 {
-                    "id": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+                    "id": "local.mods:ExtremeReactors-1122-04568:1.0.0",
                     "name": "ExtremeReactors-1.12.2-0.4.5.68.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19983,7 +19983,7 @@
                     }
                 },
                 {
-                    "id": "FTBLib-5.4.7.2.jar",
+                    "id": "local.mods:FTBLib-5472:1.0.0",
                     "name": "FTBLib-5.4.7.2.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -19995,7 +19995,7 @@
                     }
                 },
                 {
-                    "id": "FTBQuests-1202.9.0.15.jar",
+                    "id": "local.mods:FTBQuests-12029015:1.0.0",
                     "name": "FTBQuests-1202.9.0.15.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20007,7 +20007,7 @@
                     }
                 },
                 {
-                    "id": "Forgelin-1.8.4.jar",
+                    "id": "local.mods:Forgelin-184:1.0.0",
                     "name": "Forgelin-1.8.4.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20019,7 +20019,7 @@
                     }
                 },
                 {
-                    "id": "Hwyla-1.8.26-B41_1.12.2.jar",
+                    "id": "local.mods:Hwyla-1826-B41_1122:1.0.0",
                     "name": "Hwyla-1.8.26-B41_1.12.2.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20031,7 +20031,7 @@
                     }
                 },
                 {
-                    "id": "InventoryTweaks-1.63.jar",
+                    "id": "local.mods:InventoryTweaks-163:1.0.0",
                     "name": "InventoryTweaks-1.63.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20043,7 +20043,7 @@
                     }
                 },
                 {
-                    "id": "ItemBlacklist-1.4.3.jar",
+                    "id": "local.mods:ItemBlacklist-143:1.0.0",
                     "name": "ItemBlacklist-1.4.3.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20055,7 +20055,7 @@
                     }
                 },
                 {
-                    "id": "ItemFilters-1.0.4.2.jar",
+                    "id": "local.mods:ItemFilters-1042:1.0.0",
                     "name": "ItemFilters-1.0.4.2.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20067,7 +20067,7 @@
                     }
                 },
                 {
-                    "id": "JustEnoughReactors-1.12.2-1.1.3.61.jar",
+                    "id": "local.mods:JustEnoughReactors-1122-11361:1.0.0",
                     "name": "JustEnoughReactors-1.12.2-1.1.3.61.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20079,7 +20079,7 @@
                     }
                 },
                 {
-                    "id": "LagGoggles-1.12.2-5.9-140.jar",
+                    "id": "local.mods:LagGoggles-1122-59-140:1.0.0",
                     "name": "LagGoggles-1.12.2-5.9-140.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20091,7 +20091,7 @@
                     }
                 },
                 {
-                    "id": "MTLib-3.0.7.jar",
+                    "id": "local.mods:MTLib-307:1.0.0",
                     "name": "MTLib-3.0.7.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20103,7 +20103,7 @@
                     }
                 },
                 {
-                    "id": "Mantle-1.12-1.3.3.55.jar",
+                    "id": "local.mods:Mantle-112-13355:1.0.0",
                     "name": "Mantle-1.12-1.3.3.55.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20115,7 +20115,7 @@
                     }
                 },
                 {
-                    "id": "Mekanism-CE-Unofficial-All-NTI-Modpacks.jar",
+                    "id": "local.mods:Mekanism-CE-Unofficial-All-NTI-Modpacks:1.0.0",
                     "name": "Mekanism-CE-Unofficial-All-NTI-Modpacks.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20127,7 +20127,7 @@
                     }
                 },
                 {
-                    "id": "MouseTweaks-2.10-mc1.12.2.jar",
+                    "id": "local.mods:MouseTweaks-210-mc1122:1.0.0",
                     "name": "MouseTweaks-2.10-mc1.12.2.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20139,7 +20139,7 @@
                     }
                 },
                 {
-                    "id": "NewTechGenerators-2.5.0.jar",
+                    "id": "local.mods:NewTechGenerators-250:1.0.0",
                     "name": "NewTechGenerators-2.5.0.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20151,7 +20151,7 @@
                     }
                 },
                 {
-                    "id": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+                    "id": "local.mods:RedstoneFlux-112-2111-universal:1.0.0",
                     "name": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20163,7 +20163,7 @@
                     }
                 },
                 {
-                    "id": "ResourceLoader-MC1.12.1-1.5.3.jar",
+                    "id": "local.mods:ResourceLoader-MC1121-153:1.0.0",
                     "name": "ResourceLoader-MC1.12.1-1.5.3.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20175,7 +20175,7 @@
                     }
                 },
                 {
-                    "id": "TConstruct-1.12.2-2.13.0.183.jar",
+                    "id": "local.mods:TConstruct-1122-2130183:1.0.0",
                     "name": "TConstruct-1.12.2-2.13.0.183.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20187,7 +20187,7 @@
                     }
                 },
                 {
-                    "id": "ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
+                    "id": "local.mods:ThermalCultivation-1122-0361-universal:1.0.0",
                     "name": "ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20199,7 +20199,7 @@
                     }
                 },
                 {
-                    "id": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+                    "id": "local.mods:ThermalDynamics-1122-2561-universal:1.0.0",
                     "name": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20211,7 +20211,7 @@
                     }
                 },
                 {
-                    "id": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+                    "id": "local.mods:ThermalExpansion-1122-5571-universal:1.0.0",
                     "name": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20223,7 +20223,7 @@
                     }
                 },
                 {
-                    "id": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+                    "id": "local.mods:ThermalFoundation-1122-2671-universal:1.0.0",
                     "name": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20235,7 +20235,7 @@
                     }
                 },
                 {
-                    "id": "ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
+                    "id": "local.mods:ThermalInnovation-1122-0361-universal:1.0.0",
                     "name": "ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20247,7 +20247,7 @@
                     }
                 },
                 {
-                    "id": "TickCentral-3.2.jar",
+                    "id": "local.mods:TickCentral-32:1.0.0",
                     "name": "TickCentral-3.2.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20259,7 +20259,7 @@
                     }
                 },
                 {
-                    "id": "TinkersComplement-1.12.2-0.4.3.jar",
+                    "id": "local.mods:TinkersComplement-1122-043:1.0.0",
                     "name": "TinkersComplement-1.12.2-0.4.3.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20271,7 +20271,7 @@
                     }
                 },
                 {
-                    "id": "UniDict-1.12.2-3.0.10.jar",
+                    "id": "local.mods:UniDict-1122-3010:1.0.0",
                     "name": "UniDict-1.12.2-3.0.10.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20283,7 +20283,7 @@
                     }
                 },
                 {
-                    "id": "WanionLib-1.12.2-2.91.jar",
+                    "id": "local.mods:WanionLib-1122-291:1.0.0",
                     "name": "WanionLib-1.12.2-2.91.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20295,7 +20295,7 @@
                     }
                 },
                 {
-                    "id": "Wawla-1.12.2-2.6.275.jar",
+                    "id": "local.mods:Wawla-1122-26275:1.0.0",
                     "name": "Wawla-1.12.2-2.6.275.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20307,7 +20307,7 @@
                     }
                 },
                 {
-                    "id": "YABBA-1.1.2.54.jar",
+                    "id": "local.mods:YABBA-11254:1.0.0",
                     "name": "YABBA-1.1.2.54.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20319,7 +20319,7 @@
                     }
                 },
                 {
-                    "id": "ae2-uel-v0.56.7.jar",
+                    "id": "local.mods:ae2-uel-v0567:1.0.0",
                     "name": "ae2-uel-v0.56.7.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20331,7 +20331,7 @@
                     }
                 },
                 {
-                    "id": "ae2stuff-0.7.0.4-mc1.12.2.jar",
+                    "id": "local.mods:ae2stuff-0704-mc1122:1.0.0",
                     "name": "ae2stuff-0.7.0.4-mc1.12.2.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20343,7 +20343,7 @@
                     }
                 },
                 {
-                    "id": "bdlib-1.14.3.12-mc1.12.2.jar",
+                    "id": "local.mods:bdlib-114312-mc1122:1.0.0",
                     "name": "bdlib-1.14.3.12-mc1.12.2.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20355,7 +20355,7 @@
                     }
                 },
                 {
-                    "id": "buildcraft-compat-8.0.0.jar",
+                    "id": "local.mods:buildcraft-compat-800:1.0.0",
                     "name": "buildcraft-compat-8.0.0.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20367,7 +20367,7 @@
                     }
                 },
                 {
-                    "id": "buildcraft-core-8.0.0.jar",
+                    "id": "local.mods:buildcraft-core-800:1.0.0",
                     "name": "buildcraft-core-8.0.0.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20379,7 +20379,7 @@
                     }
                 },
                 {
-                    "id": "buildcraft-silicon-8.0.0.jar",
+                    "id": "local.mods:buildcraft-silicon-800:1.0.0",
                     "name": "buildcraft-silicon-8.0.0.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20391,7 +20391,7 @@
                     }
                 },
                 {
-                    "id": "extrautils2-1.12-1.9.9.jar",
+                    "id": "local.mods:extrautils2-112-199:1.0.0",
                     "name": "extrautils2-1.12-1.9.9.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20403,7 +20403,7 @@
                     }
                 },
                 {
-                    "id": "foamflower-1.12.2-1.0.0.0-beta1.jar",
+                    "id": "local.mods:foamflower-1122-1000-beta1:1.0.0",
                     "name": "foamflower-1.12.2-1.0.0.0-beta1.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20415,7 +20415,7 @@
                     }
                 },
                 {
-                    "id": "jei_1.12.2-4.16.1.1013.jar",
+                    "id": "local.mods:jei_1122-41611013:1.0.0",
                     "name": "jei_1.12.2-4.16.1.1013.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20427,7 +20427,7 @@
                     }
                 },
                 {
-                    "id": "ImmersiveEngineering-core-0.12-98.jar",
+                    "id": "local.mods:ImmersiveEngineering-core-012-98:1.0.0",
                     "name": "ImmersiveEngineering-core-0.12-98.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20439,7 +20439,7 @@
                     }
                 },
                 {
-                    "id": "ImmersiveEngineering-core-0.12-98.jar.meta",
+                    "id": "local.mods:ImmersiveEngineering-core-012-98meta:1.0.0",
                     "name": "ImmersiveEngineering-core-0.12-98.jar.meta",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20451,7 +20451,7 @@
                     }
                 },
                 {
-                    "id": "EnderCore-1.12.2-0.5.78-core.jar",
+                    "id": "local.mods:EnderCore-1122-0578-core:1.0.0",
                     "name": "EnderCore-1.12.2-0.5.78-core.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20463,7 +20463,7 @@
                     }
                 },
                 {
-                    "id": "EnderCore-1.12.2-0.5.78-core.jar.meta",
+                    "id": "local.mods:EnderCore-1122-0578-coremeta:1.0.0",
                     "name": "EnderCore-1.12.2-0.5.78-core.jar.meta",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20475,7 +20475,7 @@
                     }
                 },
                 {
-                    "id": "AutoConfig-1.12.2-1.0.2.jar",
+                    "id": "local.mods:AutoConfig-1122-102:1.0.0",
                     "name": "AutoConfig-1.12.2-1.0.2.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20487,7 +20487,7 @@
                     }
                 },
                 {
-                    "id": "AutoConfig-1.12.2-1.0.2.jar.meta",
+                    "id": "local.mods:AutoConfig-1122-102meta:1.0.0",
                     "name": "AutoConfig-1.12.2-1.0.2.jar.meta",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20499,7 +20499,7 @@
                     }
                 },
                 {
-                    "id": "AutoSave-1.12.2-1.0.11.jar",
+                    "id": "local.mods:AutoSave-1122-1011:1.0.0",
                     "name": "AutoSave-1.12.2-1.0.11.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20511,7 +20511,7 @@
                     }
                 },
                 {
-                    "id": "AutoSave-1.12.2-1.0.11.jar.meta",
+                    "id": "local.mods:AutoSave-1122-1011meta:1.0.0",
                     "name": "AutoSave-1.12.2-1.0.11.jar.meta",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20523,7 +20523,7 @@
                     }
                 },
                 {
-                    "id": "modtweaker-4.0.20.11.jar",
+                    "id": "local.mods:modtweaker-402011:1.0.0",
                     "name": "modtweaker-4.0.20.11.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20535,7 +20535,7 @@
                     }
                 },
                 {
-                    "id": "newtechindustrial-1.1.6.jar",
+                    "id": "local.mods:newtechindustrial-116:1.0.0",
                     "name": "newtechindustrial-1.1.6.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20547,7 +20547,7 @@
                     }
                 },
                 {
-                    "id": "p455w0rdslib-1.12.2-2.3.161.jar",
+                    "id": "local.mods:p455w0rdslib-1122-23161:1.0.0",
                     "name": "p455w0rdslib-1.12.2-2.3.161.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20559,7 +20559,7 @@
                     }
                 },
                 {
-                    "id": "reim-0.1.jar",
+                    "id": "local.mods:reim-01:1.0.0",
                     "name": "reim-0.1.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20571,7 +20571,7 @@
                     }
                 },
                 {
-                    "id": "skytechautosieve-1.0.1.jar",
+                    "id": "local.mods:skytechautosieve-101:1.0.0",
                     "name": "skytechautosieve-1.0.1.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20583,7 +20583,7 @@
                     }
                 },
                 {
-                    "id": "xaerolib-forge-1.12.2-1.1.0.jar",
+                    "id": "local.mods:xaerolib-forge-1122-110:1.0.0",
                     "name": "xaerolib-forge-1.12.2-1.1.0.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20595,7 +20595,7 @@
                     }
                 },
                 {
-                    "id": "xaerominimap-forge-1.12.2-25.3.13.jar",
+                    "id": "local.mods:xaerominimap-forge-1122-25313:1.0.0",
                     "name": "xaerominimap-forge-1.12.2-25.3.13.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20607,7 +20607,7 @@
                     }
                 },
                 {
-                    "id": "xptome-1.12.2-v2.0.1.jar",
+                    "id": "local.mods:xptome-1122-v201:1.0.0",
                     "name": "xptome-1.12.2-v2.0.1.jar",
                     "type": "ForgeMod",
                     "artifact": {
@@ -20619,7 +20619,7 @@
                     }
                 },
                 {
-                    "id": "zerocore-1.12.2-0.1.2.9.jar",
+                    "id": "local.mods:zerocore-1122-0129:1.0.0",
                     "name": "zerocore-1.12.2-0.1.2.9.jar",
                     "type": "ForgeMod",
                     "artifact": {
