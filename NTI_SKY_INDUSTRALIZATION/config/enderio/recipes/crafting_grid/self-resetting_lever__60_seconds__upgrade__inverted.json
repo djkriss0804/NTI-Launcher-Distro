@@ -1,0 +1,8 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "enderio:block_self_resetting_lever30i" },
+    { "type": "forge:ore_dict", "ore": "dustRedstone" }
+  ],
+  "result": { "item": "enderio:block_self_resetting_lever60i" }
+}
