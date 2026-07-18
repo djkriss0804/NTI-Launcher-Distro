@@ -1,0 +1,12 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:lever" },
+    { "type": "forge:ore_dict", "ore": "dustRedstone" },
+    { "type": "forge:ore_dict", "ore": "dustRedstone" },
+    { "type": "forge:ore_dict", "ore": "dustRedstone" },
+    { "type": "forge:ore_dict", "ore": "dustRedstone" },
+    { "type": "forge:ore_dict", "ore": "dustRedstone" }
+  ],
+  "result": { "item": "enderio:block_self_resetting_lever300" }
+}
