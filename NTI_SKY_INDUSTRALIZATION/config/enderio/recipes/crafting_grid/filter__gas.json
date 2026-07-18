@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "paper" },
+    "B": { "item": "mekanism:gastank" }
+  },
+  "result": { "item": "gasconduits:item_gas_filter" }
+}
