@@ -1,0 +1,999 @@
+{
+  "capacitors": [
+    {
+      "key": "enderio:block_impulse_hopper/use_item",
+      "base": 10,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_aversion_obelisk/intake",
+      "base": 640,
+      "scaler": "CUBIC"
+    },
+    {
+      "key": "enderio:block_niard/work",
+      "base": 400,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_axe/energy_intake",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_lava_generator/use",
+      "base": 2,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_slice_and_splice/intake",
+      "base": 160,
+      "scaler": "QUADRATIC"
+    },
+    {
+      "key": "enderio:block_wireless_charger/charge",
+      "base": 10000,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:item_dark_steel_crook/energy_buffer",
+      "base": 100000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_simple_crafter/buffer",
+      "base": 10000,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_power_monitor/use",
+      "base": 5,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:item_dark_steel_shears/energy_intake",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_machine_base/legacy_buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_zombie_generator/loss",
+      "base": 0,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:block_machine_base/legacy_efficiency",
+      "base": 1,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_combustion_generator/efficiency",
+      "base": 1,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_aversion_obelisk/range",
+      "base": 16,
+      "scaler": "RANGE"
+    },
+    {
+      "key": "enderio:block_impulse_hopper/use",
+      "base": 16,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_impulse_hopper/intake",
+      "base": 120,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_enhanced_alloy_smelter/use",
+      "base": 45,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_shield/energy_buffer",
+      "base": 100000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_inventory_charger_simple/energy_buffer",
+      "base": 100000,
+      "scaler": "idx(1)0:1:1.5:2.5:5"
+    },
+    {
+      "key": "enderio:item_inventory_charger_vibrant/energy_use",
+      "base": 5000,
+      "scaler": "idx(1)0:1:1.5:2.5:5"
+    },
+    {
+      "key": "enderio:item_dark_steel_pickaxe/energy_buffer",
+      "base": 100000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_inventory_charger_basic/energy_intake",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:5"
+    },
+    {
+      "key": "enderio:block_enhanced_combustion_generator/gen",
+      "base": 1,
+      "scaler": "CHEMICAL"
+    },
+    {
+      "key": "enderio:block_niard/intake",
+      "base": 400,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_staff_of_levity/energy_intake",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_fakeplayer_chance",
+      "base": 1,
+      "scaler": "idx(1)1:0.5"
+    },
+    {
+      "key": "enderio:block_sag_mill/use",
+      "base": 30,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_vanilla_chance_enderman",
+      "base": 50,
+      "scaler": "idx(1)1:2:3:4:5:6"
+    },
+    {
+      "key": "enderio:block_enhanced_wired_charger/intake",
+      "base": 20000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_crafter/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_simple_stirling_generator/loss",
+      "base": 10,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:block_enhanced_combustion_generator/loss",
+      "base": 0,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:item_dark_steel_shears/energy_buffer",
+      "base": 100000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_inventory_charger_basic/energy_buffer",
+      "base": 1000000,
+      "scaler": "idx(1)0:1:1.5:2.5:5"
+    },
+    {
+      "key": "enderio:block_wired_charger/intake",
+      "base": 10000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_empowered_chance",
+      "base": 20,
+      "scaler": "idx(1)1:2:3:4:5:6"
+    },
+    {
+      "key": "enderio:block_enhanced_vat/efficiency",
+      "base": 150,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:block_enhanced_alloy_smelter/buffer",
+      "base": 500000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_vanilla_chance",
+      "base": 50,
+      "scaler": "idx(1)1:2:3:4:5:6"
+    },
+    {
+      "key": "enderio:item_staff_of_levity/energy_use",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_dark_steel_crook/energy_intake",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_inventory_charger_simple/energy_use",
+      "base": 50,
+      "scaler": "idx(1)0:1:1.5:2.5:5"
+    },
+    {
+      "key": "enderio:item_dark_steel_crook/absorption",
+      "base": 1,
+      "scaler": "idx(1)0:0.5:0.6:0.7:0.85:0.95"
+    },
+    {
+      "key": "enderio:block_ender_generator/buffer",
+      "base": 500000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_enhanced_alloy_smelter/efficiency",
+      "base": 150,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_chance",
+      "base": 50,
+      "scaler": "idx(1)1:2:3:4:5:6"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_empowered_chance_wither",
+      "base": 5,
+      "scaler": "idx(1)1:2:3:4:5:6"
+    },
+    {
+      "key": "enderio:block_franken_zombie_generator/gen",
+      "base": 120,
+      "scaler": "CHEMICAL"
+    },
+    {
+      "key": "enderio:item_dark_steel_pickaxe/absorption",
+      "base": 1,
+      "scaler": "idx(1)0:0.5:0.6:0.7:0.85:0.95"
+    },
+    {
+      "key": "enderio:block_combustion_generator/send",
+      "base": 1280,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_staff_of_levity/energy_buffer",
+      "base": 100000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_transceiver/ratio",
+      "base": 1,
+      "scaler": "idx(1.0):0.75:0.5:0.15:0.025"
+    },
+    {
+      "key": "enderio:block_simple_crafter/intake",
+      "base": 30,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_chance_enderman",
+      "base": 50,
+      "scaler": "idx(1)1:2:3:4:5:6"
+    },
+    {
+      "key": "enderio:item_dark_steel_treetap/energy_use",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_wireless_charger/intake",
+      "base": 10000,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_slice_and_splice/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_sag_mill/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_chestplate/energy_intake",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_transceiver/buffer",
+      "base": 500000,
+      "scaler": "CUBIC_1_50"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_tier_chance",
+      "base": 1,
+      "scaler": "idx(1)0:1:1.1:1.2:1.3:1.4"
+    },
+    {
+      "key": "enderio:item_dark_steel_pickaxe/energy_use",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_sag_mill/intake",
+      "base": 120,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_impulse_hopper/speed",
+      "base": 1,
+      "scaler": "QUADRATIC"
+    },
+    {
+      "key": "enderio:block_simple_crafter/speed",
+      "base": 1,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/energy_intake",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_powered_spawner/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_enhanced_wired_charger/charge",
+      "base": 1,
+      "scaler": "CHARGE"
+    },
+    {
+      "key": "enderio:block_machine_base/no_power",
+      "base": 0,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_soul_binder/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_franken_zombie_generator/loss",
+      "base": 0,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:item_dark_steel_treetap/absorption",
+      "base": 1,
+      "scaler": "idx(1)0:0.5:0.6:0.7:0.85:0.95"
+    },
+    {
+      "key": "enderio:item_inventory_charger_vibrant/energy_buffer",
+      "base": 25000000,
+      "scaler": "idx(1)0:1:1.5:2.5:5"
+    },
+    {
+      "key": "enderio:block_enhanced_vat/buffer",
+      "base": 500000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_machine_base/legacy_use",
+      "base": 20,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_inventory_charger_vibrant/energy_intake",
+      "base": 25000,
+      "scaler": "idx(1)0:1:1.5:2.5:5"
+    },
+    {
+      "key": "enderio:item_dark_steel_bow/energy_intake",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_impulse_hopper/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_crafter/speed",
+      "base": 2,
+      "scaler": "QUADRATIC"
+    },
+    {
+      "key": "enderio:block_zombie_generator/gen",
+      "base": 80,
+      "scaler": "CHEMICAL"
+    },
+    {
+      "key": "enderio:item_dark_steel_pickaxe/energy_intake",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_ender_generator/gen",
+      "base": 360,
+      "scaler": "CHEMICAL"
+    },
+    {
+      "key": "enderio:block_powered_spawner/speed",
+      "base": 1,
+      "scaler": "QUADRATIC"
+    },
+    {
+      "key": "enderio:block_soul_binder/use",
+      "base": 500,
+      "scaler": "QUADRATIC"
+    },
+    {
+      "key": "enderio:item_inventory_charger/energy_use",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:5"
+    },
+    {
+      "key": "enderio:block_wired_charger/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_empowered_chance_enderman",
+      "base": 30,
+      "scaler": "idx(1)1:2:3:4:5:6"
+    },
+    {
+      "key": "enderio:block_crafter/use_craft",
+      "base": 10,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_transceiver/intake",
+      "base": 40960,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_enhanced_sag_mill/use",
+      "base": 45,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_inventory_charger_basic/energy_use",
+      "base": 200,
+      "scaler": "idx(1)0:1:1.5:2.5:5"
+    },
+    {
+      "key": "enderio:block_simple_stirling_generator/gen",
+      "base": 30,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_simple_sag_mill/buffer",
+      "base": 2000,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_enhanced_combustion_generator/buffer",
+      "base": 500000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_hand/absorption",
+      "base": 1,
+      "scaler": "idx(1)0:0.5:0.6:0.7:0.85:0.95"
+    },
+    {
+      "key": "enderio:block_farm_station/intake",
+      "base": 400,
+      "scaler": "RANGE"
+    },
+    {
+      "key": "enderio:item_dark_steel_axe/absorption",
+      "base": 1,
+      "scaler": "idx(1)0:0.5:0.6:0.7:0.85:0.95"
+    },
+    {
+      "key": "enderio:item_dark_steel_hand/energy_buffer",
+      "base": 100000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_dark_steel_shears/energy_use",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_enhanced_vat/double_op_chance",
+      "base": 1,
+      "scaler": "QUADRATIC"
+    },
+    {
+      "key": "enderio:block_aversion_obelisk/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_farm_station/boost",
+      "base": 100,
+      "scaler": "IDENTITY"
+    },
+    {
+      "key": "enderio:block_soul_binder/intake",
+      "base": 1000,
+      "scaler": "QUADRATIC"
+    },
+    {
+      "key": "enderio:block_crafter/intake",
+      "base": 120,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_niard/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_crook/energy_use",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_dark_steel_shears/absorption",
+      "base": 1,
+      "scaler": "idx(1)0:0.5:0.6:0.7:0.85:0.95"
+    },
+    {
+      "key": "enderio:block_simple_sag_mill/intake",
+      "base": 30,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/energy_buffer",
+      "base": 100000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_franken_zombie_generator/buffer",
+      "base": 200000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_shield/energy_intake",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_simple_crafter/use_craft",
+      "base": 15,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_simple_wired_charger/buffer",
+      "base": 2000,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_niard/delay",
+      "base": 1,
+      "scaler": "idx(1.0):40.0:20.0:10.0:2.0:1.0"
+    },
+    {
+      "key": "enderio:block_alloy_smelter/intake",
+      "base": 120,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_alloy_smelter/use",
+      "base": 30,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_enhanced_alloy_smelter/intake",
+      "base": 180,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_combustion_generator/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_combustion_generator/loss",
+      "base": 0,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:block_simple_wired_charger/intake",
+      "base": 120,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:item_dark_steel_chestplate/absorption",
+      "base": 1,
+      "scaler": "idx(1)0:0.5:0.6:0.7:0.85:0.95"
+    },
+    {
+      "key": "enderio:block_enhanced_combustion_generator/efficiency",
+      "base": 200,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:item_inventory_charger/energy_buffer",
+      "base": 5000000,
+      "scaler": "idx(1)0:1:1.5:2.5:5"
+    },
+    {
+      "key": "enderio:block_simple_alloy_smelter/loss",
+      "base": 5,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:block_simple_alloy_smelter/buffer",
+      "base": 2000,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_wired_charger/charge",
+      "base": 1,
+      "scaler": "CHARGE"
+    },
+    {
+      "key": "enderio:item_inventory_charger_simple/energy_intake",
+      "base": 200,
+      "scaler": "idx(1)0:1:1.5:2.5:5"
+    },
+    {
+      "key": "enderio:block_farm_station/use",
+      "base": 10,
+      "scaler": "RANGE"
+    },
+    {
+      "key": "enderio:item_dark_steel_treetap/energy_intake",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_simple_alloy_smelter/use",
+      "base": 15,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_soul_binder/pitch",
+      "base": 1,
+      "scaler": "IDENTITY"
+    },
+    {
+      "key": "enderio:block_vat/use",
+      "base": 30,
+      "scaler": "CHEMICAL"
+    },
+    {
+      "key": "enderio:block_zombie_generator/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_axe/energy_buffer",
+      "base": 100000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_dark_steel_hand/energy_use",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_power_monitor/buffer",
+      "base": 1000,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_simple_sag_mill/loss",
+      "base": 5,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:block_niard/range",
+      "base": 1,
+      "scaler": "idx(1.0):0.0:0.0:2.0:3.0:5.0:10.0:20.0:40.0:80.0:160.0:320.0"
+    },
+    {
+      "key": "enderio:block_farm_station/bonus_size",
+      "base": 2,
+      "scaler": "IDENTITY"
+    },
+    {
+      "key": "enderio:block_simple_alloy_smelter/intake",
+      "base": 30,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_simple_crafter/use",
+      "base": 2,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_lava_generator/gen",
+      "base": 20,
+      "scaler": "idx(1.0):0.0:1.0:1.1:1.3:1.6:2.0:2.5:3.1:3.8:4.6:5.5"
+    },
+    {
+      "key": "enderio:block_enhanced_sag_mill/intake",
+      "base": 180,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_bow/absorption",
+      "base": 1,
+      "scaler": "idx(1)0:0.5:0.6:0.7:0.85:0.95"
+    },
+    {
+      "key": "enderio:block_ender_generator/loss",
+      "base": 0,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:block_simple_wired_charger/loss",
+      "base": 5,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:block_lava_generator/loss",
+      "base": 0,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:block_niard/use",
+      "base": 5,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_axe/energy_use",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_beheading_chance_enderman",
+      "base": 750,
+      "scaler": "idx(1)0:1:2:3:4:5"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/absorption",
+      "base": 1,
+      "scaler": "idx(1)0:0.5:0.6:0.7:0.85:0.95"
+    },
+    {
+      "key": "enderio:block_enhanced_sag_mill/efficiency",
+      "base": 150,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_chance_wither",
+      "base": 10,
+      "scaler": "idx(1)1:2:3:4:5:6"
+    },
+    {
+      "key": "enderio:item_dark_steel_bow/energy_buffer",
+      "base": 100000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_enhanced_sag_mill/double_op_chance",
+      "base": 1,
+      "scaler": "QUADRATIC"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_fakeplayer_chance_wither",
+      "base": 1,
+      "scaler": "idx(1)1:0.5"
+    },
+    {
+      "key": "enderio:block_enhanced_combustion_generator/send",
+      "base": 1280,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_simple_wired_charger/use",
+      "base": 30,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:item_dark_steel_chestplate/energy_use",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_dark_steel_shield/absorption",
+      "base": 1,
+      "scaler": "idx(1)0:0.5:0.6:0.7:0.85:0.95"
+    },
+    {
+      "key": "enderio:block_enhanced_vat/intake",
+      "base": 180,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_farm_station/base_size",
+      "base": 1,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_powered_spawner/use",
+      "base": 160,
+      "scaler": "SPAWNER"
+    },
+    {
+      "key": "enderio:block_wireless_charger/buffer",
+      "base": 200000,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:item_dark_steel_bow/energy_use",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_dark_steel_hand/energy_intake",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_dark_steel_treetap/energy_buffer",
+      "base": 100000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_enhanced_alloy_smelter/double_op_chance",
+      "base": 1,
+      "scaler": "QUADRATIC"
+    },
+    {
+      "key": "enderio:block_stirling_generator/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_stirling_generator/efficiency",
+      "base": 80,
+      "scaler": "BURNTIME"
+    },
+    {
+      "key": "enderio:item_dark_steel_shield/energy_use",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:block_lava_generator/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_simple_sag_mill/use",
+      "base": 15,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_vat/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_vanilla_chance_wither",
+      "base": 0,
+      "scaler": "idx(1)1:2:3:4:5:6"
+    },
+    {
+      "key": "enderio:block_vat/intake",
+      "base": 120,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_combustion_generator/gen",
+      "base": 1,
+      "scaler": "CHEMICAL"
+    },
+    {
+      "key": "enderio:item_inventory_charger/energy_intake",
+      "base": 5000,
+      "scaler": "idx(1)0:1:1.5:2.5:5"
+    },
+    {
+      "key": "enderio:block_power_monitor/intake",
+      "base": 10,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_transceiver/use",
+      "base": 10,
+      "scaler": "QUADRATIC"
+    },
+    {
+      "key": "enderio:block_slice_and_splice/use",
+      "base": 80,
+      "scaler": "QUADRATIC"
+    },
+    {
+      "key": "enderio:block_farm_station/stacksize_limit",
+      "base": 16,
+      "scaler": "QUADRATIC"
+    },
+    {
+      "key": "enderio:block_stirling_generator/loss",
+      "base": 0,
+      "scaler": "CENT"
+    },
+    {
+      "key": "enderio:block_simple_stirling_generator/buffer",
+      "base": 2000,
+      "scaler": "FIXED"
+    },
+    {
+      "key": "enderio:block_enhanced_sag_mill/buffer",
+      "base": 500000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_farm_station/buffer",
+      "base": 250000,
+      "scaler": "RANGE"
+    },
+    {
+      "key": "enderio:block_alloy_smelter/buffer",
+      "base": 100000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_enhanced_wired_charger/buffer",
+      "base": 10000000,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_enhanced_vat/use",
+      "base": 45,
+      "scaler": "CHEMICAL"
+    },
+    {
+      "key": "enderio:block_aversion_obelisk/use",
+      "base": 80,
+      "scaler": "CUBIC_1_50"
+    },
+    {
+      "key": "enderio:block_powered_spawner/intake",
+      "base": 200,
+      "scaler": "SPAWNER"
+    },
+    {
+      "key": "enderio:item_dark_steel_chestplate/energy_buffer",
+      "base": 100000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/energy_use",
+      "base": 1000,
+      "scaler": "idx(1)0:1:1.5:2.5:10:25"
+    },
+    {
+      "key": "enderio:item_dark_steel_sword/head_fakeplayer_chance_enderman",
+      "base": 1,
+      "scaler": "idx(1)1:0.5"
+    },
+    {
+      "key": "enderio:block_stirling_generator/gen",
+      "base": 60,
+      "scaler": "DROPOFF"
+    },
+    {
+      "key": "enderio:block_machine_base/legacy_intake",
+      "base": 80,
+      "scaler": "POWER"
+    },
+    {
+      "key": "enderio:block_crafter/use",
+      "base": 1,
+      "scaler": "POWER"
+    }
+  ]
+}
