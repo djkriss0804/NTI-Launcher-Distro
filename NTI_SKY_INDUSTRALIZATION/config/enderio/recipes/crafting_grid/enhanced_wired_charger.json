@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "DAD"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotElectricalSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "ingotEndSteel" },
+    "C": { "type": "forge:ore_dict", "ore": "itemEnhancedMachineChassi" },
+    "D": { "type": "forge:ore_dict", "ore": "gearVibrant" }
+  },
+  "result": { "item": "enderio:block_enhanced_wired_charger" }
+}
