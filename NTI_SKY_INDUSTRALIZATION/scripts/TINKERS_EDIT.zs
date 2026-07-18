@@ -65,4 +65,3 @@ recipes.addShaped(<tconstruct:edible:5> * 2, [[<minecraft:slime_ball>, <minecraf
 recipes.addShaped(<tconstruct:edible:4> * 2, [[<minecraft:slime_ball>, <minecraft:slime_ball>, <minecraft:slime_ball>],[<minecraft:dye:14>, <minecraft:dye:14>, <minecraft:dye:14>], [<minecraft:slime_ball>, <minecraft:slime_ball>, <minecraft:slime_ball>]]);
 recipes.addShaped(<tconstruct:edible:2> * 2, [[<minecraft:slime_ball>, <minecraft:slime_ball>, <minecraft:slime_ball>],[<minecraft:dye:5>, <minecraft:dye:5>, <minecraft:dye:5>], [<minecraft:slime_ball>, <minecraft:slime_ball>, <minecraft:slime_ball>]]);
 recipes.addShaped(<tconstruct:edible:1> * 2, [[<minecraft:slime_ball>, <minecraft:slime_ball>, <minecraft:slime_ball>],[<minecraft:dye:6>, <minecraft:dye:6>, <minecraft:dye:6>], [<minecraft:slime_ball>, <minecraft:slime_ball>, <minecraft:slime_ball>]]);
- 

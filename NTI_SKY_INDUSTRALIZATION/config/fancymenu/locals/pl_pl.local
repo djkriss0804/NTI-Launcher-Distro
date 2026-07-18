@@ -234,4 +234,3 @@ helper.creator.custombutton.config.actiontype.opencustomgui.desc.value = Identyf
 helper.creator.items.button.delayappearance = Opóźnij pojawianie się objektu
 helper.creator.items.button.delayappearance.desc = Opóźnienie pojawiania się w sekundach [Obsługa wartości dziesiętnych]
 helper.creator.items.button.delayappearance.invalidvalue = §c§lNiewłaściwa Wartość!%n%%n%%n%To nie jest poprawna ilość sekund!%n%Może twoja wartość jest za długa. (..NIE BĄDŹ Z TEGO DUMNY!)%n%%n%Przykłady Wartości: 3, 2.0, 0.05, 0.8, 10.5
- 
