@@ -1,0 +1,28 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_45",
+  "energy": 800,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "minecraft:waterlily",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:item_material",
+      "data": 46,
+      "count": 3,
+      "chance": 0.15
+    },
+    {
+      "item": "enderio:item_material",
+      "data": 46,
+      "count": 3,
+      "chance": 0.1
+    }
+  ]
+}
