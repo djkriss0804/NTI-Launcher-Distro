@@ -1,0 +1,28 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_26",
+  "energy": 1200,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "minecraft:stone_slab:7",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "minecraft:quartz",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:quartz",
+      "data": 0,
+      "count": 1,
+      "chance": 0.25
+    }
+  ]
+}
