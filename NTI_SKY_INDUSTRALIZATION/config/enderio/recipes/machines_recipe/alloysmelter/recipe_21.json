@@ -1,0 +1,28 @@
+{
+  "machine": "alloysmelter",
+  "name": "alloysmelter_21",
+  "energy": 2000,
+  "experience": 0.25,
+  "inputs": [
+    {
+      "item": "ingotGold",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "ingotSilver",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "thermalfoundation:material",
+      "data": 161,
+      "count": 2,
+      "chance": 1.0
+    }
+  ]
+}
