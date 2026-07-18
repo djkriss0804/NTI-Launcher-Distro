@@ -1,0 +1,28 @@
+{
+  "machine": "alloysmelter",
+  "name": "alloysmelter_18",
+  "energy": 10000,
+  "experience": 0.5,
+  "inputs": [
+    {
+      "item": "dustRedstone",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "ingotIron",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:item_alloy_ingot",
+      "data": 4,
+      "count": 1,
+      "chance": 1.0
+    }
+  ]
+}
