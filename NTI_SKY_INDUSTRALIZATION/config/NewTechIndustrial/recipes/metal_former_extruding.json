@@ -1,0 +1,14 @@
+[
+  {
+    "inputs": [
+      "minecraft:stone"
+    ],
+    "outputId": "minecraft:cobblestone",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 100,
+    "ticks": 20,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  }
+]
