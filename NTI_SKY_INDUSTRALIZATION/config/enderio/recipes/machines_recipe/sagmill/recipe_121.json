@@ -1,0 +1,40 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_121",
+  "energy": 2000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "oreClathrateOilShale",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "thermalfoundation:material",
+      "data": 892,
+      "count": 2,
+      "chance": 1.0
+    },
+    {
+      "item": "thermalfoundation:material",
+      "data": 892,
+      "count": 2,
+      "chance": 0.25
+    },
+    {
+      "item": "minecraft:flint",
+      "data": 0,
+      "count": 1,
+      "chance": 0.15
+    },
+    {
+      "item": "minecraft:gravel",
+      "data": 0,
+      "count": 1,
+      "chance": 0.15
+    }
+  ]
+}
