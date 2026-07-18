@@ -1,0 +1,12 @@
+{
+  "type": "enderio:upgrade_shaped",
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "key": {
+    "A": { "item": "enderio:block_painted_pressure_plate", "data": 2 },
+    "B": { "item": "minecraft:wool" }
+  },
+  "result": { "item": "enderio:block_painted_pressure_plate", "data": 3 }
+}
