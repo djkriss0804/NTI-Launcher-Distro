@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    " B ",
+    " C "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotStellarAlloy" },
+    "B": { "type": "forge:ore_dict", "ore": "skullSentientEnder" },
+    "C": { "type": "forge:ore_dict", "ore": "itemInfinityRod" }
+  },
+  "result": { "item": "enderio:item_stellar_alloy_pickaxe" }
+}
