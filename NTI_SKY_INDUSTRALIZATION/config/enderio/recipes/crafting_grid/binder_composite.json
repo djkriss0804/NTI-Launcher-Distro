@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "CAC",
+    "ABA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "gravel" },
+    "B": { "type": "forge:ore_dict", "ore": "itemClay" },
+    "C": { "type": "forge:ore_dict", "ore": "sand" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0, "count": 8 }
+}
