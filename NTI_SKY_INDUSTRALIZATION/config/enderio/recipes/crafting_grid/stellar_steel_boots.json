@@ -1,0 +1,12 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "A A"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotStellarAlloy" },
+    "B": { "type": "forge:ore_dict", "ore": "skullSentientEnder" }
+  },
+  "result": { "item": "enderio:item_stellar_alloy_boots" }
+}
