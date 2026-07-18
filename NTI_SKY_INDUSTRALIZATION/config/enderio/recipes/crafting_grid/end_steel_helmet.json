@@ -1,0 +1,12 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "ABA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotEndSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "skullGuardianDiode" }
+  },
+  "result": { "item": "enderio:item_end_steel_helmet" }
+}
