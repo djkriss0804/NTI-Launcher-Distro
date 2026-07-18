@@ -1,0 +1,20 @@
+{
+  "machine": "enchanter",
+  "name": "enchanter_25",
+  "energy": 0,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "minecraft:netherrack",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0,
+      "multiplier": 1.0,
+      "slot": -1
+    }
+  ],
+  "enchantment": "minecraft:flame",
+  "cost_multiplier": 1.0,
+  "is_filling": false,
+  "exp": 0
+}
