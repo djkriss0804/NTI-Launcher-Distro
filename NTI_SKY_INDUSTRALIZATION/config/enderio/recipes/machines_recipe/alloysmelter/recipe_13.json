@@ -1,0 +1,34 @@
+{
+  "machine": "alloysmelter",
+  "name": "alloysmelter_13",
+  "energy": 5000,
+  "experience": 0.5,
+  "inputs": [
+    {
+      "item": "enderio:block_fused_glass",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:quartz",
+      "data": 0,
+      "count": 2,
+      "chance": 1.0
+    },
+    {
+      "item": "appliedenergistics2:material:2",
+      "data": 0,
+      "count": 2,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:block_fused_quartz",
+      "data": 0,
+      "count": 3,
+      "chance": 1.0
+    }
+  ]
+}
