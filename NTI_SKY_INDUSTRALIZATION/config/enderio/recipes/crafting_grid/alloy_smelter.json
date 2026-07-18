@@ -1,0 +1,18 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "A A",
+    "BCB",
+    "DDD"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "gearEnergized" },
+    "B": { "item": "enderio:block_simple_furnace" },
+    "C": { "type": "forge:ore_dict", "ore": "itemMachineChassi" },
+    "D": [
+      { "item": "enderio:item_basic_capacitor", "data": 1 },
+      { "item": "enderio:item_capacitor_energetic_silver" }
+    ]
+  },
+  "result": { "item": "enderio:block_alloy_smelter" }
+}
