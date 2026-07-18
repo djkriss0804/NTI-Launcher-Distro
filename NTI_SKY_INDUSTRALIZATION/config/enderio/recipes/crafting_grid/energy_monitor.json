@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ADA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotElectricalSteel" },
+    "B": { "item": "enderio:item_conduit_probe", "data": 0 },
+    "C": { "type": "forge:ore_dict", "ore": "itemMachineChassi" },
+    "D": { "item": "enderio:item_power_conduit", "data": 0 }
+  },
+  "result": { "item": "enderio:block_power_monitor" }
+}
