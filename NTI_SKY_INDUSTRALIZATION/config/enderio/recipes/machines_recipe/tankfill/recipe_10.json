@@ -1,0 +1,36 @@
+{
+  "machine": "tankfill",
+  "name": "tankfill_10",
+  "energy": 0,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "minecraft:concrete_powder:3",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0,
+      "multiplier": 1.0,
+      "slot": -1
+    }
+  ],
+  "outputs": [
+    {
+      "item": "minecraft:concrete:3",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0,
+      "multiplier": 1.0,
+      "slot": -1
+    }
+  ],
+  "fluid_inputs": [
+    {
+      "fluid": "water",
+      "amount": 1000
+    }
+  ],
+  "cost_multiplier": 0.0,
+  "is_filling": true,
+  "logic": "NONE",
+  "exp": 0
+}
