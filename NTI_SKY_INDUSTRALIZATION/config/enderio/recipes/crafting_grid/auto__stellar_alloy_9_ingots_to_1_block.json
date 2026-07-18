@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "type": "forge:ore_dict", "ore": "ingotStellarAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotStellarAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotStellarAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotStellarAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotStellarAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotStellarAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotStellarAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotStellarAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotStellarAlloy" }
+  ],
+  "result": { "item": "enderio:block_alloy_endergy", "data": 3 }
+}
