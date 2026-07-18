@@ -1,0 +1,9 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "type": "forge:ore_dict", "ore": "dustLapis" },
+    { "type": "forge:ore_dict", "ore": "dustCoal" },
+    { "type": "forge:ore_dict", "ore": "itemSilicon" }
+  ],
+  "result": { "item": "minecraft:stone", "data": 0 }
+}
