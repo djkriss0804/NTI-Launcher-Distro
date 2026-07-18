@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemEnhancedChassiParts" },
+    "B": { "type": "forge:ore_dict", "ore": "itemInfinityGoop" },
+    "C": { "item": "newtechindustrial:crystal_magenta" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0 }
+}
