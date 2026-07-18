@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "dustBedrock" },
+    "B": { "item": "enderio:block_dark_iron_bars" },
+    "C": { "type": "forge:ore_dict", "ore": "obsidian" }
+  },
+  "result": { "item": "enderio:block_reinforced_obsidian" }
+}
