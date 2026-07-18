@@ -1,0 +1,26 @@
+{
+  "machine": "tankempty",
+  "name": "tankempty_0",
+  "energy": 0,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "minecraft:experience_bottle",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0,
+      "multiplier": 1.0,
+      "slot": -1
+    }
+  ],
+  "fluid_inputs": [
+    {
+      "fluid": "xpjuice",
+      "amount": 1
+    }
+  ],
+  "cost_multiplier": 0.0,
+  "is_filling": false,
+  "logic": "XPBOTTLE",
+  "exp": 0
+}
