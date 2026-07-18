@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "type": "forge:ore_dict", "ore": "ingotCrudeSteel" },
+    { "type": "forge:ore_dict", "ore": "ingotCrudeSteel" },
+    { "type": "forge:ore_dict", "ore": "ingotCrudeSteel" },
+    { "type": "forge:ore_dict", "ore": "ingotCrudeSteel" },
+    { "type": "forge:ore_dict", "ore": "ingotCrudeSteel" },
+    { "type": "forge:ore_dict", "ore": "ingotCrudeSteel" },
+    { "type": "forge:ore_dict", "ore": "ingotCrudeSteel" },
+    { "type": "forge:ore_dict", "ore": "ingotCrudeSteel" },
+    { "type": "forge:ore_dict", "ore": "ingotCrudeSteel" }
+  ],
+  "result": { "item": "enderio:block_alloy_endergy", "data": 0 }
+}
