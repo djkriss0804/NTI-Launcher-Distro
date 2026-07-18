@@ -1,0 +1,34 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_157",
+  "energy": 5000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "itemClayedGlowstone",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:block_holier_fog",
+      "data": 0,
+      "count": 1,
+      "chance": 0.8
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "data": 0,
+      "count": 1,
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:clay_ball",
+      "data": 0,
+      "count": 1,
+      "chance": 0.1
+    }
+  ]
+}
