@@ -1,0 +1,28 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_43",
+  "energy": 600,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "ore": "vine",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:item_material",
+      "data": 46,
+      "count": 1,
+      "chance": 0.15
+    },
+    {
+      "item": "enderio:item_material",
+      "data": 46,
+      "count": 1,
+      "chance": 0.1
+    }
+  ]
+}
