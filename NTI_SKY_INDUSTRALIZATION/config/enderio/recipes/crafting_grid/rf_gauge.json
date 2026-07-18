@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "A A",
+    "BCB",
+    "A A"
+  ],
+  "key": {
+    "A": [
+      { "type": "forge:ore_dict", "ore": "ingotConstructionAlloy" },
+      { "type": "forge:ore_dict", "ore": "ingotIron" }
+    ],
+    "B": { "type": "forge:ore_dict", "ore": "ingotElectricalSteel" },
+    "C": { "item": "enderio:item_conduit_probe", "data": 0 }
+  },
+  "result": { "item": "enderio:block_gauge" }
+}
