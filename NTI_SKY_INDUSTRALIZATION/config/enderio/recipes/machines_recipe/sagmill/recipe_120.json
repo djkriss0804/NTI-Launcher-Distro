@@ -1,0 +1,40 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_120",
+  "energy": 2000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "thermalfoundation:ore_fluid:5",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "thermalfoundation:material",
+      "data": 892,
+      "count": 2,
+      "chance": 1.0
+    },
+    {
+      "item": "thermalfoundation:material",
+      "data": 892,
+      "count": 2,
+      "chance": 0.25
+    },
+    {
+      "item": "thermalfoundation:material",
+      "data": 833,
+      "count": 1,
+      "chance": 0.15
+    },
+    {
+      "item": "minecraft:sand",
+      "data": 1,
+      "count": 1,
+      "chance": 0.15
+    }
+  ]
+}
