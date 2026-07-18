@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "BBB"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotEndSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "fusedQuartz" },
+    "C": { "type": "forge:ore_dict", "ore": "skullEnderResonator" }
+  },
+  "result": { "item": "enderio:block_ender_generator" }
+}
