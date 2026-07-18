@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "key": {
+    "A": { "item": "enderio:item_alloy_ingot", "data": 5 },
+    "B": { "item": "thermalfoundation:material", "data": 354 },
+    "C": { "item": "newtechindustrial:energy_transformer_core" }
+  },
+  "result": { "item": "enderio:item_basic_capacitor", "data": 0 }
+}
