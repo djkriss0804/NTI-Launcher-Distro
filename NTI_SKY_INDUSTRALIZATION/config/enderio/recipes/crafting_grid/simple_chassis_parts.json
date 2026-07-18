@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "plateIron" },
+    "B": { "type": "forge:ore_dict", "ore": "barsIron" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0, "count": 16 }
+}
