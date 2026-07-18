@@ -1,0 +1,18 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "key": {
+    "A": [
+      { "type": "forge:ore_dict", "ore": "ingotConstructionAlloy" },
+      { "type": "forge:ore_dict", "ore": "ingotIron" }
+    ],
+    "B": { "item": "enderio:block_simple_alloy_smelter" },
+    "C": { "item": "minecraft:redstone" },
+    "D": { "type": "forge:ore_dict", "ore": "ingotOsmium" }
+  },
+  "result": { "item": "mekanism:machineblock", "data": 8 }
+}
