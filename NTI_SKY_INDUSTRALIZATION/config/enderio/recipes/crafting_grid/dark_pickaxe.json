@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    " B ",
+    " B "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotDarkSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "stickWood" }
+  },
+  "result": { "item": "enderio:item_dark_steel_pickaxe" }
+}
