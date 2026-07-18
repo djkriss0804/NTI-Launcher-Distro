@@ -1,0 +1,8 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "enderio:block_self_resetting_lever60i" },
+    { "item": "minecraft:redstone_torch" }
+  ],
+  "result": { "item": "enderio:block_self_resetting_lever60" }
+}
