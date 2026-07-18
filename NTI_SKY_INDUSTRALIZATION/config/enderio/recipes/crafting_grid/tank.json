@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": [
+      { "type": "forge:ore_dict", "ore": "ingotConstructionAlloy" },
+      { "type": "forge:ore_dict", "ore": "ingotIron" }
+    ],
+    "B": { "type": "forge:ore_dict", "ore": "barsIron" },
+    "C": { "type": "forge:ore_dict", "ore": "blockGlass" }
+  },
+  "result": { "item": "enderio:block_tank", "data": 0 }
+}
