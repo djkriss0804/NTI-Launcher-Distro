@@ -1,0 +1,22 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_66",
+  "energy": 3600,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "blockGraphite",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "newtechindustrial:dustgraphite",
+      "data": 0,
+      "count": 9,
+      "chance": 1.0
+    }
+  ]
+}
