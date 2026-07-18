@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": [
+      { "type": "forge:ore_dict", "ore": "paper" },
+      { "type": "forge:ore_dict", "ore": " paperBlack" }
+    ],
+    "B": { "item": "enderio:item_conduit_probe", "data": 0 }
+  },
+  "result": { "item": "enderio:item_power_item_filter" }
+}
