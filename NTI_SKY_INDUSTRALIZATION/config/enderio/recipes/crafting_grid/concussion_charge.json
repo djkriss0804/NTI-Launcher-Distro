@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "DDD"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemEnderFragment" },
+    "B": { "type": "forge:ore_dict", "ore": "sand" },
+    "C": { "type": "forge:ore_dict", "ore": "gunpowder" },
+    "D": { "type": "forge:ore_dict", "ore": "itemConfusingDust" }
+  },
+  "result": { "item": "enderio:block_concussion_charge" }
+}
