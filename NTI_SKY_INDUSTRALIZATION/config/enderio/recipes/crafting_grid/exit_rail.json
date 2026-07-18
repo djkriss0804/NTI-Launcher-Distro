@@ -1,0 +1,18 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ADA"
+  ],
+  "key": {
+    "A": [
+      { "type": "forge:ore_dict", "ore": "ingotConstructionAlloy" },
+      { "type": "forge:ore_dict", "ore": "ingotIron" }
+    ],
+    "B": { "item": "minecraft:piston" },
+    "C": { "item": "minecraft:stone_pressure_plate" },
+    "D": { "type": "forge:ore_dict", "ore": "dustRedstone" }
+  },
+  "result": { "item": "enderio:block_exit_rail", "count": 6 }
+}
