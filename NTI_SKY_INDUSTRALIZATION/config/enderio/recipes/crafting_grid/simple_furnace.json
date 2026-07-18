@@ -1,0 +1,20 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "DEF"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "plateIron" },
+    "B": { "item": "minecraft:furnace" },
+    "C": { "type": "forge:ore_dict", "ore": "itemSimpleMachineChassi" },
+    "D": { "item": "enderio:item_endergy_conduit", "data": 4 },
+    "E": [
+      { "item": "enderio:item_basic_capacitor", "data": 0 },
+      { "item": "enderio:item_capacitor_silver" }
+    ],
+    "F": { "item": "enderio:item_item_conduit" }
+  },
+  "result": { "item": "enderio:block_simple_furnace" }
+}
