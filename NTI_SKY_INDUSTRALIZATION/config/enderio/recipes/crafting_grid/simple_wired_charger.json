@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "cobblestone" },
+    "B": { "type": "forge:ore_dict", "ore": "ingotElectricalSteel" },
+    "C": { "type": "forge:ore_dict", "ore": "itemSimpleMachineChassi" }
+  },
+  "result": { "item": "enderio:block_simple_wired_charger" }
+}
