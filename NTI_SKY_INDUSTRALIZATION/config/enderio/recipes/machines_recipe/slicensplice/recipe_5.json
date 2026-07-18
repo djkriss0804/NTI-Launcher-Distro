@@ -1,0 +1,52 @@
+{
+  "machine": "slicensplice",
+  "name": "slicensplice_5",
+  "energy": 20000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "ingotEnergeticAlloy",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "gemPrismarine",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "ingotEnergeticAlloy",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "dustPrismarine",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "CAPACITOR1",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "dustPrismarine",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:item_material",
+      "data": 56,
+      "count": 1,
+      "chance": 1.0
+    }
+  ]
+}
