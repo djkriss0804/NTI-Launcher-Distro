@@ -1,0 +1,40 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_35",
+  "energy": 900,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "minecraft:red_flower:6",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "minecraft:dye",
+      "data": 7,
+      "count": 1,
+      "chance": 0.8
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 7,
+      "count": 1,
+      "chance": 0.6
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 7,
+      "count": 1,
+      "chance": 0.3
+    },
+    {
+      "item": "enderio:item_material",
+      "data": 46,
+      "count": 1,
+      "chance": 0.1
+    }
+  ]
+}
