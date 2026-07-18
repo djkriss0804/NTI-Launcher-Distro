@@ -1,0 +1,34 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_14",
+  "energy": 2400,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "ore": "sandstone",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "minecraft:sand",
+      "data": 0,
+      "count": 2,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:sand",
+      "data": 0,
+      "count": 2,
+      "chance": 0.4
+    },
+    {
+      "item": "thermalfoundation:material",
+      "data": 772,
+      "count": 1,
+      "chance": 0.15
+    }
+  ]
+}
