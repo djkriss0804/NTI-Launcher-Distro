@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "CDE",
+    "AFA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotSoularium" },
+    "B": { "item": "enderio:block_enderman_skull", "data": 0 },
+    "C": { "item": "minecraft:skull", "data": 4 },
+    "D": { "type": "forge:ore_dict", "ore": "itemSoulMachineChassi" },
+    "E": { "item": "minecraft:skull", "data": 2 },
+    "F": { "item": "minecraft:skull", "data": 0 }
+  },
+  "result": { "item": "enderio:block_soul_binder" }
+}
