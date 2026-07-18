@@ -1,0 +1,10 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotSoularium" }
+  },
+  "result": { "item": "enderio:block_painted_pressure_plate", "data": 10 }
+}
