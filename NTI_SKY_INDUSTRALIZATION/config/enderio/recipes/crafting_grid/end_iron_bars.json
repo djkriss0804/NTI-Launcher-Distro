@@ -1,0 +1,11 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotEndSteel" }
+  },
+  "result": { "item": "enderio:block_end_iron_bars", "count": 16 }
+}
