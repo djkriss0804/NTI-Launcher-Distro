@@ -1,0 +1,34 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_100",
+  "energy": 3600,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "oreChargedCertusQuartz",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "appliedenergistics2:material",
+      "data": 1,
+      "count": 2,
+      "chance": 1.0
+    },
+    {
+      "item": "appliedenergistics2:material",
+      "data": 2,
+      "count": 1,
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "data": 0,
+      "count": 1,
+      "chance": 0.15
+    }
+  ]
+}
