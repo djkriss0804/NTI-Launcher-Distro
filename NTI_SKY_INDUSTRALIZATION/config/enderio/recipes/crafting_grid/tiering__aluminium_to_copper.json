@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "   ",
+    "AAA",
+    " B "
+  ],
+  "key": {
+    "A": { "item": "enderio:item_endergy_conduit", "data": 2 },
+    "B": { "item": "thermalfoundation:material", "data": 128 }
+  },
+  "result": { "item": "enderio:item_endergy_conduit", "data": 4, "count": 2 }
+}
