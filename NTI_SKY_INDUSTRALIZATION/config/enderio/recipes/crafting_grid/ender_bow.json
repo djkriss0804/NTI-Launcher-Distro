@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " AB",
+    "C B",
+    " AB"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemInfinityRod" },
+    "B": { "type": "forge:ore_dict", "ore": "string" },
+    "C": { "type": "forge:ore_dict", "ore": "skullSkeletalContractor" }
+  },
+  "result": { "item": "enderio:item_end_steel_bow" }
+}
