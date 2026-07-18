@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "   "
+  ],
+  "key": {
+    "A": { "item": "enderio:item_capacitor_melodic" },
+    "B": { "type": "forge:ore_dict", "ore": "fusedQuartz" },
+    "C": { "type": "forge:ore_dict", "ore": "itemPlatePhotovoltaic" },
+    "D": { "item": "enderio:block_solar_panel", "data": 4 }
+  },
+  "result": { "item": "enderio:block_solar_panel", "data": 5 }
+}
