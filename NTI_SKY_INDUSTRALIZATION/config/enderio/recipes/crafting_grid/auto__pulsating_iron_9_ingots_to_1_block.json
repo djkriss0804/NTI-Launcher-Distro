@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "type": "forge:ore_dict", "ore": "ingotPulsatingIron" },
+    { "type": "forge:ore_dict", "ore": "ingotPulsatingIron" },
+    { "type": "forge:ore_dict", "ore": "ingotPulsatingIron" },
+    { "type": "forge:ore_dict", "ore": "ingotPulsatingIron" },
+    { "type": "forge:ore_dict", "ore": "ingotPulsatingIron" },
+    { "type": "forge:ore_dict", "ore": "ingotPulsatingIron" },
+    { "type": "forge:ore_dict", "ore": "ingotPulsatingIron" },
+    { "type": "forge:ore_dict", "ore": "ingotPulsatingIron" },
+    { "type": "forge:ore_dict", "ore": "ingotPulsatingIron" }
+  ],
+  "result": { "item": "enderio:block_alloy", "data": 5 }
+}
