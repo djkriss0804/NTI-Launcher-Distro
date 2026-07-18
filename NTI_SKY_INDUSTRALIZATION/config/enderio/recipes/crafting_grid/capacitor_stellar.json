@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotStellarAlloy" },
+    "B": { "item": "enderio:item_capacitor_melodic" },
+    "C": { "item": "buildcraftsilicon:redstone_chipset", "data": 3 }
+  },
+  "result": { "item": "enderio:item_capacitor_stellar" }
+}
