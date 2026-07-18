@@ -1,0 +1,12 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "nuggetEnderpearl" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0 }
+}
