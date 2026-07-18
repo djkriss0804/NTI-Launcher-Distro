@@ -1,0 +1,7 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "type": "forge:ore_dict", "ore": "blockEnergeticSilver" }
+  ],
+  "result": { "item": "enderio:item_alloy_endergy_ingot", "data": 5, "count": 9 }
+}
