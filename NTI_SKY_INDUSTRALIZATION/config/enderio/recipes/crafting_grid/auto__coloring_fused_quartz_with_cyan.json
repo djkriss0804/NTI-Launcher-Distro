@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BAA",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "fusedQuartz" },
+    "B": { "type": "forge:ore_dict", "ore": "dyeCyan" }
+  },
+  "result": { "item": "enderio:block_fused_quartz", "data": 9, "count": 8 }
+}
