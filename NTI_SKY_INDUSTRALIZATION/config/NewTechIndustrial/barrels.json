@@ -1,0 +1,12 @@
+{
+  "compost": {
+    "inputs": [ "<minecraft:sapling:*>", "<minecraft:leaves:*>" ],
+    "output": "<minecraft:dirt:0>",
+    "itemsRequired": 8,
+    "processTicks": 600
+  },
+  "fluidTransforms": [
+    { "fluid": "water", "inputItem": "<minecraft:sand:0>", "outputItem": "<minecraft:clay:0>", "consumeMb": 1000 },
+    { "fluid": "lava", "inputItem": "<minecraft:redstone:0>", "outputItem": "<minecraft:netherrack:0>", "consumeMb": 1000 }
+  ]
+}
