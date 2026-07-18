@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "BBB"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotSoularium" },
+    "B": { "type": "forge:ore_dict", "ore": "fusedQuartz" },
+    "C": { "type": "forge:ore_dict", "ore": "skullZombieFrankenstein" }
+  },
+  "result": { "item": "enderio:block_franken_zombie_generator" }
+}
