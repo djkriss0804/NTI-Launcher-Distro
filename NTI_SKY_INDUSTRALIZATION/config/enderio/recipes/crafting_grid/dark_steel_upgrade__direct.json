@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ADA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "nuggetVibrantAlloy" },
+    "B": { "type": "forge:ore_dict", "ore": "ingotVibrantAlloy" },
+    "C": { "type": "forge:ore_dict", "ore": "enderpearl" },
+    "D": { "item": "enderio:item_dark_steel_upgrade", "data": 0 }
+  },
+  "result": { "item": "enderio:item_dark_steel_upgrade", "data": 1 }
+}
