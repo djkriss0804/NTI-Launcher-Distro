@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " AB",
+    "ACA",
+    "BA "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "nuggetDarkSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "dustBedrock" },
+    "C": { "type": "forge:ore_dict", "ore": "stickWood" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0 }
+}
