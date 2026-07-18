@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemPulsatingCrystal" },
+    "B": { "type": "forge:ore_dict", "ore": "itemVibrantCrystal" },
+    "C": { "type": "forge:ore_dict", "ore": "itemEnderCrystal" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0 }
+}
