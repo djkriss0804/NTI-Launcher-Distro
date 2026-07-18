@@ -1,0 +1,20 @@
+{
+  "machine": "enchanter",
+  "name": "enchanter_4",
+  "energy": 0,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "minecraft:feather",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0,
+      "multiplier": 1.0,
+      "slot": -1
+    }
+  ],
+  "enchantment": "minecraft:feather_falling",
+  "cost_multiplier": 1.0,
+  "is_filling": false,
+  "exp": 0
+}
