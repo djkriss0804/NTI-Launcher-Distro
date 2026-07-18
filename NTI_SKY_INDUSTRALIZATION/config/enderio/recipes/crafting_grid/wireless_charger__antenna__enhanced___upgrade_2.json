@@ -1,0 +1,17 @@
+{
+  "type": "enderio:upgrade_shaped",
+  "pattern": [
+    " A ",
+    " B ",
+    " C "
+  ],
+  "key": {
+    "A": { "item": "enderio:block_normal_wireless_charger" },
+    "B": { "type": "forge:ore_dict", "ore": "itemEnhancedMachineChassi" },
+    "C": [
+      { "item": "enderio:item_basic_capacitor", "data": 2 },
+      { "item": "enderio:item_capacitor_vivid" }
+    ]
+  },
+  "result": { "item": "enderio:block_enhanced_wireless_charger" }
+}
