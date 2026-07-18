@@ -1,0 +1,63 @@
+{
+  "machine": "vat",
+  "name": "vat_7",
+  "energy": 10000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "dustSalt",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "dustSilver",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "itemClay",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:clay",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:snowball",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:snow",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:packed_ice",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [],
+  "fluid_inputs": [
+    {
+      "fluid": "water",
+      "amount": 1000
+    }
+  ],
+  "fluid_outputs": [
+    {
+      "fluid": "cloud_seed",
+      "amount": 2000
+    }
+  ]
+}
