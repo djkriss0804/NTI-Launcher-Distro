@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "DED"
+  ],
+  "key": {
+    "A": { "item": "minecraft:stonebrick", "data": 0 },
+    "B": { "item": "minecraft:furnace" },
+    "C": { "type": "forge:ore_dict", "ore": "itemSimpleMachineChassi" },
+    "D": { "type": "forge:ore_dict", "ore": "gearIronInfinity" },
+    "E": { "item": "minecraft:piston" }
+  },
+  "result": { "item": "enderio:block_simple_stirling_generator" }
+}
