@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotElectricalSteel" },
+    "B": { "item": "minecraft:hopper" },
+    "C": { "type": "forge:ore_dict", "ore": "gearEnergized" },
+    "D": { "type": "forge:ore_dict", "ore": "itemMachineChassi" },
+    "E": { "type": "forge:ore_dict", "ore": "ingotRedstoneAlloy" }
+  },
+  "result": { "item": "enderio:block_impulse_hopper" }
+}
