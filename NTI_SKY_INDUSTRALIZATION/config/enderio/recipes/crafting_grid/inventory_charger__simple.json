@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "nuggetDarkSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "ingotConductiveIron" },
+    "C": [
+      { "item": "enderio:item_basic_capacitor", "data": 0 },
+      { "item": "enderio:item_capacitor_silver" }
+    ]
+  },
+  "result": { "item": "enderio:item_inventory_charger_simple" }
+}
