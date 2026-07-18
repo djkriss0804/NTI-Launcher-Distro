@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "CCC",
+    " C "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "gemDiamond" },
+    "B": { "item": "minecraft:book" },
+    "C": { "type": "forge:ore_dict", "ore": "ingotDarkSteel" }
+  },
+  "result": { "item": "enderio:block_enchanter" }
+}
