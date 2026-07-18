@@ -1,0 +1,28 @@
+{
+  "machine": "alloysmelter",
+  "name": "alloysmelter_10",
+  "energy": 20000,
+  "experience": 0.5,
+  "inputs": [
+    {
+      "item": "ingotPulsatingIron",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "gemEmerald",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:item_material",
+      "data": 14,
+      "count": 1,
+      "chance": 1.0
+    }
+  ]
+}
