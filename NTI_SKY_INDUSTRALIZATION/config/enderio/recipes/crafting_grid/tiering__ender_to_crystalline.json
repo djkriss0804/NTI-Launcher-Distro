@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "   ",
+    "AAA",
+    " B "
+  ],
+  "key": {
+    "A": { "item": "enderio:item_power_conduit", "data": 2 },
+    "B": { "item": "enderio:item_alloy_endergy_ingot", "data": 1 }
+  },
+  "result": { "item": "enderio:item_endergy_conduit", "data": 8, "count": 2 }
+}
