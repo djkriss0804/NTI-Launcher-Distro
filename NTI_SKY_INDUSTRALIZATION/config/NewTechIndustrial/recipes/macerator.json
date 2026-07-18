@@ -1,0 +1,86 @@
+[
+  {
+    "inputs": [
+      "minecraft:cobblestone"
+    ],
+    "outputId": "minecraft:gravel",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 1000,
+    "ticks": 100,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:gravel"
+    ],
+    "outputId": "minecraft:sand",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 1000,
+    "ticks": 100,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:sand"
+    ],
+    "outputId": "minecraft:clay_ball",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 1000,
+    "ticks": 100,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:clay"
+    ],
+    "outputId": "minecraft:clay_ball",
+    "count": 9,
+    "inputCount": 1,
+    "energy": 1000,
+    "ticks": 200,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:redstone_block"
+    ],
+    "outputId": "minecraft:redstone",
+    "count": 9,
+    "inputCount": 1,
+    "energy": 2000,
+    "ticks": 200,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:coal_block"
+    ],
+    "outputId": "minecraft:coal:0",
+    "count": 9,
+    "inputCount": 1,
+    "energy": 2000,
+    "ticks": 200,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:glowstone"
+    ],
+    "outputId": "minecraft:glowstone_dust",
+    "count": 9,
+    "inputCount": 1,
+    "energy": 2000,
+    "ticks": 200,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  }
+]
