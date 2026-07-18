@@ -1,0 +1,14 @@
+{
+  "type": "enderio:upgrade_shaped",
+  "pattern": [
+    "ABA",
+    "CDC"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotEndSteel" },
+    "B": { "item": "enderio:block_vat" },
+    "C": { "item": "enderio:block_tank", "data": 1 },
+    "D": { "type": "forge:ore_dict", "ore": "itemEnhancedMachineChassi" }
+  },
+  "result": { "item": "enderio:block_enhanced_vat" }
+}
