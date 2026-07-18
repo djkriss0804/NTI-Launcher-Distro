@@ -1,0 +1,28 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_20",
+  "energy": 1200,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "minecraft:bone",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "minecraft:dye",
+      "data": 15,
+      "count": 6,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 15,
+      "count": 2,
+      "chance": 0.1
+    }
+  ]
+}
