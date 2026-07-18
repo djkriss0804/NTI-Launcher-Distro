@@ -1,0 +1,26 @@
+[
+  {
+    "inputs": [
+      "newtechindustrial:layered_copper_plate"
+    ],
+    "outputId": "newtechindustrial:copper_wire",
+    "count": 3,
+    "inputCount": 1,
+    "energy": 800,
+    "ticks": 80,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "newtechindustrial:layered_gold_plate"
+    ],
+    "outputId": "newtechindustrial:gold_wire",
+    "count": 4,
+    "inputCount": 1,
+    "energy": 1200,
+    "ticks": 120,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  }
+]
