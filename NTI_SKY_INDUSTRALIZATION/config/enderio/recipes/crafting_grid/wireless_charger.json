@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotElectricalSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "skullEnderResonator" },
+    "C": [
+      { "item": "enderio:item_basic_capacitor", "data": 0 },
+      { "item": "enderio:item_capacitor_silver" }
+    ]
+  },
+  "result": { "item": "enderio:block_wireless_charger" }
+}
