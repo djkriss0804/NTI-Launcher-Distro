@@ -1,0 +1,26 @@
+[
+  {
+    "inputs": [
+      "minecraft:iron_ingot"
+    ],
+    "outputId": "newtechindustrial:layered_iron_plate",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 1000,
+    "ticks": 100,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:gold_ingot"
+    ],
+    "outputId": "newtechindustrial:layered_gold_plate",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 1000,
+    "ticks": 100,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  }
+]
