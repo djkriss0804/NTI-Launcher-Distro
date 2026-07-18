@@ -1,0 +1,29 @@
+[
+  {
+    "inputs": [
+      "minecraft:diamond",
+      "newtechindustrial:crystal_blue",
+      "newtechindustrial:crystal_red"
+    ],
+    "outputId": "newtechindustrial:molecular_core",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 50000,
+    "ticks": 1000,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "newtechindustrial:sunnarium",
+      "minecraft:glowstone_dust"
+    ],
+    "outputId": "newtechindustrial:purified_sunnarium",
+    "count": 1,
+    "inputCount": 1,
+    "energy": 100000,
+    "ticks": 2000,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  }
+]
