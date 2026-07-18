@@ -1,0 +1,22 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_140",
+  "energy": 720,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "ore": "sand",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "appliedenergistics2:material",
+      "data": 5,
+      "count": 1,
+      "chance": 0.5
+    }
+  ]
+}
