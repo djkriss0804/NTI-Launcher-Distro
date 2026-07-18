@@ -1,0 +1,22 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_109",
+  "energy": 3600,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "blockOsmium",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "mekanism:dust",
+      "data": 2,
+      "count": 9,
+      "chance": 1.0
+    }
+  ]
+}
