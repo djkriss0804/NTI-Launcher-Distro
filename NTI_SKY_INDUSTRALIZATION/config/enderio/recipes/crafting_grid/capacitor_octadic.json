@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotVibrantAlloy" },
+    "B": { "item": "enderio:item_basic_capacitor", "data": 1 },
+    "C": { "item": "minecraft:diamond" }
+  },
+  "result": { "item": "enderio:item_basic_capacitor", "data": 2 }
+}
