@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemConduitBinder" },
+    "B": { "item": "newtechindustrial:crystal_wafer_red" },
+    "C": { "item": "enderio:item_alloy_nugget", "data": 3 }
+  },
+  "result": { "item": "enderio:item_redstone_conduit", "data": 0, "count": 4 }
+}
