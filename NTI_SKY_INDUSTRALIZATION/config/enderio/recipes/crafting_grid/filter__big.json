@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "dustObsidian" },
+    "B": [
+      { "item": "minecraft:paper" },
+      { "type": "forge:ore_dict", "ore": " paperBlack" }
+    ],
+    "C": { "type": "forge:ore_dict", "ore": "skullSkeletalContractor" }
+  },
+  "result": { "item": "enderio:item_big_item_filter" }
+}
