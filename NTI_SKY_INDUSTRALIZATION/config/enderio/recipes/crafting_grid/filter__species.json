@@ -1,0 +1,11 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA"
+  ],
+  "key": {
+    "A": { "item": "forestry:propolis" },
+    "B": { "item": "enderio:item_advanced_item_filter" }
+  },
+  "result": { "item": "enderio:item_species_item_filter" }
+}
