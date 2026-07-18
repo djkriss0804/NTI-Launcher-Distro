@@ -1,0 +1,18 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "BDB"
+  ],
+  "key": {
+    "A": [
+      { "type": "forge:ore_dict", "ore": "ingotConstructionAlloy" },
+      { "type": "forge:ore_dict", "ore": "ingotIron" }
+    ],
+    "B": { "type": "forge:ore_dict", "ore": "ingotElectricalSteel" },
+    "C": { "type": "forge:ore_dict", "ore": "slimeball" },
+    "D": { "type": "forge:ore_dict", "ore": "stickWood" }
+  },
+  "result": { "item": "enderio:item_extract_speed_downgrade" }
+}
