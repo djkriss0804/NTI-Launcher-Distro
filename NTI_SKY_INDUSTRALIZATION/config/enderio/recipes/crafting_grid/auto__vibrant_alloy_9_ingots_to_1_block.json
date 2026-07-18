@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "type": "forge:ore_dict", "ore": "ingotVibrantAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotVibrantAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotVibrantAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotVibrantAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotVibrantAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotVibrantAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotVibrantAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotVibrantAlloy" },
+    { "type": "forge:ore_dict", "ore": "ingotVibrantAlloy" }
+  ],
+  "result": { "item": "enderio:block_alloy", "data": 2 }
+}
