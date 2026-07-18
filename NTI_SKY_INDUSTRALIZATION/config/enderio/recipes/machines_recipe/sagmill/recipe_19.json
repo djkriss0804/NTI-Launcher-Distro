@@ -1,0 +1,28 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_19",
+  "energy": 2400,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "ore": "glowstone",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "minecraft:glowstone_dust",
+      "data": 0,
+      "count": 3,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "data": 0,
+      "count": 1,
+      "chance": 0.8
+    }
+  ]
+}
