@@ -1,0 +1,48 @@
+{
+  "tiers": {
+    "T1": {
+      "energyCapacity": 10000,
+      "maxOutput": 250,
+      "genMultiplier": 1.0,
+      "maxUpgradePerSlot": 4
+    },
+    "T2": {
+      "energyCapacity": 20000,
+      "maxOutput": 500,
+      "genMultiplier": 2.0,
+      "maxUpgradePerSlot": 8
+    },
+    "T3": {
+      "energyCapacity": 40000,
+      "maxOutput": 1000,
+      "genMultiplier": 4.0,
+      "maxUpgradePerSlot": 16
+    }
+  },
+  "fuels": [
+    {
+      "id": "minecraft:coal",
+      "meta": 0,
+      "burnTime": 1600,
+      "fePerTick": 40,
+      "comment": "Coal"
+    },
+    {
+      "id": "minecraft:coal",
+      "meta": 1,
+      "burnTime": 1600,
+      "fePerTick": 40,
+      "comment": "Charcoal"
+    },
+    {
+      "id": "minecraft:coal_block",
+      "meta": 0,
+      "burnTime": 16000,
+      "fePerTick": 60,
+      "comment": "Coal Block"
+    }
+  ],
+  "upgradeCapBoost": 10000,
+  "upgradeFluxBoost": 0.25,
+  "upgradeOutputBoost": 250
+}
