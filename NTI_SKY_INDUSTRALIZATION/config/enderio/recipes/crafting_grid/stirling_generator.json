@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EFE"
+  ],
+  "key": {
+    "A": { "item": "minecraft:stonebrick", "data": 0 },
+    "B": { "item": "minecraft:furnace" },
+    "C": { "type": "forge:ore_dict", "ore": "ingotDarkSteel" },
+    "D": { "type": "forge:ore_dict", "ore": "itemMachineChassi" },
+    "E": { "type": "forge:ore_dict", "ore": "gearDark" },
+    "F": { "item": "minecraft:piston" }
+  },
+  "result": { "item": "enderio:block_stirling_generator" }
+}
