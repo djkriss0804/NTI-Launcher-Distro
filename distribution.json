@@ -15,7 +15,7 @@
             "id": "nti_main",
             "name": "NTI: Unified Engineering",
             "description": "NTI: Unified Engineering Modpack Server",
-            "icon": "https://raw.githubusercontent.com/djkri/NTI-Modpack-Dist/main/icon.png",
+            "icon": "https://raw.githubusercontent.com/djkri/djkriss0804/NTI-Launcher-Distro/main/icon.png",
             "version": "1.0.0",
             "address": "mc.nti.pl",
             "port": 25565,
