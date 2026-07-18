@@ -1,0 +1,19 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "DED"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemSilicon" },
+    "B": [
+      { "type": "forge:ore_dict", "ore": "ingotConstructionAlloy" },
+      { "type": "forge:ore_dict", "ore": "ingotIron" }
+    ],
+    "C": { "type": "forge:ore_dict", "ore": "itemSimpleMachineChassi" },
+    "D": { "type": "forge:ore_dict", "ore": "gearStone" },
+    "E": { "type": "forge:ore_dict", "ore": "workbench" }
+  },
+  "result": { "item": "enderio:block_simple_crafter" }
+}
