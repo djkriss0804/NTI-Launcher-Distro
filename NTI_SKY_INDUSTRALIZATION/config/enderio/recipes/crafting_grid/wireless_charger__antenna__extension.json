@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemWirelessDish" },
+    "B": { "type": "forge:ore_dict", "ore": "ingotEndSteel" }
+  },
+  "result": { "item": "enderio:block_wireless_charger_extension" }
+}
