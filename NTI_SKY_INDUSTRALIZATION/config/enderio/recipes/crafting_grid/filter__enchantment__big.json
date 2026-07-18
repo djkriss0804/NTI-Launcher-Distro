@@ -1,0 +1,8 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "enderio:item_big_item_filter" },
+    { "item": "minecraft:enchanted_book" }
+  ],
+  "result": { "item": "enderio:item_enchantment_filter_big" }
+}
