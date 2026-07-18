@@ -1,0 +1,54 @@
+{
+  "machine": "soulbinder",
+  "name": "soulbinder_14",
+  "energy": 25000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "enderio:item_alloy_ball",
+      "data": 7,
+      "count": 1,
+      "chance": 1.0,
+      "multiplier": 1.0,
+      "slot": -1
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:item_material",
+      "data": 78,
+      "count": 1,
+      "chance": 1.0,
+      "multiplier": 1.0,
+      "slot": -1
+    }
+  ],
+  "cost_multiplier": 0.0,
+  "entities": [
+    "minecraft:skeleton_horse",
+    "minecraft:zombie_horse",
+    "minecraft:donkey",
+    "minecraft:mule",
+    "minecraft:bat",
+    "minecraft:pig",
+    "minecraft:sheep",
+    "minecraft:cow",
+    "minecraft:chicken",
+    "minecraft:squid",
+    "minecraft:wolf",
+    "minecraft:mooshroom",
+    "minecraft:snowman",
+    "minecraft:ocelot",
+    "minecraft:villager_golem",
+    "minecraft:horse",
+    "minecraft:rabbit",
+    "minecraft:polar_bear",
+    "minecraft:llama",
+    "minecraft:parrot",
+    "minecraft:villager",
+    "enderiozoo:owl",
+    "enderiozoo:epicsquid"
+  ],
+  "is_filling": false,
+  "exp": 1
+}
