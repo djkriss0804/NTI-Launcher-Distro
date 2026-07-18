@@ -1,0 +1,225 @@
+{
+  "entries": [
+    {
+      "id": "ConcussionCreeper",
+      "mobName": "enderiozoo:concussioncreeper",
+      "creatureType": "MONSTER",
+      "rate": 40,
+      "minGroupSize": 1,
+      "maxGroupSize": 3,
+      "remove": false,
+      "biomeFilters": [
+        {
+          "type": "any",
+          "biomes": [
+            { "type": "BASE_LAND_TYPES" },
+            { "type": "NETHER", "exclude": true },
+            { "type": "END", "exclude": true },
+            { "type": "MUSHROOM", "exclude": true }
+          ]
+        }
+      ],
+      "dimensionExcludes": [
+        { "name": "twilight_forest" },
+        { "name": "Dungeon" }
+      ]
+    },
+    {
+      "id": "EnderMiny",
+      "mobName": "enderiozoo:enderminy",
+      "creatureType": "MONSTER",
+      "rate": 30,
+      "minGroupSize": 1,
+      "maxGroupSize": 3,
+      "remove": false,
+      "biomeFilters": [
+        {
+          "type": "any",
+          "biomes": [
+            { "type": "FOREST" },
+            { "type": "SWAMP" },
+            { "type": "JUNGLE" },
+            { "type": "NETHER", "exclude": true },
+            { "type": "END", "exclude": true }
+          ]
+        }
+      ],
+      "dimensionExcludes": [
+        { "name": "twilight_forest" }
+      ]
+    },
+    {
+      "id": "FallenKnight",
+      "mobName": "enderiozoo:fallenknight",
+      "creatureType": "MONSTER",
+      "rate": 30,
+      "minGroupSize": 1,
+      "maxGroupSize": 4,
+      "remove": false,
+      "biomeFilters": [
+        {
+          "type": "any",
+          "biomes": [
+            { "type": "PLAINS" },
+            { "type": "NETHER", "exclude": true },
+            { "type": "END", "exclude": true }
+          ]
+        }
+      ],
+      "dimensionExcludes": [
+        { "name": "twilight_forest" }
+      ]
+    },
+    {
+      "id": "WitherWitch",
+      "mobName": "enderiozoo:witherwitch",
+      "creatureType": "MONSTER",
+      "rate": 5,
+      "minGroupSize": 1,
+      "maxGroupSize": 1,
+      "remove": false,
+      "biomeFilters": [
+        {
+          "type": "any",
+          "biomes": [
+            { "type": "FOREST" },
+            { "type": "SWAMP" },
+            { "type": "PLAINS" },
+            { "type": "HILLS" },
+            { "type": "MOUNTAIN" },
+            { "type": "NETHER", "exclude": true },
+            { "type": "END", "exclude": true }
+          ]
+        }
+      ],
+      "dimensionExcludes": [
+        { "name": "twilight_forest" }
+      ]
+    },
+    {
+      "id": "FallenMount",
+      "mobName": "enderiozoo:fallenmount",
+      "creatureType": "MONSTER",
+      "rate": 10,
+      "minGroupSize": 1,
+      "maxGroupSize": 2,
+      "remove": false,
+      "biomeFilters": [
+        {
+          "type": "any",
+          "biomes": [
+            { "type": "PLAINS" },
+            { "type": "NETHER", "exclude": true },
+            { "type": "END", "exclude": true }
+          ]
+        }
+      ],
+      "dimensionExcludes": [
+        { "name": "twilight_forest" }
+      ]
+    },
+    {
+      "id": "DireWolf",
+      "mobName": "enderiozoo:direwolf",
+      "creatureType": "MONSTER",
+      "rate": 30,
+      "minGroupSize": 2,
+      "maxGroupSize": 6,
+      "remove": false,
+      "biomeFilters": [
+        {
+          "type": "all",
+          "biomes": [
+            { "type": "SNOWY" },
+            { "type": "CONIFEROUS" },
+            { "type": "NETHER", "exclude": true },
+            { "type": "END", "exclude": true }
+          ]
+        }
+      ],
+      "dimensionExcludes": [
+        { "name": "twilight_forest" }
+      ]
+    },
+    {
+      "id": "DireSlime",
+      "mobName": "enderiozoo:direslime",
+      "creatureType": "MONSTER",
+      "rate": 0,
+      "minGroupSize": 1,
+      "maxGroupSize": 3,
+      "remove": false
+    },
+    {
+      "id": "LoveChild",
+      "mobName": "enderiozoo:lovechild",
+      "creatureType": "MONSTER",
+      "rate": 10,
+      "minGroupSize": 1,
+      "maxGroupSize": 1,
+      "remove": false,
+      "biomeFilters": [
+        {
+          "type": "any",
+          "biomes": [
+            { "type": "BASE_LAND_TYPES" },
+            { "type": "NETHER", "exclude": true },
+            { "type": "END", "exclude": true },
+            { "type": "MUSHROOM", "exclude": true }
+          ]
+        }
+      ],
+      "dimensionIncludes": [
+        { "name": "overworld" }
+      ]
+    },
+    {
+      "id": "EpicSquid",
+      "mobName": "enderiozoo:epicsquid",
+      "creatureType": "WATER_CREATURE",
+      "rate": 1,
+      "minGroupSize": 1,
+      "maxGroupSize": 1,
+      "remove": false,
+      "dimensionIncludes": [
+        { "name": "overworld" },
+        { "name": "the_nether" }
+      ]
+    },
+    {
+      "id": "VoidSlime",
+      "mobName": "enderiozoo:voidslime",
+      "creatureType": "MONSTER",
+      "rate": 1,
+      "minGroupSize": 1,
+      "maxGroupSize": 1,
+      "remove": false,
+      "dimensionIncludes": [
+        { "name": "overworld" }
+      ]
+    },
+    {
+      "id": "Owl",
+      "mobName": "enderiozoo:owl",
+      "creatureType": "CREATURE",
+      "rate": 5,
+      "minGroupSize": 1,
+      "maxGroupSize": 1,
+      "remove": false,
+      "biomeFilters": [
+        {
+          "type": "any",
+          "biomes": [
+            { "type": "FOREST" },
+            { "type": "RIVER" },
+            { "type": "WASTELAND", "exclude": true },
+            { "type": "JUNGLE", "exclude": true },
+            { "type": "SNOWY", "exclude": true },
+            { "type": "NETHER", "exclude": true },
+            { "type": "END", "exclude": true }
+          ]
+        }
+      ]
+    }
+  ]
+}
