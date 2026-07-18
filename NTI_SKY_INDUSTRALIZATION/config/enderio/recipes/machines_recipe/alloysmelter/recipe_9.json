@@ -1,0 +1,28 @@
+{
+  "machine": "alloysmelter",
+  "name": "alloysmelter_9",
+  "energy": 20000,
+  "experience": 0.5,
+  "inputs": [
+    {
+      "item": "ingotVibrantAlloy",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "mekanism:compresseddiamond",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:item_material",
+      "data": 15,
+      "count": 1,
+      "chance": 1.0
+    }
+  ]
+}
