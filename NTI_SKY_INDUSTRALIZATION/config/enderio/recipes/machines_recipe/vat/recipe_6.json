@@ -1,0 +1,39 @@
+{
+  "machine": "vat",
+  "name": "vat_6",
+  "energy": 10000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "minecraft:glowstone_dust",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:glowstone",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:double_plant:0",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [],
+  "fluid_inputs": [
+    {
+      "fluid": "fire_water",
+      "amount": 1000
+    }
+  ],
+  "fluid_outputs": [
+    {
+      "fluid": "liquid_sunshine",
+      "amount": 1000
+    }
+  ]
+}
