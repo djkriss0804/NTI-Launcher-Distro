@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BBB",
+    " A "
+  ],
+  "key": {
+    "A": { "item": "newtechindustrial:layered_enderium_plate" },
+    "B": { "item": "enderio:item_liquid_conduit", "data": 1 }
+  },
+  "result": { "item": "enderio:item_liquid_conduit", "data": 2, "count": 2 }
+}
