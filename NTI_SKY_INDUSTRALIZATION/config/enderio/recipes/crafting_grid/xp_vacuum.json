@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": [
+      { "type": "forge:ore_dict", "ore": "ingotConstructionAlloy" },
+      { "type": "forge:ore_dict", "ore": "ingotIron" }
+    ],
+    "B": { "item": "enderio:item_xp_transfer" },
+    "C": { "type": "forge:ore_dict", "ore": "itemPulsatingCrystal" }
+  },
+  "result": { "item": "enderio:block_xp_vacuum" }
+}
