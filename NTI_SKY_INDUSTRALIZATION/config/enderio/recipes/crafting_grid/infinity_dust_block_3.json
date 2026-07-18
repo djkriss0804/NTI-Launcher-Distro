@@ -1,0 +1,12 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "compressed2xDustBedrock" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0 }
+}
