@@ -1,0 +1,10 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:bowl" },
+    { "item": "minecraft:milk_bucket" },
+    { "type": "forge:ore_dict", "ore": "cropWheat" },
+    { "type": "forge:ore_dict", "ore": "nuggetEnderpearl" }
+  ],
+  "result": { "item": "enderio:item_ender_food", "data": 0 }
+}
