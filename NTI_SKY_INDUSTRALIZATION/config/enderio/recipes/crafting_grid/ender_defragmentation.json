@@ -1,0 +1,12 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "AAA",
+    " A "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemEnderFragment" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0 }
+}
