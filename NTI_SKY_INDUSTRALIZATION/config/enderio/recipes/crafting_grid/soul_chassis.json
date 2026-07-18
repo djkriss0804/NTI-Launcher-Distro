@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "barsIron" },
+    "B": { "type": "forge:ore_dict", "ore": "ingotSoularium" },
+    "C": [
+      { "item": "enderio:item_basic_capacitor", "data": 0 },
+      { "item": "enderio:item_capacitor_silver" }
+    ]
+  },
+  "result": { "item": "minecraft:stone", "data": 0 }
+}
