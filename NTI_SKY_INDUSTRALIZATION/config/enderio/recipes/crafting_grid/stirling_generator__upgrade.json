@@ -1,0 +1,14 @@
+{
+  "type": "enderio:upgrade_shaped",
+  "pattern": [
+    "ABA",
+    "CDC"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotDarkSteel" },
+    "B": { "item": "enderio:block_simple_stirling_generator" },
+    "C": { "type": "forge:ore_dict", "ore": "gearDark" },
+    "D": { "type": "forge:ore_dict", "ore": "itemMachineChassi" }
+  },
+  "result": { "item": "enderio:block_stirling_generator" }
+}
