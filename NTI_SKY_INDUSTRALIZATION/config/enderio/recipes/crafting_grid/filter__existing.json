@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "ABA",
+    " C "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "dustRedstone" },
+    "B": { "item": "enderio:item_advanced_item_filter" },
+    "C": { "item": "minecraft:comparator" }
+  },
+  "result": { "item": "enderio:item_existing_item_filter" }
+}
