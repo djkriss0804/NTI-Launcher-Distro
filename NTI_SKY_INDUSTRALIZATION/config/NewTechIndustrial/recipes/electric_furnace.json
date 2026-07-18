@@ -1,0 +1,98 @@
+[
+  {
+    "inputs": [
+      "minecraft:iron_ore"
+    ],
+    "outputId": "minecraft:iron_ingot",
+    "count": 2,
+    "inputCount": 1,
+    "energy": 2000,
+    "ticks": 200,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:gold_ore"
+    ],
+    "outputId": "minecraft:gold_ingot",
+    "count": 2,
+    "inputCount": 1,
+    "energy": 2000,
+    "ticks": 200,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:diamond_ore"
+    ],
+    "outputId": "minecraft:diamond",
+    "count": 2,
+    "inputCount": 1,
+    "energy": 2500,
+    "ticks": 300,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:emerald_ore"
+    ],
+    "outputId": "minecraft:emerald",
+    "count": 2,
+    "inputCount": 1,
+    "energy": 2500,
+    "ticks": 300,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:coal_ore"
+    ],
+    "outputId": "minecraft:coal:0",
+    "count": 4,
+    "inputCount": 1,
+    "energy": 1500,
+    "ticks": 150,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:redstone_ore"
+    ],
+    "outputId": "minecraft:redstone",
+    "count": 8,
+    "inputCount": 1,
+    "energy": 1500,
+    "ticks": 150,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:lapis_ore"
+    ],
+    "outputId": "minecraft:dye:4",
+    "count": 12,
+    "inputCount": 1,
+    "energy": 1500,
+    "ticks": 150,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  },
+  {
+    "inputs": [
+      "minecraft:quartz_ore"
+    ],
+    "outputId": "minecraft:quartz",
+    "count": 3,
+    "inputCount": 1,
+    "energy": 1200,
+    "ticks": 100,
+    "fluidAmount": 0,
+    "multiplier": 0.0
+  }
+]
