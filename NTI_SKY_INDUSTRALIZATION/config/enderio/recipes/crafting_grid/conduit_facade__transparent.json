@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemConduitBinder" },
+    "B": { "type": "forge:ore_dict", "ore": "fusedGlass" }
+  },
+  "result": { "item": "enderio:item_conduit_facade", "data": 2 }
+}
