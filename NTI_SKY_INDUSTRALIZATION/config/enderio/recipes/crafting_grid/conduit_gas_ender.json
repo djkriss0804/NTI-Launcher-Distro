@@ -1,0 +1,23 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "enderio:item_gas_conduit",
+      "data": 1
+    },
+    "B": {
+      "item": "mekanism:atomicalloy",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "enderio:item_gas_conduit",
+    "data": 2,
+    "count": 8
+  }
+}
