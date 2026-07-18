@@ -1,0 +1,12 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BAB"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotDarkSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "itemGliderWing" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0 }
+}
