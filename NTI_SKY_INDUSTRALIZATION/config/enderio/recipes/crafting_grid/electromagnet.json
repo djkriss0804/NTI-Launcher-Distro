@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "A A",
+    "C C"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotConductiveIron" },
+    "B": { "type": "forge:ore_dict", "ore": "itemVibrantCrystal" },
+    "C": { "type": "forge:ore_dict", "ore": "ingotElectricalSteel" }
+  },
+  "result": { "item": "enderio:item_magnet" }
+}
