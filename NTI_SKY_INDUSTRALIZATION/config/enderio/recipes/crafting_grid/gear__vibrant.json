@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "nuggetVibrantAlloy" },
+    "B": { "type": "forge:ore_dict", "ore": "gearEnergized" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0 }
+}
