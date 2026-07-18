@@ -1,0 +1,7 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "enderio:item_alloy_ingot", "data": 1 }
+  ],
+  "result": { "item": "enderio:item_alloy_nugget", "data": 1, "count": 9 }
+}
