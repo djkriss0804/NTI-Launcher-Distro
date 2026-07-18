@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotDarkSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "ingotElectricalSteel" },
+    "C": { "type": "forge:ore_dict", "ore": "itemWirelessDish" },
+    "D": { "type": "forge:ore_dict", "ore": "skullEnderResonator" },
+    "E": { "item": "enderio:block_cap_bank", "data": 2 }
+  },
+  "result": { "item": "enderio:item_inventory_charger" }
+}
