@@ -1,0 +1,16 @@
+{
+  "type": "enderio:upgrade_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "E E"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotEndSteel" },
+    "B": { "item": "enderio:block_combustion_generator" },
+    "C": { "item": "enderio:block_tank", "data": 1 },
+    "D": { "type": "forge:ore_dict", "ore": "itemEnhancedMachineChassi" },
+    "E": { "type": "forge:ore_dict", "ore": "gearVibrant" }
+  },
+  "result": { "item": "enderio:block_enhanced_combustion_generator" }
+}
