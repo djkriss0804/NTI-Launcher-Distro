@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BCB"
+  ],
+  "key": {
+    "A": { "item": "enderio:block_simple_crafter" },
+    "B": { "type": "forge:ore_dict", "ore": "gearIronInfinity" },
+    "C": { "type": "forge:ore_dict", "ore": "itemMachineChassi" }
+  },
+  "result": { "item": "enderio:block_crafter" }
+}
