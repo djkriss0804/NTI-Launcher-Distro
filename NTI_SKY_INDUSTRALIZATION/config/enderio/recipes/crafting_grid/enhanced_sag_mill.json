@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "DED"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemFlint" },
+    "B": { "type": "forge:ore_dict", "ore": "ingotEndSteel" },
+    "C": { "type": "forge:ore_dict", "ore": "itemEnhancedMachineChassi" },
+    "D": { "type": "forge:ore_dict", "ore": "gearVibrant" },
+    "E": { "item": "minecraft:piston" }
+  },
+  "result": { "item": "enderio:block_enhanced_sag_mill" }
+}
