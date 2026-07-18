@@ -1,0 +1,22 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_55",
+  "energy": 2400,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "ingotSoularium",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:item_material",
+      "data": 74,
+      "count": 1,
+      "chance": 1.0
+    }
+  ]
+}
