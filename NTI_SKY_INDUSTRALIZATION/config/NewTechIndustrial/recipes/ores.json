@@ -1,0 +1,56 @@
+{
+  "ore_crystal_white": {
+    "minVein": 4,
+    "maxVein": 8,
+    "chance": 20,
+    "minY": 10,
+    "maxY": 60,
+    "minDrop": 1,
+    "maxDrop": 2
+  },
+  "ore_crystal_sunnarium": {
+    "minVein": 2,
+    "maxVein": 4,
+    "chance": 10,
+    "minY": 5,
+    "maxY": 25,
+    "minDrop": 1,
+    "maxDrop": 1
+  },
+  "ore_crystal_green": {
+    "minVein": 4,
+    "maxVein": 8,
+    "chance": 20,
+    "minY": 10,
+    "maxY": 60,
+    "minDrop": 1,
+    "maxDrop": 2
+  },
+  "ore_crystal_black": {
+    "minVein": 4,
+    "maxVein": 8,
+    "chance": 20,
+    "minY": 10,
+    "maxY": 60,
+    "minDrop": 1,
+    "maxDrop": 2
+  },
+  "ore_crystal_red": {
+    "minVein": 4,
+    "maxVein": 8,
+    "chance": 20,
+    "minY": 10,
+    "maxY": 60,
+    "minDrop": 1,
+    "maxDrop": 2
+  },
+  "ore_crystal_blue": {
+    "minVein": 4,
+    "maxVein": 8,
+    "chance": 20,
+    "minY": 10,
+    "maxY": 60,
+    "minDrop": 1,
+    "maxDrop": 2
+  }
+}
