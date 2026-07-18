@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "B B",
+    " B "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotSoularium" },
+    "B": { "type": "forge:ore_dict", "ore": "fusedQuartz" }
+  },
+  "result": { "item": "enderio:item_soul_vial" }
+}
