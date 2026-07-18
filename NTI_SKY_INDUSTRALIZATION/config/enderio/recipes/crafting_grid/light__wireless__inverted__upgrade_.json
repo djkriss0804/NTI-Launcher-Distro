@@ -1,0 +1,8 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "enderio:block_electric_light", "data": 1 },
+    { "type": "forge:ore_dict", "ore": "skullEnderResonator" }
+  ],
+  "result": { "item": "enderio:block_electric_light", "data": 5 }
+}
