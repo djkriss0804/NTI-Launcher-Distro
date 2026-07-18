@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemEnderFragment" },
+    "B": { "type": "forge:ore_dict", "ore": "sand" },
+    "C": { "type": "forge:ore_dict", "ore": "gunpowder" }
+  },
+  "result": { "item": "enderio:block_ender_charge" }
+}
