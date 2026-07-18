@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " AA",
+    "  B",
+    "C B"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "nuggetDarkSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "stickWood" },
+    "C": { "item": "enderio:item_dark_steel_upgrade", "data": 0 }
+  },
+  "result": { "item": "enderio:item_dark_steel_upgrade", "data": 1 }
+}
