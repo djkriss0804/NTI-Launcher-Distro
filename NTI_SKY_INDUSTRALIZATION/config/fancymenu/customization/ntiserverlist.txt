@@ -196,4 +196,4 @@ customization {
   action = setbuttontexture
   backgroundhovered = resources/newtech/buttonhover.png
   backgroundnormal = resources/newtech/button.png
-}
+} 

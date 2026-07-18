@@ -79,3 +79,4 @@ recipes.addShaped(<enderio:item_xp_transfer>, [[null, <xpbook:xp_tome>, null],[<
 
 recipes.addShaped(<enderio:block_xp_vacuum>, [[<minecraft:ender_chest>, <minecraft:chest>, <minecraft:ender_chest>],[<minecraft:hopper>, <enderio:item_material>, <minecraft:hopper>], [<minecraft:sticky_piston>, <minecraft:experience_bottle>, <minecraft:sticky_piston>]]);
 recipes.addShaped(<enderio:block_vacuum_chest>, [[<minecraft:ender_chest>, <minecraft:chest>, <minecraft:ender_chest>],[<minecraft:hopper>, <enderio:item_material>, <minecraft:hopper>], [<minecraft:sticky_piston>, <minecraft:chest>, <minecraft:sticky_piston>]]);
+ 

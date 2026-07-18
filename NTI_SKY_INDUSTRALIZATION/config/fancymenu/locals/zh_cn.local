@@ -781,3 +781,4 @@ fancymenu.helper.editor.items.visibilityrequirements.realtimeminute.valuename = 
 fancymenu.helper.editor.items.visibilityrequirements.realtimesecond = 现在的时间的秒数是否为
 fancymenu.helper.editor.items.visibilityrequirements.realtimesecond.desc = 检查现在的秒数是否为 X.%n%%n%你可以用逗号分隔多个数字,%n%用来一次检查多个%n%秒数.
 fancymenu.helper.editor.items.visibilityrequirements.realtimesecond.valuename = 真实事件秒数 (用逗号分隔)
+ 

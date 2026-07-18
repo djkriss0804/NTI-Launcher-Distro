@@ -117,3 +117,4 @@ recipes.addShaped(<crazyae:material:3>, [[null, null, null],[<crazyae:material>,
 
 //induction smelter thermal 
 mods.thermalexpansion.InductionSmelter.addRecipe(<thermalfoundation:material:166> * 2, <mekanism:ingot:3>, <thermalfoundation:material:134>,  1500, <mekanism:otherdust:3> * 8, 50);
+ 

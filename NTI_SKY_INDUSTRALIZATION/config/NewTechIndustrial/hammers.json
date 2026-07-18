@@ -3,4 +3,4 @@
     { "input": "<minecraft:cobblestone:0>", "output": "<minecraft:gravel:0>" },
     { "input": "<minecraft:gravel:*>", "output": "<minecraft:sand:0>" }
   ]
-}
+} 

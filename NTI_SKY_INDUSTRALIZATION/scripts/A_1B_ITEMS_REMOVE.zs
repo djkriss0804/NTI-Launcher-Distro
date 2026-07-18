@@ -51,4 +51,4 @@ var extraMaterials = [
 
 for item in extraMaterials {
     JEI.removeAndHide(item);
-}
+} 

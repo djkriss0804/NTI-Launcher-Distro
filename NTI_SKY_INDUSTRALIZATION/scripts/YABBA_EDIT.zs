@@ -8,4 +8,4 @@ recipes.remove(<yabba:upgrade_iron_tier>);
 //crafty
 recipes.addShaped(<yabba:upgrade_diamond_tier>, [[<yabba:upgrade_gold_tier>, <minecraft:diamond>, <yabba:upgrade_gold_tier>],[<minecraft:diamond>, <yabba:upgrade_gold_tier>, <minecraft:diamond>], [<yabba:upgrade_gold_tier>, <minecraft:diamond>, <yabba:upgrade_gold_tier>]]);
 recipes.addShaped(<yabba:upgrade_gold_tier>, [[<yabba:upgrade_iron_tier>, <minecraft:gold_ingot>, <yabba:upgrade_iron_tier>],[<minecraft:gold_ingot>, <yabba:upgrade_iron_tier>, <minecraft:gold_ingot>], [<yabba:upgrade_iron_tier>, <minecraft:gold_ingot>, <yabba:upgrade_iron_tier>]]);
-recipes.addShaped(<yabba:upgrade_iron_tier>, [[<yabba:upgrade_blank>, <minecraft:iron_ingot>, <yabba:upgrade_blank>],[<minecraft:iron_ingot>, <yabba:upgrade_blank>, <minecraft:iron_ingot>], [<yabba:upgrade_blank>, <minecraft:iron_ingot>, <yabba:upgrade_blank>]]);
+recipes.addShaped(<yabba:upgrade_iron_tier>, [[<yabba:upgrade_blank>, <minecraft:iron_ingot>, <yabba:upgrade_blank>],[<minecraft:iron_ingot>, <yabba:upgrade_blank>, <minecraft:iron_ingot>], [<yabba:upgrade_blank>, <minecraft:iron_ingot>, <yabba:upgrade_blank>]]); 

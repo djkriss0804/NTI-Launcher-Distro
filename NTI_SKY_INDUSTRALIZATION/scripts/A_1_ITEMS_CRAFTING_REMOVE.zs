@@ -351,4 +351,4 @@ JEI.removeAndHide(<mekanism:machineblock:15>);
 JEI.removeAndHide(<extrautils2:ingredients:13>);
 
 mods.thermalexpansion.Transposer.removeFillRecipe(<thermaldynamics:duct_0:8>, <liquid:redstone>);
-mods.thermalexpansion.Transposer.removeFillRecipe(<thermaldynamics:duct_0:7>, <liquid:redstone>);
+mods.thermalexpansion.Transposer.removeFillRecipe(<thermaldynamics:duct_0:7>, <liquid:redstone>); 
