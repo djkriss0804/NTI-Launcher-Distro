@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "dustObsidian" },
+    "B": { "item": "enderio:item_conduit_facade", "data": 0 }
+  },
+  "result": { "item": "enderio:item_conduit_facade", "data": 1 }
+}
