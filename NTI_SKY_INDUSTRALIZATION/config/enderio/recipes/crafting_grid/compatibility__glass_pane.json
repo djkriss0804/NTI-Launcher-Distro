@@ -1,0 +1,11 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "blockGlassColorless" }
+  },
+  "result": { "item": "minecraft:glass_pane", "count": 16 }
+}
