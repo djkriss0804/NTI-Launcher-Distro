@@ -1,0 +1,28 @@
+{
+  "tiers": {
+    "T1": {
+      "energyCapacity": 10000,
+      "maxOutput": 250,
+      "baseGen": 20,
+      "maxUpgradePerSlot": 4
+    },
+    "T2": {
+      "energyCapacity": 20000,
+      "maxOutput": 500,
+      "baseGen": 40,
+      "maxUpgradePerSlot": 8
+    },
+    "T3": {
+      "energyCapacity": 40000,
+      "maxOutput": 1000,
+      "baseGen": 80,
+      "maxUpgradePerSlot": 16
+    }
+  },
+  "requireNightUpgrade": true,
+  "nightMultiplier": 0.2,
+  "maxGridSize": 14,
+  "upgradeCapBoost": 10000,
+  "upgradeFluxBoost": 0.25,
+  "upgradeOutputBoost": 250
+}
