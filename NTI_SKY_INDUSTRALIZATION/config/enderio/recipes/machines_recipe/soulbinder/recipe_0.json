@@ -1,0 +1,32 @@
+{
+  "machine": "soulbinder",
+  "name": "soulbinder_0",
+  "energy": 100000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "minecraft:emerald",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0,
+      "multiplier": 1.0,
+      "slot": -1
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:item_material",
+      "data": 17,
+      "count": 1,
+      "chance": 1.0,
+      "multiplier": 1.0,
+      "slot": -1
+    }
+  ],
+  "cost_multiplier": 0.0,
+  "entities": [
+    "minecraft:villager"
+  ],
+  "is_filling": false,
+  "exp": 4
+}
