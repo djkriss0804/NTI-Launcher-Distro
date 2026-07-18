@@ -1,0 +1,38 @@
+{
+  "tiers": {
+    "T1": {
+      "energyCapacity": 10000,
+      "maxOutput": 500,
+      "genSpeed": 100,
+      "tankCapacity": 4000,
+      "maxUpgradePerSlot": 4
+    },
+    "T2": {
+      "energyCapacity": 20000,
+      "maxOutput": 1000,
+      "genSpeed": 500,
+      "tankCapacity": 8000,
+      "maxUpgradePerSlot": 8
+    },
+    "T3": {
+      "energyCapacity": 40000,
+      "maxOutput": 2000,
+      "genSpeed": 1000,
+      "tankCapacity": 16000,
+      "maxUpgradePerSlot": 16
+    }
+  },
+  "fuels": {
+    "lava": {
+      "energyPerMb": 120,
+      "comment": "Basic fuel (1 bucket = 120,000 FE)"
+    },
+    "pyrotheum": {
+      "energyPerMb": 400,
+      "comment": "Blazing Pyrotheum (1 bucket = 400,000 FE)"
+    }
+  },
+  "upgradeCapBoost": 10000,
+  "upgradeFluxBoost": 0.25,
+  "upgradeOutputBoost": 250
+}
