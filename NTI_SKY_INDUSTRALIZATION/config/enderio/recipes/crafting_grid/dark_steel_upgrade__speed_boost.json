@@ -1,0 +1,8 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "enderio:item_dark_steel_upgrade", "data": 0 },
+    { "type": "forge:ore_dict", "ore": "gearWood" }
+  ],
+  "result": { "item": "enderio:item_dark_steel_upgrade", "data": 1 }
+}
