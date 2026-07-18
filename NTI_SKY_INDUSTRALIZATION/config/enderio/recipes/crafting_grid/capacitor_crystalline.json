@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotCrystallineAlloy" },
+    "B": [
+      { "item": "enderio:item_basic_capacitor", "data": 2 },
+      { "item": "enderio:item_capacitor_vivid" }
+    ],
+    "C": { "type": "forge:ore_dict", "ore": "dustPrismarine" }
+  },
+  "result": { "item": "enderio:item_capacitor_crystalline" }
+}
