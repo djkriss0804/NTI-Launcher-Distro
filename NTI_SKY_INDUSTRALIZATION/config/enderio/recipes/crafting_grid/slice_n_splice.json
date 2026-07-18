@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "DED"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotSoularium" },
+    "B": { "type": "forge:ore_dict", "ore": "itemSkull" },
+    "C": { "type": "forge:ore_dict", "ore": "itemSoulMachineChassi" },
+    "D": { "type": "forge:ore_dict", "ore": "gearEnergized" },
+    "E": { "type": "forge:ore_dict", "ore": "barsIron" }
+  },
+  "result": { "item": "enderio:block_slice_and_splice" }
+}
