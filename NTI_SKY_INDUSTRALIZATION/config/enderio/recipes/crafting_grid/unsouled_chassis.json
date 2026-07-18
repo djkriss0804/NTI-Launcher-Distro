@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ABA"
+  ],
+  "key": {
+    "A": { "item": "enderio:block_industrial_insulation" },
+    "B": { "type": "forge:ore_dict", "ore": "skullGuardianDiode" },
+    "C": { "type": "forge:ore_dict", "ore": "itemSoulMachineChassi" }
+  },
+  "result": { "item": "minecraft:stone", "data": 0 }
+}
