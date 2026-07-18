@@ -1,0 +1,33 @@
+{
+  "machine": "vat",
+  "name": "vat_4",
+  "energy": 10000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "minecraft:gunpowder",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:redstone",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [],
+  "fluid_inputs": [
+    {
+      "fluid": "hootch",
+      "amount": 1000
+    }
+  ],
+  "fluid_outputs": [
+    {
+      "fluid": "rocket_fuel",
+      "amount": 1000
+    }
+  ]
+}
