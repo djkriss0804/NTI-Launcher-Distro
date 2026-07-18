@@ -1,0 +1,33 @@
+{
+  "machine": "vat",
+  "name": "vat_2",
+  "energy": 20000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "itemPulsatingPowder",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "itemPrecientPowder",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [],
+  "fluid_inputs": [
+    {
+      "fluid": "ender_distillation",
+      "amount": 1000
+    }
+  ],
+  "fluid_outputs": [
+    {
+      "fluid": "vapor_of_levity",
+      "amount": 1000
+    }
+  ]
+}
