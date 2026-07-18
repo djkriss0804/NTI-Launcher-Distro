@@ -1,0 +1,40 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_13",
+  "energy": 2400,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "ore": "cobblestone",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "minecraft:gravel",
+      "data": 0,
+      "count": 1,
+      "chance": 0.7
+    },
+    {
+      "item": "minecraft:gravel",
+      "data": 0,
+      "count": 1,
+      "chance": 0.3
+    },
+    {
+      "item": "minecraft:sand",
+      "data": 0,
+      "count": 1,
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:flint",
+      "data": 0,
+      "count": 1,
+      "chance": 0.05
+    }
+  ]
+}
