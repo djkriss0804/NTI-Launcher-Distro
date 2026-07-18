@@ -1,0 +1,19 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    "D D"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "gearDark" },
+    "B": { "type": "forge:ore_dict", "ore": "ingotDarkSteel" },
+    "C": [
+      { "item": "ic2:treetap" },
+      { "item": " ic2:itemtreetap" },
+      { "item": " techreborn:treetap" }
+    ],
+    "D": { "type": "forge:ore_dict", "ore": "nuggetDarkSteel" }
+  },
+  "result": { "item": "enderio:item_dark_steel_treetap" }
+}
