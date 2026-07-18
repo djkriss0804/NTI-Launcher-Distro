@@ -1,0 +1,93 @@
+{
+  "machine": "vat",
+  "name": "vat_0",
+  "energy": 10000,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "itemSkull",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:rotten_flesh",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:chicken",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:beef",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:porkchop",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:rabbit",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:mutton",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:sugar",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:brown_mushroom",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:red_mushroom",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:nether_wart",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "item": "minecraft:fermented_spider_eye",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [],
+  "fluid_inputs": [
+    {
+      "fluid": "water",
+      "amount": 1000
+    }
+  ],
+  "fluid_outputs": [
+    {
+      "fluid": "nutrient_distillation",
+      "amount": 375
+    }
+  ]
+}
