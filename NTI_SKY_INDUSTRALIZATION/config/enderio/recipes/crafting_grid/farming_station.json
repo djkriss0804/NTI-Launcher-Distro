@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EFE"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemVibrantCrystal" },
+    "B": { "type": "forge:ore_dict", "ore": "skullZombieController" },
+    "C": { "type": "forge:ore_dict", "ore": "ingotSoularium" },
+    "D": { "type": "forge:ore_dict", "ore": "itemSoulMachineChassi" },
+    "E": { "type": "forge:ore_dict", "ore": "gearEnergized" },
+    "F": { "type": "forge:ore_dict", "ore": "itemPulsatingCrystal" }
+  },
+  "result": { "item": "enderio:block_farm_station" }
+}
