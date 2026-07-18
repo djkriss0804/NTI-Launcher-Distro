@@ -1,0 +1,18 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BCB",
+    "BDB"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "fusedQuartz" },
+    "B": { "type": "forge:ore_dict", "ore": "itemSilicon" },
+    "C": { "type": "forge:ore_dict", "ore": "dustGlowstone" },
+    "D": [
+      { "item": "enderio:item_basic_capacitor", "data": 0 },
+      { "item": "enderio:item_capacitor_silver" }
+    ]
+  },
+  "result": { "item": "enderio:block_electric_light", "data": 0 }
+}
