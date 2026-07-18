@@ -1,0 +1,22 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_67",
+  "energy": 2400,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "ingotLudicrite",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "newtechindustrial:dustludicrite",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ]
+}
