@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " AB",
+    "C B",
+    " AB"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "itemNutritiousStick" },
+    "B": { "type": "forge:ore_dict", "ore": "string" },
+    "C": { "type": "forge:ore_dict", "ore": "skullSkeletalContractor" }
+  },
+  "result": { "item": "enderio:item_dark_steel_bow" }
+}
