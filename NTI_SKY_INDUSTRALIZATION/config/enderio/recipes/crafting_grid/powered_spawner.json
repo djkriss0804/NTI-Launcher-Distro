@@ -1,0 +1,16 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "DED"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotElectricalSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "itemSkull" },
+    "C": { "type": "forge:ore_dict", "ore": "itemSoulMachineChassi" },
+    "D": { "type": "forge:ore_dict", "ore": "itemVibrantCrystal" },
+    "E": { "type": "forge:ore_dict", "ore": "skullZombieController" }
+  },
+  "result": { "item": "enderio:block_powered_spawner" }
+}
