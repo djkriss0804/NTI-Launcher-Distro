@@ -1,0 +1,28 @@
+{
+  "machine": "alloysmelter",
+  "name": "alloysmelter_19",
+  "energy": 10000,
+  "experience": 0.7,
+  "inputs": [
+    {
+      "item": "ingotIron",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    },
+    {
+      "ore": "enderpearl",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "enderio:item_alloy_ingot",
+      "data": 5,
+      "count": 1,
+      "chance": 1.0
+    }
+  ]
+}
