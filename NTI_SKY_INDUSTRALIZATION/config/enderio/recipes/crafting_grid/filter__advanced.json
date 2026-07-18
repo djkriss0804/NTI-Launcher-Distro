@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "dustRedstone" },
+    "B": [
+      { "type": "forge:ore_dict", "ore": "paper" },
+      { "type": "forge:ore_dict", "ore": " paperBlack" }
+    ],
+    "C": { "type": "forge:ore_dict", "ore": "skullZombieController" }
+  },
+  "result": { "item": "enderio:item_advanced_item_filter" }
+}
