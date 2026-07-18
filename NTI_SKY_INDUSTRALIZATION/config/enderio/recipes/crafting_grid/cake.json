@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "AAA",
+    "BCB"
+  ],
+  "key": {
+    "A": { "item": "minecraft:milk_bucket" },
+    "B": { "item": "minecraft:sugar" },
+    "C": { "type": "forge:ore_dict", "ore": "itemCakeBase" }
+  },
+  "result": { "item": "item:minecraft", "data": cake }
+}
