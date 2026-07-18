@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "  A",
+    "  B",
+    "CDB"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "blockDarkSteel" },
+    "B": { "type": "forge:ore_dict", "ore": "stickWood" },
+    "C": { "item": "enderio:item_dark_steel_upgrade", "data": 0 },
+    "D": { "item": "enderio:block_dark_steel_anvil" }
+  },
+  "result": { "item": "enderio:item_dark_steel_upgrade", "data": 1 }
+}
