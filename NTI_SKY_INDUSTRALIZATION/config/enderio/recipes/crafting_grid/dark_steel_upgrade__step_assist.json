@@ -1,0 +1,13 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "  A",
+    " AA",
+    "AAB"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotBrick" },
+    "B": { "item": "enderio:item_dark_steel_upgrade", "data": 0 }
+  },
+  "result": { "item": "enderio:item_dark_steel_upgrade", "data": 1 }
+}
