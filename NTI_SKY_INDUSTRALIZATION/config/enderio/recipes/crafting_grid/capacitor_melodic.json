@@ -1,0 +1,14 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotMelodicAlloy" },
+    "B": { "item": "enderio:item_capacitor_crystalline" },
+    "C": { "type": "forge:ore_dict", "ore": "ingotEndSteel" }
+  },
+  "result": { "item": "enderio:item_capacitor_melodic" }
+}
