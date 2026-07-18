@@ -1,0 +1,23 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " A ",
+    "BBB",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "enderio:block_fused_quartz",
+      "data": 0
+    },
+    "B": {
+      "item": "enderio:item_liquid_conduit",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "enderio:item_liquid_conduit",
+    "data": 1,
+    "count": 2
+  }
+}
