@@ -1,0 +1,7 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "type": "forge:ore_dict", "ore": "compressed1xDustBedrock" }
+  ],
+  "result": { "item": "minecraft:stone", "data": 0, "count": 9 }
+}
