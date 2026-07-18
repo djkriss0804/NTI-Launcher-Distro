@@ -1,0 +1,12 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "ABC"
+  ],
+  "key": {
+    "A": { "type": "forge:ore_dict", "ore": "ingotRedstoneAlloy" },
+    "B": { "type": "forge:ore_dict", "ore": "itemRedstoneFilterBase" },
+    "C": { "item": "minecraft:clock" }
+  },
+  "result": { "item": "enderio:item_redstone_timer_filter" }
+}
