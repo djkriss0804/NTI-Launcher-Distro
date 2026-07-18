@@ -1,0 +1,28 @@
+{
+  "machine": "sagmill",
+  "name": "sagmill_129",
+  "energy": 2400,
+  "experience": 0.0,
+  "inputs": [
+    {
+      "item": "rodBasalz",
+      "data": 0,
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "outputs": [
+    {
+      "item": "thermalfoundation:material",
+      "data": 2053,
+      "count": 4,
+      "chance": 1.0
+    },
+    {
+      "item": "thermalfoundation:material",
+      "data": 770,
+      "count": 1,
+      "chance": 0.5
+    }
+  ]
+}
