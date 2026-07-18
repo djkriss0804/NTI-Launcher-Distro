@@ -1,0 +1,9 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:lever" },
+    { "type": "forge:ore_dict", "ore": "dustRedstone" },
+    { "item": "minecraft:redstone_torch" }
+  ],
+  "result": { "item": "enderio:block_self_resetting_lever5i" }
+}
