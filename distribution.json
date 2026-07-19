@@ -1,5 +1,5 @@
 {
-    "version": "1.0.29",
+    "version": "1.0.30",
     "socials": {
         "discord": "https://discord.gg/",
         "github": "https://github.com/",
@@ -85,8 +85,8 @@
                     "type": "File",
                     "artifact": {
                         "size": 835,
-                        "MD5": "d9a8612a1a34d5cc6d44bdfe54e1d51dd477f5e5",
-                        "hash": "d9a8612a1a34d5cc6d44bdfe54e1d51dd477f5e5",
+                        "MD5": "5f39cd0b22e6c97340151cdbb11c797c9eadeae4",
+                        "hash": "5f39cd0b22e6c97340151cdbb11c797c9eadeae4",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/AppliedEnergistics2/CustomRecipes.cfg",
                         "path": "config/AppliedEnergistics2/CustomRecipes.cfg"
                     }
@@ -97,8 +97,8 @@
                     "type": "File",
                     "artifact": {
                         "size": 174315,
-                        "MD5": "b82c930548ca946a813700826b2504c75e88d1e1",
-                        "hash": "b82c930548ca946a813700826b2504c75e88d1e1",
+                        "MD5": "f91206dee516ac24ddb5c7482e6e5aa03c03e5ed",
+                        "hash": "f91206dee516ac24ddb5c7482e6e5aa03c03e5ed",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/AppliedEnergistics2/items.csv",
                         "path": "config/AppliedEnergistics2/items.csv"
                     }
@@ -888,9 +888,9 @@
                     "name": "customloadingscreen_timings.nbt",
                     "type": "File",
                     "artifact": {
-                        "size": 1151,
-                        "MD5": "214d84b7a6b83026b545e10d62b04ec3fadbc1b5",
-                        "hash": "214d84b7a6b83026b545e10d62b04ec3fadbc1b5",
+                        "size": 1214,
+                        "MD5": "480d368f03cbe55b16b2f48d819737360e6fe04a",
+                        "hash": "480d368f03cbe55b16b2f48d819737360e6fe04a",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/customloadingscreen_timings.nbt",
                         "path": "config/customloadingscreen_timings.nbt"
                     }
@@ -11869,8 +11869,8 @@
                     "type": "File",
                     "artifact": {
                         "size": 376,
-                        "MD5": "9f61042289732068351970e2f92f81f83bbe8338",
-                        "hash": "9f61042289732068351970e2f92f81f83bbe8338",
+                        "MD5": "d638b145240f38cdea772baefc14ed6088502913",
+                        "hash": "d638b145240f38cdea772baefc14ed6088502913",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/splash.properties",
                         "path": "config/splash.properties"
                     }
@@ -11981,138 +11981,6 @@
                         "hash": "a74a818c955681abbed25baf397f5e11cb59a72c",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/wawla.cfg",
                         "path": "config/wawla.cfg"
-                    }
-                },
-                {
-                    "id": "config/xaero/lib/client.cfg",
-                    "name": "client.cfg",
-                    "type": "File",
-                    "artifact": {
-                        "size": 26,
-                        "MD5": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
-                        "hash": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/xaero/lib/client.cfg",
-                        "path": "config/xaero/lib/client.cfg"
-                    }
-                },
-                {
-                    "id": "config/xaero/lib/common.cfg",
-                    "name": "common.cfg",
-                    "type": "File",
-                    "artifact": {
-                        "size": 236,
-                        "MD5": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
-                        "hash": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/xaero/lib/common.cfg",
-                        "path": "config/xaero/lib/common.cfg"
-                    }
-                },
-                {
-                    "id": "config/xaero/lib/profiles/default.cfg",
-                    "name": "default.cfg",
-                    "type": "File",
-                    "artifact": {
-                        "size": 121,
-                        "MD5": "253bac0f5181c8db8e488832c46a8d40018650cf",
-                        "hash": "253bac0f5181c8db8e488832c46a8d40018650cf",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/xaero/lib/profiles/default.cfg",
-                        "path": "config/xaero/lib/profiles/default.cfg"
-                    }
-                },
-                {
-                    "id": "config/xaero/lib/server_profiles/default.cfg",
-                    "name": "default.cfg",
-                    "type": "File",
-                    "artifact": {
-                        "size": 75,
-                        "MD5": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
-                        "hash": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/xaero/lib/server_profiles/default.cfg",
-                        "path": "config/xaero/lib/server_profiles/default.cfg"
-                    }
-                },
-                {
-                    "id": "config/xaero/minimap/client.cfg",
-                    "name": "client.cfg",
-                    "type": "File",
-                    "artifact": {
-                        "size": 235,
-                        "MD5": "a18a4a75d6f033c35ecde56c14306760715a3a19",
-                        "hash": "a18a4a75d6f033c35ecde56c14306760715a3a19",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/xaero/minimap/client.cfg",
-                        "path": "config/xaero/minimap/client.cfg"
-                    }
-                },
-                {
-                    "id": "config/xaero/minimap/common.cfg",
-                    "name": "common.cfg",
-                    "type": "File",
-                    "artifact": {
-                        "size": 147,
-                        "MD5": "de09f45b29b264432b80d34bb0c336bd552fb9ee",
-                        "hash": "de09f45b29b264432b80d34bb0c336bd552fb9ee",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/xaero/minimap/common.cfg",
-                        "path": "config/xaero/minimap/common.cfg"
-                    }
-                },
-                {
-                    "id": "config/xaero/minimap/default_radar_categories_client.json",
-                    "name": "default_radar_categories_client.json",
-                    "type": "File",
-                    "artifact": {
-                        "size": 5531,
-                        "MD5": "e058f3dfac7d6a3441196628f1aa93616721ecce",
-                        "hash": "e058f3dfac7d6a3441196628f1aa93616721ecce",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/xaero/minimap/default_radar_categories_client.json",
-                        "path": "config/xaero/minimap/default_radar_categories_client.json"
-                    }
-                },
-                {
-                    "id": "config/xaero/minimap/default_radar_categories_server.json",
-                    "name": "default_radar_categories_server.json",
-                    "type": "File",
-                    "artifact": {
-                        "size": 4597,
-                        "MD5": "c247867b018103357eb4015059fe209cc562de51",
-                        "hash": "c247867b018103357eb4015059fe209cc562de51",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/xaero/minimap/default_radar_categories_server.json",
-                        "path": "config/xaero/minimap/default_radar_categories_server.json"
-                    }
-                },
-                {
-                    "id": "config/xaero/minimap/profiles/default.cfg",
-                    "name": "default.cfg",
-                    "type": "File",
-                    "artifact": {
-                        "size": 3649,
-                        "MD5": "71f90e714ca44c4ddaea1a2fec5ff54ca37d8f60",
-                        "hash": "71f90e714ca44c4ddaea1a2fec5ff54ca37d8f60",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/xaero/minimap/profiles/default.cfg",
-                        "path": "config/xaero/minimap/profiles/default.cfg"
-                    }
-                },
-                {
-                    "id": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-                    "name": "default.cfg.txt",
-                    "type": "File",
-                    "artifact": {
-                        "size": 684,
-                        "MD5": "2b8d12369471b57bfa6426254b2170bc8e6b3b88",
-                        "hash": "2b8d12369471b57bfa6426254b2170bc8e6b3b88",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-                        "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-                    }
-                },
-                {
-                    "id": "config/xaero/minimap/server_profiles/default.cfg",
-                    "name": "default.cfg",
-                    "type": "File",
-                    "artifact": {
-                        "size": 75,
-                        "MD5": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
-                        "hash": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/xaero/minimap/server_profiles/default.cfg",
-                        "path": "config/xaero/minimap/server_profiles/default.cfg"
                     }
                 },
                 {
@@ -12233,6 +12101,10 @@
                         "hash": "151671af56599d39ef5ca41bf9bda3584b6818e1",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/Controlling-3.0.10.jar",
                         "path": "mods/Controlling-3.0.10.jar"
+                    },
+                    "required": {
+                        "value": false,
+                        "def": false
                     }
                 },
                 {
@@ -12329,6 +12201,10 @@
                         "hash": "6e00827d1a009da39fa6db5afd2a3d6b024abfe9",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/InventoryTweaks-1.63.jar",
                         "path": "mods/InventoryTweaks-1.63.jar"
+                    },
+                    "required": {
+                        "value": false,
+                        "def": false
                     }
                 },
                 {
@@ -12401,6 +12277,10 @@
                         "hash": "0d3b0589021905b2eab8ba93805e9fdef463288e",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/MouseTweaks-2.10-mc1.12.2.jar",
                         "path": "mods/MouseTweaks-2.10-mc1.12.2.jar"
+                    },
+                    "required": {
+                        "value": false,
+                        "def": false
                     }
                 },
                 {
@@ -12737,30 +12617,6 @@
                         "hash": "bc87c72b3aac54367b6641f9dbd41f6a218043cd",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/zerocore-1.12.2-0.1.2.9.jar",
                         "path": "mods/zerocore-1.12.2-0.1.2.9.jar"
-                    }
-                },
-                {
-                    "id": "options.txt",
-                    "name": "options.txt",
-                    "type": "File",
-                    "artifact": {
-                        "size": 4781,
-                        "MD5": "c0caa71f0ecf048ad5da0969c447526622ab6731",
-                        "hash": "c0caa71f0ecf048ad5da0969c447526622ab6731",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/options.txt",
-                        "path": "options.txt"
-                    }
-                },
-                {
-                    "id": "optionsshaders.txt",
-                    "name": "optionsshaders.txt",
-                    "type": "File",
-                    "artifact": {
-                        "size": 14,
-                        "MD5": "df2fc2e510c64909af1c514912ef06324a33d339",
-                        "hash": "df2fc2e510c64909af1c514912ef06324a33d339",
-                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/optionsshaders.txt",
-                        "path": "optionsshaders.txt"
                     }
                 },
                 {
