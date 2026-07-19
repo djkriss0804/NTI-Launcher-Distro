@@ -1,0 +1,280 @@
+[
+    {
+        "id": "org.ow2.asm:asm-debug-all:5.2",
+        "name": "asm-debug-all",
+        "type": "Library",
+        "artifact": {
+            "size": 387903,
+            "MD5": "3354e11e2b34215f06dab629ab88e06aca477c19",
+            "hash": "3354e11e2b34215f06dab629ab88e06aca477c19",
+            "path": "org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar",
+            "url": "https://maven.minecraftforge.net/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+        }
+    },
+    {
+        "id": "net.minecraft:launchwrapper:1.12",
+        "name": "launchwrapper",
+        "type": "Library",
+        "artifact": {
+            "size": 32999,
+            "MD5": "111e7bea9c968cdb3d06ef4632bf7ff0824d0f36",
+            "hash": "111e7bea9c968cdb3d06ef4632bf7ff0824d0f36",
+            "path": "net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar",
+            "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+        }
+    },
+    {
+        "id": "org.jline:jline:3.5.1",
+        "name": "jline",
+        "type": "Library",
+        "artifact": {
+            "size": 614590,
+            "MD5": "51800e9d7a13608894a5a28eed0f5c7fa2f300fb",
+            "hash": "51800e9d7a13608894a5a28eed0f5c7fa2f300fb",
+            "path": "org/jline/jline/3.5.1/jline-3.5.1.jar",
+            "url": "https://maven.minecraftforge.net/org/jline/jline/3.5.1/jline-3.5.1.jar"
+        }
+    },
+    {
+        "id": "com.typesafe.akka:akka-actor_2.11:2.3.3",
+        "name": "akka-actor_2.11",
+        "type": "Library",
+        "artifact": {
+            "size": 2514991,
+            "MD5": "ed62e9fc709ca0f2ff1a3220daa8b70a2870078e",
+            "hash": "ed62e9fc709ca0f2ff1a3220daa8b70a2870078e",
+            "path": "com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar",
+            "url": "https://maven.minecraftforge.net/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+        }
+    },
+    {
+        "id": "com.typesafe:config:1.2.1",
+        "name": "config",
+        "type": "Library",
+        "artifact": {
+            "size": 219554,
+            "MD5": "f771f71fdae3df231bcd54d5ca2d57f0bf93f467",
+            "hash": "f771f71fdae3df231bcd54d5ca2d57f0bf93f467",
+            "path": "com/typesafe/config/1.2.1/config-1.2.1.jar",
+            "url": "https://maven.minecraftforge.net/com/typesafe/config/1.2.1/config-1.2.1.jar"
+        }
+    },
+    {
+        "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0",
+        "name": "scala-actors-migration_2.11",
+        "type": "Library",
+        "artifact": {
+            "size": 58018,
+            "MD5": "dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f",
+            "hash": "dfa8bc42b181d5b9f1a5dd147f8ae308b893eb6f",
+            "path": "org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar",
+            "url": "https://maven.minecraftforge.net/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+        }
+    },
+    {
+        "id": "org.scala-lang:scala-compiler:2.11.1",
+        "name": "scala-compiler",
+        "type": "Library",
+        "artifact": {
+            "size": 13449765,
+            "MD5": "56ea2e6c025e0821f28d73ca271218b8dd04926a",
+            "hash": "56ea2e6c025e0821f28d73ca271218b8dd04926a",
+            "path": "org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar",
+            "url": "https://maven.minecraftforge.net/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+        }
+    },
+    {
+        "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2_mc",
+        "name": "scala-continuations-library_2.11",
+        "type": "Library",
+        "artifact": {
+            "size": 25365,
+            "MD5": "0e517c53a7e9acd6b1668c5a35eccbaa3bab9aac",
+            "hash": "0e517c53a7e9acd6b1668c5a35eccbaa3bab9aac",
+            "path": "org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar",
+            "url": "https://maven.minecraftforge.net/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+        }
+    },
+    {
+        "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2_mc",
+        "name": "scala-continuations-plugin_2.11.1",
+        "type": "Library",
+        "artifact": {
+            "size": 206575,
+            "MD5": "f361a3283452c57fa30c1ee69448995de23c60f7",
+            "hash": "f361a3283452c57fa30c1ee69448995de23c60f7",
+            "path": "org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar",
+            "url": "https://maven.minecraftforge.net/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+        }
+    },
+    {
+        "id": "org.scala-lang:scala-library:2.11.1",
+        "name": "scala-library",
+        "type": "Library",
+        "artifact": {
+            "size": 5538130,
+            "MD5": "0e11da23da3eabab9f4777b9220e60d44c1aab6a",
+            "hash": "0e11da23da3eabab9f4777b9220e60d44c1aab6a",
+            "path": "org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar",
+            "url": "https://maven.minecraftforge.net/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+        }
+    },
+    {
+        "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1",
+        "name": "scala-parser-combinators_2.11",
+        "type": "Library",
+        "artifact": {
+            "size": 419701,
+            "MD5": "f05d7345bf5a58924f2837c6c1f4d73a938e1ff0",
+            "hash": "f05d7345bf5a58924f2837c6c1f4d73a938e1ff0",
+            "path": "org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar",
+            "url": "https://maven.minecraftforge.net/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+        }
+    },
+    {
+        "id": "org.scala-lang:scala-reflect:2.11.1",
+        "name": "scala-reflect",
+        "type": "Library",
+        "artifact": {
+            "size": 4372892,
+            "MD5": "6580347e61cc7f8e802941e7fde40fa83b8badeb",
+            "hash": "6580347e61cc7f8e802941e7fde40fa83b8badeb",
+            "path": "org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar",
+            "url": "https://maven.minecraftforge.net/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+        }
+    },
+    {
+        "id": "org.scala-lang:scala-swing_2.11:1.0.1",
+        "name": "scala-swing_2.11",
+        "type": "Library",
+        "artifact": {
+            "size": 726500,
+            "MD5": "b1cdd92bd47b1e1837139c1c53020e86bb9112ae",
+            "hash": "b1cdd92bd47b1e1837139c1c53020e86bb9112ae",
+            "path": "org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar",
+            "url": "https://maven.minecraftforge.net/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+        }
+    },
+    {
+        "id": "org.scala-lang:scala-xml_2.11:1.0.2",
+        "name": "scala-xml_2.11",
+        "type": "Library",
+        "artifact": {
+            "size": 648679,
+            "MD5": "7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0",
+            "hash": "7a80ec00aec122fba7cd4e0d4cdd87ff7e4cb6d0",
+            "path": "org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar",
+            "url": "https://maven.minecraftforge.net/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+        }
+    },
+    {
+        "id": "lzma:lzma:0.0.1",
+        "name": "lzma",
+        "type": "Library",
+        "artifact": {
+            "size": 5762,
+            "MD5": "521616dc7487b42bef0e803bd2fa3faf668101d7",
+            "hash": "521616dc7487b42bef0e803bd2fa3faf668101d7",
+            "path": "lzma/lzma/0.0.1/lzma-0.0.1.jar",
+            "url": "https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+        }
+    },
+    {
+        "id": "java3d:vecmath:1.5.2",
+        "name": "vecmath",
+        "type": "Library",
+        "artifact": {
+            "size": 318956,
+            "MD5": "79846ba34cbd89e2422d74d53752f993dcc2ccaf",
+            "hash": "79846ba34cbd89e2422d74d53752f993dcc2ccaf",
+            "path": "java3d/vecmath/1.5.2/vecmath-1.5.2.jar",
+            "url": "https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+        }
+    },
+    {
+        "id": "net.sf.trove4j:trove4j:3.0.3",
+        "name": "trove4j",
+        "type": "Library",
+        "artifact": {
+            "size": 2523218,
+            "MD5": "42ccaf4761f0dfdfa805c9e340d99a755907e2dd",
+            "hash": "42ccaf4761f0dfdfa805c9e340d99a755907e2dd",
+            "path": "net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar",
+            "url": "https://libraries.minecraft.net/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+        }
+    },
+    {
+        "id": "org.apache.maven:maven-artifact:3.5.3",
+        "name": "maven-artifact",
+        "type": "Library",
+        "artifact": {
+            "size": 54961,
+            "MD5": "7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4",
+            "hash": "7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4",
+            "path": "org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar",
+            "url": "https://maven.minecraftforge.net/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+        }
+    },
+    {
+        "id": "net.sf.jopt-simple:jopt-simple:5.0.3",
+        "name": "jopt-simple",
+        "type": "Library",
+        "artifact": {
+            "size": 78175,
+            "MD5": "cdd846cfc4e0f7eefafc02c0f5dce32b9303aa2a",
+            "hash": "cdd846cfc4e0f7eefafc02c0f5dce32b9303aa2a",
+            "path": "net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar",
+            "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+        }
+    },
+    {
+        "id": "org.apache.logging.log4j:log4j-api:2.15.0",
+        "name": "log4j-api",
+        "type": "Library",
+        "artifact": {
+            "size": 301804,
+            "MD5": "4a5aa7e55a29391c6f66e0b259d5189aa11e45d0",
+            "hash": "4a5aa7e55a29391c6f66e0b259d5189aa11e45d0",
+            "path": "org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar",
+            "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+        }
+    },
+    {
+        "id": "org.apache.logging.log4j:log4j-core:2.15.0",
+        "name": "log4j-core",
+        "type": "Library",
+        "artifact": {
+            "size": 1789769,
+            "MD5": "ba55c13d7ac2fd44df9cc8074455719a33f375b9",
+            "hash": "ba55c13d7ac2fd44df9cc8074455719a33f375b9",
+            "path": "org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar",
+            "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+        }
+    },
+    {
+        "id": "net.minecraftforge:forge:1.12.2-14.23.5.2864",
+        "name": "Minecraft Forge",
+        "type": "ForgeHosted",
+        "artifact": {
+            "size": 4301162,
+            "MD5": "f7e3bd1e18b2cf81691f1d565eeb40ba",
+            "hash": "f7e3bd1e18b2cf81691f1d565eeb40ba",
+            "path": "forge-1.12.2-14.23.5.2864-installer.jar",
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2864/forge-1.12.2-14.23.5.2864-universal.jar"
+        },
+        "subModules": [
+            {
+                "id": "forge-14.23.5.2864-version",
+                "name": "Forge Version Manifest",
+                "type": "VersionManifest",
+                "artifact": {
+                    "size": 11810,
+                    "MD5": "f79f6c34243cf0bcfa7244caf818a067",
+                    "hash": "f79f6c34243cf0bcfa7244caf818a067",
+                    "path": "forge-version.json",
+                    "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/forge-version.json"
+                }
+            }
+        ]
+    }
+]
