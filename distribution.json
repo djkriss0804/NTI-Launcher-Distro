@@ -1,5 +1,5 @@
 {
-    "version": "1.0.18",
+    "version": "1.0.19",
     "socials": {
         "discord": "https://discord.gg/",
         "github": "https://github.com/",
@@ -13088,15 +13088,15 @@
                     }
                 },
                 {
-                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860",
+                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
-                        "size": 4681950,
-                        "MD5": "07317d2a117a03bdac69962038e5d3f7",
-                        "hash": "07317d2a117a03bdac69962038e5d3f7",
-                        "path": "forge-1.12.2-14.23.5.2860-installer.jar",
-                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar"
+                        "size": 5336478,
+                        "MD5": "402aa47f2f77b23ec203a5560ef04143",
+                        "hash": "402aa47f2f77b23ec203a5560ef04143",
+                        "path": "forge-1.12.2-14.23.5.2847-installer.jar",
+                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-installer.jar"
                     }
                 }
             ],
@@ -13114,7 +13114,7 @@
             "modLoaders": [
                 {
                     "id": "forge",
-                    "version": "14.23.5.2860"
+                    "version": "14.23.5.2847"
                 }
             ]
         }
