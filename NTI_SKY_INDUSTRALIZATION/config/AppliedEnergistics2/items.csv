@@ -2528,254 +2528,6 @@ ftbquests:reward_collector, Reward Collector
 ftbquests:book, Quest Book
 ftbquests:lootcrate, Loot Crate
 ftbquests:custom_icon, Custom Icon
-tconstruct:book, Materials and You
-tconstruct:soil:0, Grout
-tconstruct:soil:1, Green Slimy Mud
-tconstruct:soil:2, Blue Slimy Mud
-tconstruct:soil:3, Graveyard Soil
-tconstruct:soil:4, Consecrated Soil
-tconstruct:soil:5, Slimy Magma Mud
-tconstruct:slime:1, Slime Block
-tconstruct:slime:2, Slime Block
-tconstruct:slime:3, Blood Slime Block
-tconstruct:slime:4, Slime Block
-tconstruct:slime_congealed:0, Congealed Slime Block
-tconstruct:slime_congealed:1, Congealed Slime Block
-tconstruct:slime_congealed:2, Congealed Slime Block
-tconstruct:slime_congealed:3, Congealed Bloodblock
-tconstruct:slime_congealed:4, Congealed Slime Block
-tconstruct:ore:0, Cobalt Ore
-tconstruct:ore:1, Ardite Ore
-tconstruct:firewood:0, Lavawood
-tconstruct:firewood:1, Firewood
-tconstruct:deco_ground:0, Mud Bricks
-tconstruct:clear_glass:0, Clear Glass
-tconstruct:clear_stained_glass:0, Clear White Stained Glass
-tconstruct:clear_stained_glass:1, Clear Orange Stained Glass
-tconstruct:clear_stained_glass:2, Clear Magenta Stained Glass
-tconstruct:clear_stained_glass:3, Clear Light Blue Stained Glass
-tconstruct:clear_stained_glass:4, Clear Yellow Stained Glass
-tconstruct:clear_stained_glass:5, Clear Light Green Stained Glass
-tconstruct:clear_stained_glass:6, Clear Pink Stained Glass
-tconstruct:clear_stained_glass:7, Clear Gray Stained Glass
-tconstruct:clear_stained_glass:8, Clear Light Gray Stained Glass
-tconstruct:clear_stained_glass:9, Clear Cyan Stained Glass
-tconstruct:clear_stained_glass:10, Clear Purple Stained Glass
-tconstruct:clear_stained_glass:11, Clear Blue Stained Glass
-tconstruct:clear_stained_glass:12, Clear Brown Stained Glass
-tconstruct:clear_stained_glass:13, Clear Green Stained Glass
-tconstruct:clear_stained_glass:14, Clear Red Stained Glass
-tconstruct:clear_stained_glass:15, Clear Black Stained Glass
-tconstruct:deco_ground_slab:0, Mud Bricks Slab
-tconstruct:firewood_slab:0, Lavawood Slab
-tconstruct:firewood_slab:1, Firewood Slab
-tconstruct:mudbrick_stairs:0, Mud Bricks Stairs
-tconstruct:firewood_stairs:0, Firewood Stairs
-tconstruct:lavawood_stairs:0, Lavawood Stairs
-tconstruct:nuggets:0, Cobalt Nugget
-tconstruct:nuggets:1, Ardite Nugget
-tconstruct:nuggets:2, Manyullyn Nugget
-tconstruct:nuggets:4, Pigiron Nugget
-tconstruct:ingots:0, Cobalt Ingot
-tconstruct:ingots:1, Ardite Ingot
-tconstruct:ingots:2, Manyullyn Ingot
-tconstruct:ingots:4, Pigiron Ingot
-tconstruct:materials:0, Seared Brick
-tconstruct:materials:1, Mud Brick
-tconstruct:edible:1, Slimeball
-tconstruct:edible:2, Slimeball
-tconstruct:edible:3, Coagulated Blood
-tconstruct:edible:4, Slimeball
-tconstruct:edible:5, Slimeball
-tconstruct:metal:0, Block of Cobalt
-tconstruct:metal:1, Block of Ardite
-tconstruct:metal:2, Block of Manyullyn
-tconstruct:metal:3, Block of Knightslime
-tconstruct:metal:4, Block of Pigiron
-tconstruct:metal:6, Silky Block of Jewel
-tconstruct:slime_dirt:0, Green Slimy Dirt
-tconstruct:slime_dirt:1, Blue Slimy Dirt
-tconstruct:slime_dirt:2, Purple Slimy Dirt
-tconstruct:slime_dirt:3, Magma Slimy Dirt
-tconstruct:slime_grass:0, Slimy Grass
-tconstruct:slime_grass:1, Green Slimy Grass
-tconstruct:slime_grass:2, Blue Slimy Grass
-tconstruct:slime_grass:3, Purple Slimy Grass
-tconstruct:slime_grass:4, Magma Slimy Grass
-tconstruct:slime_grass:5, Slimy Grass
-tconstruct:slime_grass:6, Green Slimy Grass
-tconstruct:slime_grass:7, Blue Slimy Grass
-tconstruct:slime_grass:8, Purple Slimy Grass
-tconstruct:slime_grass:9, Magma Slimy Grass
-tconstruct:slime_grass:10, Slimy Grass
-tconstruct:slime_grass:11, Green Slimy Grass
-tconstruct:slime_grass:12, Blue Slimy Grass
-tconstruct:slime_grass:13, Purple Slimy Grass
-tconstruct:slime_grass:14, Magma Slimy Grass
-tconstruct:slime_leaves:0, Slimy Leaves
-tconstruct:slime_leaves:1, Slimy Leaves
-tconstruct:slime_leaves:2, Slimy Leaves
-tconstruct:slime_grass_tall:0, Tall Slimy Grass
-tconstruct:slime_grass_tall:4, Tall Slimy Grass
-tconstruct:slime_grass_tall:8, Tall Slimy Grass
-tconstruct:slime_grass_tall:1, Slimy Fern
-tconstruct:slime_grass_tall:5, Slimy Fern
-tconstruct:slime_grass_tall:9, Slimy Fern
-tconstruct:slime_sapling:0, Blue Slime Sapling
-tconstruct:slime_sapling:1, Purple Slime Sapling
-tconstruct:slime_sapling:2, Magma Slime Sapling
-tconstruct:slime_vine_blue_end:0, Blue Slimy Vine
-tconstruct:slime_vine_blue_mid:0, Blue Slimy Vine
-tconstruct:slime_vine_blue:0, Blue Slimy Vine
-tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
-tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
-tconstruct:slime_vine_purple:0, Purple Slimy Vine
-tconstruct:seared:0, Seared Stone
-tconstruct:seared:1, Seared Cobblestone
-tconstruct:seared:2, Seared Paver
-tconstruct:seared:3, Seared Bricks
-tconstruct:seared:4, Cracked Seared Bricks
-tconstruct:seared:5, Fancy Seared Bricks
-tconstruct:seared:6, Square Seared Bricks
-tconstruct:seared:7, Seared Road
-tconstruct:seared:8, Seared Creeperface
-tconstruct:seared:9, Triangle Seared Bricks
-tconstruct:seared:10, Small Seared Bricks
-tconstruct:seared:11, Seared Tiles
-tconstruct:smeltery_controller:0, Smeltery Controller
-tconstruct:seared_tank:0, Seared Tank
-tconstruct:seared_tank:1, Seared Gauge
-tconstruct:seared_tank:2, Seared Window
-tconstruct:faucet:0, Seared Faucet
-tconstruct:channel:0, Casting Channel
-tconstruct:casting:0, Casting Table
-tconstruct:casting:1, Casting Basin
-tconstruct:smeltery_io:0, Seared Drain
-tconstruct:seared_glass:0, Seared Glass
-tconstruct:seared_furnace_controller:0, Seared Furnace Controller
-tconstruct:tinker_tank_controller:0, Tinker Tank Controller
-tconstruct:seared_slab:0, Seared Stone Slab
-tconstruct:seared_slab:1, Seared Cobblestone Slab
-tconstruct:seared_slab:2, Seared Paver Slab
-tconstruct:seared_slab:3, Seared Bricks Slab
-tconstruct:seared_slab:4, Cracked Seared Bricks Slab
-tconstruct:seared_slab:5, Fancy Seared Bricks Slab
-tconstruct:seared_slab:6, Square Seared Bricks Slab
-tconstruct:seared_slab:7, Seared Road Slab
-tconstruct:seared_slab2:0, Seared Creeperface Slab
-tconstruct:seared_slab2:1, Triangle Seared Bricks Slab
-tconstruct:seared_slab2:2, Small Seared Bricks Slab
-tconstruct:seared_slab2:3, Seared Tile Slab
-tconstruct:seared_stairs_stone:0, Seared Stone Stairs
-tconstruct:seared_stairs_cobble:0, Seared Cobblestone Stairs
-tconstruct:seared_stairs_paver:0, Seared Paver Stairs
-tconstruct:seared_stairs_brick:0, Seared Bricks Stairs
-tconstruct:seared_stairs_brick_cracked:0, Cracked Seared Bricks Stairs
-tconstruct:seared_stairs_brick_fancy:0, Fancy Seared Bricks Stairs
-tconstruct:seared_stairs_brick_square:0, Square Seared Bricks Stairs
-tconstruct:seared_stairs_brick_triangle:0, Triangle Seared Bricks Stairs
-tconstruct:seared_stairs_brick_small:0, Small Seared Bricks Stairs
-tconstruct:seared_stairs_road:0, Seared Road Stairs
-tconstruct:seared_stairs_tile:0, Seared Tile Stairs
-tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
-tconstruct:cast:0, Blank Cast
-tconstruct:cast_custom:0, Ingot Cast
-tconstruct:cast_custom:1, Nugget Cast
-tconstruct:cast_custom:2, Gem Cast
-tconstruct:cast_custom:3, Plate Cast
-tconstruct:cast_custom:4, Gear Cast
-tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tcomplement:materials:0, Stone Bucket
-tcomplement:materials:1, Scorched Brick
-tcomplement:materials:10, Steel Ingot
-tcomplement:materials:20, Steel Nugget
-tcomplement:cast:0, Bucket Cast
-tcomplement:cast_clay:0, Clay Bucket Cast
-tcomplement:edibles:10, Milk Chocolate Ingot
-tcomplement:edibles:11, Dark Chocolate Ingot
-tcomplement:edibles:20, Milk Chocolate Nugget
-tcomplement:edibles:21, Dark Chocolate Nugget
-tcomplement:edibles:30, Cocoa Butter
-tcomplement:melter:0, Melter
-tcomplement:melter:8, Seared Heater
-tcomplement:alloy_tank:0, Alloy Tank
-tcomplement:manyullyn_helmet, Manyullyn Helmet
-tcomplement:manyullyn_chestplate, Manyullyn Chestplate
-tcomplement:manyullyn_leggings, Manyullyn Leggings
-tcomplement:manyullyn_boots, Manyullyn Boots
-tcomplement:knightslime_helmet, Knightslime Helmet
-tcomplement:knightslime_chestplate, Knightslime Chestplate
-tcomplement:knightslime_leggings, Knightslime Leggings
-tcomplement:knightslime_boots, Knightslime Boots
-tcomplement:steel_helmet, Steel Helmet
-tcomplement:steel_chestplate, Steel Chestplate
-tcomplement:steel_leggings, Steel Leggings
-tcomplement:steel_boots, Steel Boots
-tcomplement:storage:0, Block of Charcoal
-tcomplement:storage:1, Block of Steel
-tcomplement:high_oven_controller:0, High Oven Controller
-tcomplement:scorched_faucet:0, Scorched Faucet
-tcomplement:scorched_channel:0, Scorched Channel
-tcomplement:scorched_casting:0, Scorched Casting Table
-tcomplement:scorched_casting:1, Scorched Casting Basin
-tcomplement:high_oven_io:0, Scorched Drain
-tcomplement:high_oven_io:1, Scorched Chute
-tcomplement:high_oven_io:2, Scorched Duct
-tcomplement:scorched_block:0, Scorched Stone
-tcomplement:scorched_block:1, Scorched Cobblestone
-tcomplement:scorched_block:2, Scorched Paver
-tcomplement:scorched_block:3, Scorched Bricks
-tcomplement:scorched_block:4, Cracked Scorched Bricks
-tcomplement:scorched_block:5, Fancy Scorched Bricks
-tcomplement:scorched_block:6, Square Scorched Bricks
-tcomplement:scorched_block:7, Scorched Road
-tcomplement:scorched_block:8, Scorched Creeperface
-tcomplement:scorched_block:9, Triangle Scorched Bricks
-tcomplement:scorched_block:10, Small Scorched Bricks
-tcomplement:scorched_block:11, Scorched Tiles
-tcomplement:scorched_slab:0, Scorched Stone Slab
-tcomplement:scorched_slab:1, Scorched Cobblestone Slab
-tcomplement:scorched_slab:2, Scorched Paver Slab
-tcomplement:scorched_slab:3, Scorched Bricks Slab
-tcomplement:scorched_slab:4, Cracked Scorched Bricks Slab
-tcomplement:scorched_slab:5, Fancy Scorched Bricks Slab
-tcomplement:scorched_slab:6, Square Scorched Bricks Slab
-tcomplement:scorched_slab:7, Scorched Road Slab
-tcomplement:scorched_slab2:0, Scorched Creeperface Slab
-tcomplement:scorched_slab2:1, Triangle Scorched Bricks Slab
-tcomplement:scorched_slab2:2, Small Scorched Bricks Slab
-tcomplement:scorched_slab2:3, Scorched Tile Slab
-tcomplement:scorched_stairs_stone:0, Scorched Stone Stairs
-tcomplement:scorched_stairs_cobble:0, Scorched Cobblestone Stairs
-tcomplement:scorched_stairs_paver:0, Scorched Paver Stairs
-tcomplement:scorched_stairs_brick:0, Scorched Bricks Stairs
-tcomplement:scorched_stairs_brick_cracked:0, Cracked Scorched Bricks Stairs
-tcomplement:scorched_stairs_brick_fancy:0, Fancy Scorched Bricks Stairs
-tcomplement:scorched_stairs_brick_square:0, Square Scorched Bricks Stairs
-tcomplement:scorched_stairs_brick_triangle:0, Triangle Scorched Bricks Stairs
-tcomplement:scorched_stairs_brick_small:0, Small Scorched Bricks Stairs
-tcomplement:scorched_stairs_road:0, Scorched Road Stairs
-tcomplement:scorched_stairs_tile:0, Scorched Tile Stairs
-tcomplement:scorched_stairs_creeper:0, Scorched Creeperface Stairs
-yabba:item_barrel, Item Barrel
-yabba:item_barrel_connector, Item Barrel Connector
-yabba:antibarrel, AntiBarrel
-yabba:decorative_block, Decorative Block
-yabba:upgrade_blank, Blank Barrel Upgrade
-yabba:upgrade_iron_tier, Iron Tier
-yabba:upgrade_gold_tier, Gold Tier
-yabba:upgrade_diamond_tier, Diamond Tier
-yabba:upgrade_star_tier, Infinite Capacity
-yabba:upgrade_creative, Creative Barrel
-yabba:upgrade_obsidian_shell, Obsidian Shell
-yabba:upgrade_redstone_out, Redstone Output
-yabba:upgrade_hopper, Hopper
-yabba:upgrade_void, Void Items
-yabba:upgrade_pickup, Collect Pickups
-yabba:upgrade_smelting, Item Smelting
-yabba:hammer, Barrel Hammer
-yabba:painter, Barrel Painter
-yabba:wrench, Barrel Wrench
 mekanism:electricbow, Electric Bow
 mekanism:canteen, Canteen
 mekanism:dust:0, Iron Dust
@@ -3596,8 +3348,256 @@ newtechindustrial:quantum_elevator:3, Green Quantum Elevator
 newtechindustrial:quantum_elevator:4, Blue Quantum Elevator
 newtechindustrial:quantum_elevator:5, Yellow Quantum Elevator
 newtechindustrial:quantum_elevator:6, Magenta Quantum Elevator
+tconstruct:book, Materials and You
+tconstruct:soil:0, Grout
+tconstruct:soil:1, Green Slimy Mud
+tconstruct:soil:2, Blue Slimy Mud
+tconstruct:soil:3, Graveyard Soil
+tconstruct:soil:4, Consecrated Soil
+tconstruct:soil:5, Slimy Magma Mud
+tconstruct:slime:1, Slime Block
+tconstruct:slime:2, Slime Block
+tconstruct:slime:3, Blood Slime Block
+tconstruct:slime:4, Slime Block
+tconstruct:slime_congealed:0, Congealed Slime Block
+tconstruct:slime_congealed:1, Congealed Slime Block
+tconstruct:slime_congealed:2, Congealed Slime Block
+tconstruct:slime_congealed:3, Congealed Bloodblock
+tconstruct:slime_congealed:4, Congealed Slime Block
+tconstruct:ore:0, Cobalt Ore
+tconstruct:ore:1, Ardite Ore
+tconstruct:firewood:0, Lavawood
+tconstruct:firewood:1, Firewood
+tconstruct:deco_ground:0, Mud Bricks
+tconstruct:clear_glass:0, Clear Glass
+tconstruct:clear_stained_glass:0, Clear White Stained Glass
+tconstruct:clear_stained_glass:1, Clear Orange Stained Glass
+tconstruct:clear_stained_glass:2, Clear Magenta Stained Glass
+tconstruct:clear_stained_glass:3, Clear Light Blue Stained Glass
+tconstruct:clear_stained_glass:4, Clear Yellow Stained Glass
+tconstruct:clear_stained_glass:5, Clear Light Green Stained Glass
+tconstruct:clear_stained_glass:6, Clear Pink Stained Glass
+tconstruct:clear_stained_glass:7, Clear Gray Stained Glass
+tconstruct:clear_stained_glass:8, Clear Light Gray Stained Glass
+tconstruct:clear_stained_glass:9, Clear Cyan Stained Glass
+tconstruct:clear_stained_glass:10, Clear Purple Stained Glass
+tconstruct:clear_stained_glass:11, Clear Blue Stained Glass
+tconstruct:clear_stained_glass:12, Clear Brown Stained Glass
+tconstruct:clear_stained_glass:13, Clear Green Stained Glass
+tconstruct:clear_stained_glass:14, Clear Red Stained Glass
+tconstruct:clear_stained_glass:15, Clear Black Stained Glass
+tconstruct:deco_ground_slab:0, Mud Bricks Slab
+tconstruct:firewood_slab:0, Lavawood Slab
+tconstruct:firewood_slab:1, Firewood Slab
+tconstruct:mudbrick_stairs:0, Mud Bricks Stairs
+tconstruct:firewood_stairs:0, Firewood Stairs
+tconstruct:lavawood_stairs:0, Lavawood Stairs
+tconstruct:nuggets:0, Cobalt Nugget
+tconstruct:nuggets:1, Ardite Nugget
+tconstruct:nuggets:2, Manyullyn Nugget
+tconstruct:nuggets:4, Pigiron Nugget
+tconstruct:ingots:0, Cobalt Ingot
+tconstruct:ingots:1, Ardite Ingot
+tconstruct:ingots:2, Manyullyn Ingot
+tconstruct:ingots:4, Pigiron Ingot
+tconstruct:materials:0, Seared Brick
+tconstruct:materials:1, Mud Brick
+tconstruct:edible:1, Slimeball
+tconstruct:edible:2, Slimeball
+tconstruct:edible:3, Coagulated Blood
+tconstruct:edible:4, Slimeball
+tconstruct:edible:5, Slimeball
+tconstruct:metal:0, Block of Cobalt
+tconstruct:metal:1, Block of Ardite
+tconstruct:metal:2, Block of Manyullyn
+tconstruct:metal:3, Block of Knightslime
+tconstruct:metal:4, Block of Pigiron
+tconstruct:metal:6, Silky Block of Jewel
+tconstruct:slime_dirt:0, Green Slimy Dirt
+tconstruct:slime_dirt:1, Blue Slimy Dirt
+tconstruct:slime_dirt:2, Purple Slimy Dirt
+tconstruct:slime_dirt:3, Magma Slimy Dirt
+tconstruct:slime_grass:0, Slimy Grass
+tconstruct:slime_grass:1, Green Slimy Grass
+tconstruct:slime_grass:2, Blue Slimy Grass
+tconstruct:slime_grass:3, Purple Slimy Grass
+tconstruct:slime_grass:4, Magma Slimy Grass
+tconstruct:slime_grass:5, Slimy Grass
+tconstruct:slime_grass:6, Green Slimy Grass
+tconstruct:slime_grass:7, Blue Slimy Grass
+tconstruct:slime_grass:8, Purple Slimy Grass
+tconstruct:slime_grass:9, Magma Slimy Grass
+tconstruct:slime_grass:10, Slimy Grass
+tconstruct:slime_grass:11, Green Slimy Grass
+tconstruct:slime_grass:12, Blue Slimy Grass
+tconstruct:slime_grass:13, Purple Slimy Grass
+tconstruct:slime_grass:14, Magma Slimy Grass
+tconstruct:slime_leaves:0, Slimy Leaves
+tconstruct:slime_leaves:1, Slimy Leaves
+tconstruct:slime_leaves:2, Slimy Leaves
+tconstruct:slime_grass_tall:0, Tall Slimy Grass
+tconstruct:slime_grass_tall:4, Tall Slimy Grass
+tconstruct:slime_grass_tall:8, Tall Slimy Grass
+tconstruct:slime_grass_tall:1, Slimy Fern
+tconstruct:slime_grass_tall:5, Slimy Fern
+tconstruct:slime_grass_tall:9, Slimy Fern
+tconstruct:slime_sapling:0, Blue Slime Sapling
+tconstruct:slime_sapling:1, Purple Slime Sapling
+tconstruct:slime_sapling:2, Magma Slime Sapling
+tconstruct:slime_vine_blue_end:0, Blue Slimy Vine
+tconstruct:slime_vine_blue_mid:0, Blue Slimy Vine
+tconstruct:slime_vine_blue:0, Blue Slimy Vine
+tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
+tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
+tconstruct:slime_vine_purple:0, Purple Slimy Vine
+tconstruct:seared:0, Seared Stone
+tconstruct:seared:1, Seared Cobblestone
+tconstruct:seared:2, Seared Paver
+tconstruct:seared:3, Seared Bricks
+tconstruct:seared:4, Cracked Seared Bricks
+tconstruct:seared:5, Fancy Seared Bricks
+tconstruct:seared:6, Square Seared Bricks
+tconstruct:seared:7, Seared Road
+tconstruct:seared:8, Seared Creeperface
+tconstruct:seared:9, Triangle Seared Bricks
+tconstruct:seared:10, Small Seared Bricks
+tconstruct:seared:11, Seared Tiles
+tconstruct:smeltery_controller:0, Smeltery Controller
+tconstruct:seared_tank:0, Seared Tank
+tconstruct:seared_tank:1, Seared Gauge
+tconstruct:seared_tank:2, Seared Window
+tconstruct:faucet:0, Seared Faucet
+tconstruct:channel:0, Casting Channel
+tconstruct:casting:0, Casting Table
+tconstruct:casting:1, Casting Basin
+tconstruct:smeltery_io:0, Seared Drain
+tconstruct:seared_glass:0, Seared Glass
+tconstruct:seared_furnace_controller:0, Seared Furnace Controller
+tconstruct:tinker_tank_controller:0, Tinker Tank Controller
+tconstruct:seared_slab:0, Seared Stone Slab
+tconstruct:seared_slab:1, Seared Cobblestone Slab
+tconstruct:seared_slab:2, Seared Paver Slab
+tconstruct:seared_slab:3, Seared Bricks Slab
+tconstruct:seared_slab:4, Cracked Seared Bricks Slab
+tconstruct:seared_slab:5, Fancy Seared Bricks Slab
+tconstruct:seared_slab:6, Square Seared Bricks Slab
+tconstruct:seared_slab:7, Seared Road Slab
+tconstruct:seared_slab2:0, Seared Creeperface Slab
+tconstruct:seared_slab2:1, Triangle Seared Bricks Slab
+tconstruct:seared_slab2:2, Small Seared Bricks Slab
+tconstruct:seared_slab2:3, Seared Tile Slab
+tconstruct:seared_stairs_stone:0, Seared Stone Stairs
+tconstruct:seared_stairs_cobble:0, Seared Cobblestone Stairs
+tconstruct:seared_stairs_paver:0, Seared Paver Stairs
+tconstruct:seared_stairs_brick:0, Seared Bricks Stairs
+tconstruct:seared_stairs_brick_cracked:0, Cracked Seared Bricks Stairs
+tconstruct:seared_stairs_brick_fancy:0, Fancy Seared Bricks Stairs
+tconstruct:seared_stairs_brick_square:0, Square Seared Bricks Stairs
+tconstruct:seared_stairs_brick_triangle:0, Triangle Seared Bricks Stairs
+tconstruct:seared_stairs_brick_small:0, Small Seared Bricks Stairs
+tconstruct:seared_stairs_road:0, Seared Road Stairs
+tconstruct:seared_stairs_tile:0, Seared Tile Stairs
+tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
+tconstruct:cast:0, Blank Cast
+tconstruct:cast_custom:0, Ingot Cast
+tconstruct:cast_custom:1, Nugget Cast
+tconstruct:cast_custom:2, Gem Cast
+tconstruct:cast_custom:3, Plate Cast
+tconstruct:cast_custom:4, Gear Cast
+tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
+tcomplement:materials:0, Stone Bucket
+tcomplement:materials:1, Scorched Brick
+tcomplement:materials:10, Steel Ingot
+tcomplement:materials:20, Steel Nugget
+tcomplement:cast:0, Bucket Cast
+tcomplement:cast_clay:0, Clay Bucket Cast
+tcomplement:edibles:10, Milk Chocolate Ingot
+tcomplement:edibles:11, Dark Chocolate Ingot
+tcomplement:edibles:20, Milk Chocolate Nugget
+tcomplement:edibles:21, Dark Chocolate Nugget
+tcomplement:edibles:30, Cocoa Butter
+tcomplement:melter:0, Melter
+tcomplement:melter:8, Seared Heater
+tcomplement:alloy_tank:0, Alloy Tank
+tcomplement:manyullyn_helmet, Manyullyn Helmet
+tcomplement:manyullyn_chestplate, Manyullyn Chestplate
+tcomplement:manyullyn_leggings, Manyullyn Leggings
+tcomplement:manyullyn_boots, Manyullyn Boots
+tcomplement:knightslime_helmet, Knightslime Helmet
+tcomplement:knightslime_chestplate, Knightslime Chestplate
+tcomplement:knightslime_leggings, Knightslime Leggings
+tcomplement:knightslime_boots, Knightslime Boots
+tcomplement:steel_helmet, Steel Helmet
+tcomplement:steel_chestplate, Steel Chestplate
+tcomplement:steel_leggings, Steel Leggings
+tcomplement:steel_boots, Steel Boots
+tcomplement:storage:0, Block of Charcoal
+tcomplement:storage:1, Block of Steel
+tcomplement:high_oven_controller:0, High Oven Controller
+tcomplement:scorched_faucet:0, Scorched Faucet
+tcomplement:scorched_channel:0, Scorched Channel
+tcomplement:scorched_casting:0, Scorched Casting Table
+tcomplement:scorched_casting:1, Scorched Casting Basin
+tcomplement:high_oven_io:0, Scorched Drain
+tcomplement:high_oven_io:1, Scorched Chute
+tcomplement:high_oven_io:2, Scorched Duct
+tcomplement:scorched_block:0, Scorched Stone
+tcomplement:scorched_block:1, Scorched Cobblestone
+tcomplement:scorched_block:2, Scorched Paver
+tcomplement:scorched_block:3, Scorched Bricks
+tcomplement:scorched_block:4, Cracked Scorched Bricks
+tcomplement:scorched_block:5, Fancy Scorched Bricks
+tcomplement:scorched_block:6, Square Scorched Bricks
+tcomplement:scorched_block:7, Scorched Road
+tcomplement:scorched_block:8, Scorched Creeperface
+tcomplement:scorched_block:9, Triangle Scorched Bricks
+tcomplement:scorched_block:10, Small Scorched Bricks
+tcomplement:scorched_block:11, Scorched Tiles
+tcomplement:scorched_slab:0, Scorched Stone Slab
+tcomplement:scorched_slab:1, Scorched Cobblestone Slab
+tcomplement:scorched_slab:2, Scorched Paver Slab
+tcomplement:scorched_slab:3, Scorched Bricks Slab
+tcomplement:scorched_slab:4, Cracked Scorched Bricks Slab
+tcomplement:scorched_slab:5, Fancy Scorched Bricks Slab
+tcomplement:scorched_slab:6, Square Scorched Bricks Slab
+tcomplement:scorched_slab:7, Scorched Road Slab
+tcomplement:scorched_slab2:0, Scorched Creeperface Slab
+tcomplement:scorched_slab2:1, Triangle Scorched Bricks Slab
+tcomplement:scorched_slab2:2, Small Scorched Bricks Slab
+tcomplement:scorched_slab2:3, Scorched Tile Slab
+tcomplement:scorched_stairs_stone:0, Scorched Stone Stairs
+tcomplement:scorched_stairs_cobble:0, Scorched Cobblestone Stairs
+tcomplement:scorched_stairs_paver:0, Scorched Paver Stairs
+tcomplement:scorched_stairs_brick:0, Scorched Bricks Stairs
+tcomplement:scorched_stairs_brick_cracked:0, Cracked Scorched Bricks Stairs
+tcomplement:scorched_stairs_brick_fancy:0, Fancy Scorched Bricks Stairs
+tcomplement:scorched_stairs_brick_square:0, Square Scorched Bricks Stairs
+tcomplement:scorched_stairs_brick_triangle:0, Triangle Scorched Bricks Stairs
+tcomplement:scorched_stairs_brick_small:0, Small Scorched Bricks Stairs
+tcomplement:scorched_stairs_road:0, Scorched Road Stairs
+tcomplement:scorched_stairs_tile:0, Scorched Tile Stairs
+tcomplement:scorched_stairs_creeper:0, Scorched Creeperface Stairs
 xpbook:xp_book, OLD - RIGHTCLICK TO CONVERT
 xpbook:xp_tome, XP Tome
+yabba:item_barrel, Item Barrel
+yabba:item_barrel_connector, Item Barrel Connector
+yabba:antibarrel, AntiBarrel
+yabba:decorative_block, Decorative Block
+yabba:upgrade_blank, Blank Barrel Upgrade
+yabba:upgrade_iron_tier, Iron Tier
+yabba:upgrade_gold_tier, Gold Tier
+yabba:upgrade_diamond_tier, Diamond Tier
+yabba:upgrade_star_tier, Infinite Capacity
+yabba:upgrade_creative, Creative Barrel
+yabba:upgrade_obsidian_shell, Obsidian Shell
+yabba:upgrade_redstone_out, Redstone Output
+yabba:upgrade_hopper, Hopper
+yabba:upgrade_void, Void Items
+yabba:upgrade_pickup, Collect Pickups
+yabba:upgrade_smelting, Item Smelting
+yabba:hammer, Barrel Hammer
+yabba:painter, Barrel Painter
+yabba:wrench, Barrel Wrench
 newtechindustrial:ingotyellorium, Yellorium Ingot
 newtechindustrial:ingotcyanite, Cyanite Ingot
 newtechindustrial:ingotgraphite, Graphite Bar
