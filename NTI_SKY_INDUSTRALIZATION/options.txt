@@ -2,7 +2,7 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
-gamma:1.0
+gamma:0.0
 saturation:0.0
 renderDistance:12
 guiScale:2
@@ -12,9 +12,9 @@ anaglyph3d:false
 maxFps:120
 fboEnable:true
 difficulty:2
-fancyGraphics:false
-ao:0
-renderClouds:false
+fancyGraphics:true
+ao:2
+renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
@@ -112,6 +112,7 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
+key_invtweaks.key.sort:19
 key_Item Mode Switch:50
 key_Head Mode Switch:47
 key_Chest Mode Switch:34

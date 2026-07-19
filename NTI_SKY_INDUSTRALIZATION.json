@@ -89,8 +89,8 @@
         "type": "File",
         "artifact": {
             "size": 747,
-            "MD5": "b6da8ccb0a8ac0ddc0bb223647ed1610bfe5b5ff",
-            "hash": "b6da8ccb0a8ac0ddc0bb223647ed1610bfe5b5ff",
+            "MD5": "70bd4236429f904952a4daa331e6dc7f35e68af0",
+            "hash": "70bd4236429f904952a4daa331e6dc7f35e68af0",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/InvTweaks.cfg",
             "path": "config/InvTweaks.cfg"
         }
@@ -868,9 +868,9 @@
         "name": "customloadingscreen_timings.nbt",
         "type": "File",
         "artifact": {
-            "size": 1214,
-            "MD5": "480d368f03cbe55b16b2f48d819737360e6fe04a",
-            "hash": "480d368f03cbe55b16b2f48d819737360e6fe04a",
+            "size": 1221,
+            "MD5": "70dd83ae4701a85103c53106e8ba2b8c0a3c8a25",
+            "hash": "70dd83ae4701a85103c53106e8ba2b8c0a3c8a25",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/customloadingscreen_timings.nbt",
             "path": "config/customloadingscreen_timings.nbt"
         }
@@ -11849,8 +11849,8 @@
         "type": "File",
         "artifact": {
             "size": 376,
-            "MD5": "c3ccab3ce05207206af035a417d2036a96c49692",
-            "hash": "c3ccab3ce05207206af035a417d2036a96c49692",
+            "MD5": "812dd2760e25cf0cba6dde5b32790cab031823a0",
+            "hash": "812dd2760e25cf0cba6dde5b32790cab031823a0",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/splash.properties",
             "path": "config/splash.properties"
         }
@@ -12732,6 +12732,18 @@
         }
     },
     {
+        "id": "options.txt",
+        "name": "options.txt",
+        "type": "File",
+        "artifact": {
+            "size": 4806,
+            "MD5": "3b5b704171850409d87658dc4e297b6ea8020ea4",
+            "hash": "3b5b704171850409d87658dc4e297b6ea8020ea4",
+            "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/options.txt",
+            "path": "options.txt"
+        }
+    },
+    {
         "id": "resources/newtech/background/ae2serverroombackground.jpg",
         "name": "ae2serverroombackground.jpg",
         "type": "File",
@@ -13113,18 +13125,6 @@
             "hash": "d805860a401a18bb3dc549be3126f5ccb124489d",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/scripts/A_1_ITEMS_CRAFTING_REMOVE.zs",
             "path": "scripts/A_1_ITEMS_CRAFTING_REMOVE.zs"
-        }
-    },
-    {
-        "id": "scripts/EnderIO_Integrations.zs",
-        "name": "EnderIO_Integrations.zs",
-        "type": "File",
-        "artifact": {
-            "size": 15217,
-            "MD5": "975d399c99793e5e548d6f57cce840c8d0361e1b",
-            "hash": "975d399c99793e5e548d6f57cce840c8d0361e1b",
-            "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/scripts/EnderIO_Integrations.zs",
-            "path": "scripts/EnderIO_Integrations.zs"
         }
     },
     {
