@@ -65,8 +65,8 @@
         "type": "File",
         "artifact": {
             "size": 835,
-            "MD5": "5f39cd0b22e6c97340151cdbb11c797c9eadeae4",
-            "hash": "5f39cd0b22e6c97340151cdbb11c797c9eadeae4",
+            "MD5": "68f1475b2f4d9af5bca68a56f263f4a2da3b5f7e",
+            "hash": "68f1475b2f4d9af5bca68a56f263f4a2da3b5f7e",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/AppliedEnergistics2/CustomRecipes.cfg",
             "path": "config/AppliedEnergistics2/CustomRecipes.cfg"
         }
@@ -868,9 +868,9 @@
         "name": "customloadingscreen_timings.nbt",
         "type": "File",
         "artifact": {
-            "size": 1221,
-            "MD5": "70dd83ae4701a85103c53106e8ba2b8c0a3c8a25",
-            "hash": "70dd83ae4701a85103c53106e8ba2b8c0a3c8a25",
+            "size": 1215,
+            "MD5": "a498999ccc20029e6e37c8648c802f737785b61d",
+            "hash": "a498999ccc20029e6e37c8648c802f737785b61d",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/customloadingscreen_timings.nbt",
             "path": "config/customloadingscreen_timings.nbt"
         }
@@ -11849,8 +11849,8 @@
         "type": "File",
         "artifact": {
             "size": 376,
-            "MD5": "812dd2760e25cf0cba6dde5b32790cab031823a0",
-            "hash": "812dd2760e25cf0cba6dde5b32790cab031823a0",
+            "MD5": "b4e4efb8921e8db85725f7d4cc6fc41a7e3b32e3",
+            "hash": "b4e4efb8921e8db85725f7d4cc6fc41a7e3b32e3",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/splash.properties",
             "path": "config/splash.properties"
         }
