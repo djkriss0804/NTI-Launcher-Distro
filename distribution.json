@@ -11869,8 +11869,8 @@
                     "type": "File",
                     "artifact": {
                         "size": 376,
-                        "MD5": "d638b145240f38cdea772baefc14ed6088502913",
-                        "hash": "d638b145240f38cdea772baefc14ed6088502913",
+                        "MD5": "c3ccab3ce05207206af035a417d2036a96c49692",
+                        "hash": "c3ccab3ce05207206af035a417d2036a96c49692",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/splash.properties",
                         "path": "config/splash.properties"
                     }
@@ -12233,10 +12233,6 @@
                         "hash": "151671af56599d39ef5ca41bf9bda3584b6818e1",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/Controlling-3.0.10.jar",
                         "path": "mods/Controlling-3.0.10.jar"
-                    },
-                    "required": {
-                        "value": false,
-                        "def": false
                     }
                 },
                 {
@@ -12333,10 +12329,6 @@
                         "hash": "6e00827d1a009da39fa6db5afd2a3d6b024abfe9",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/InventoryTweaks-1.63.jar",
                         "path": "mods/InventoryTweaks-1.63.jar"
-                    },
-                    "required": {
-                        "value": false,
-                        "def": false
                     }
                 },
                 {
@@ -12409,10 +12401,6 @@
                         "hash": "0d3b0589021905b2eab8ba93805e9fdef463288e",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/MouseTweaks-2.10-mc1.12.2.jar",
                         "path": "mods/MouseTweaks-2.10-mc1.12.2.jar"
-                    },
-                    "required": {
-                        "value": false,
-                        "def": false
                     }
                 },
                 {
