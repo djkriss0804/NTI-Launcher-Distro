@@ -1,5 +1,5 @@
 {
-    "version": "1.0.20",
+    "version": "1.0.21",
     "socials": {
         "discord": "https://discord.gg/",
         "github": "https://github.com/",
@@ -12029,6 +12029,18 @@
                         "hash": "e345e68f967aada69db0ebe8803b1152ae538c5e",
                         "path": "config/yabba.cfg",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/config/yabba.cfg"
+                    }
+                },
+                {
+                    "id": "forge-version.json",
+                    "name": "forge-version.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 11812,
+                        "MD5": "6b48963265264172cee9296ba0ce3742f75edcc0",
+                        "hash": "6b48963265264172cee9296ba0ce3742f75edcc0",
+                        "path": "forge-version.json",
+                        "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/forge-version.json"
                     }
                 },
                 {
