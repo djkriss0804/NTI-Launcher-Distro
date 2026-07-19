@@ -12148,9 +12148,9 @@
         "name": "!mixinbooter-10.5.jar",
         "type": "File",
         "artifact": {
-            "size": 180224,
-            "MD5": "d88907ac2a8b048af14a2b494beb83a515b96ae4",
-            "hash": "d88907ac2a8b048af14a2b494beb83a515b96ae4",
+            "size": 2380953,
+            "MD5": "b54a69ed72273227d94c419d3b040ace7e0e0c68",
+            "hash": "b54a69ed72273227d94c419d3b040ace7e0e0c68",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/!mixinbooter-10.5.jar",
             "path": "mods/!mixinbooter-10.5.jar"
         }
@@ -12160,9 +12160,9 @@
         "name": "AE2-1.0.0.jar",
         "type": "File",
         "artifact": {
-            "size": 212992,
-            "MD5": "d4fe73daca8dc75ee87fa61a34a8d7193a04a3a0",
-            "hash": "d4fe73daca8dc75ee87fa61a34a8d7193a04a3a0",
+            "size": 4484883,
+            "MD5": "080ca8764318e5b6130c61457e9e1756eb43152e",
+            "hash": "080ca8764318e5b6130c61457e9e1756eb43152e",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/AE2-1.0.0.jar",
             "path": "mods/AE2-1.0.0.jar"
         }
@@ -12172,9 +12172,9 @@
         "name": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
         "type": "File",
         "artifact": {
-            "size": 212073,
-            "MD5": "f0c843d37fa19ac3541902e43e48dae6f54f069d",
-            "hash": "f0c843d37fa19ac3541902e43e48dae6f54f069d",
+            "size": 848187,
+            "MD5": "4dd5aa3ff30d7966ae253556f79bb3f13bc5576e",
+            "hash": "4dd5aa3ff30d7966ae253556f79bb3f13bc5576e",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/CoFHCore-1.12.2-4.6.6.1-universal.jar",
             "path": "mods/CoFHCore-1.12.2-4.6.6.1-universal.jar"
         }
@@ -12184,9 +12184,9 @@
         "name": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
         "type": "File",
         "artifact": {
-            "size": 180224,
-            "MD5": "32a687b4000dcc7db0ba6c3cf9776c68aad52a0d",
-            "hash": "32a687b4000dcc7db0ba6c3cf9776c68aad52a0d",
+            "size": 505987,
+            "MD5": "863e1524fe0087d434a5e44d27cc2dd0353b9399",
+            "hash": "863e1524fe0087d434a5e44d27cc2dd0353b9399",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/CoFHWorld-1.12.2-1.4.0.1-universal.jar",
             "path": "mods/CoFHWorld-1.12.2-1.4.0.1-universal.jar"
         }
@@ -12236,9 +12236,9 @@
         "name": "CustomLoadingScreen-1.12.2-1.5.7.jar",
         "type": "File",
         "artifact": {
-            "size": 163840,
-            "MD5": "c724c460a12321a41af3f593596dbc6f0bc0536f",
-            "hash": "c724c460a12321a41af3f593596dbc6f0bc0536f",
+            "size": 977090,
+            "MD5": "572743381779b245e6c4bb74765078c90dd40f37",
+            "hash": "572743381779b245e6c4bb74765078c90dd40f37",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/CustomLoadingScreen-1.12.2-1.5.7.jar",
             "path": "mods/CustomLoadingScreen-1.12.2-1.5.7.jar"
         }
@@ -12248,9 +12248,9 @@
         "name": "EnderIO_NTI-1.0.0.jar",
         "type": "File",
         "artifact": {
-            "size": 2612288,
-            "MD5": "c113a033368c46fec6334079b55542e8bd446318",
-            "hash": "c113a033368c46fec6334079b55542e8bd446318",
+            "size": 7922199,
+            "MD5": "d6ad9bb5a0300cb3fee58e612eb4e0b553f2f00f",
+            "hash": "d6ad9bb5a0300cb3fee58e612eb4e0b553f2f00f",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/EnderIO_NTI-1.0.0.jar",
             "path": "mods/EnderIO_NTI-1.0.0.jar"
         }
@@ -12260,9 +12260,9 @@
         "name": "FTBLib-5.4.7.2.jar",
         "type": "File",
         "artifact": {
-            "size": 179305,
-            "MD5": "9f81f0cf30a561b1a7e44d8c5e4d9655f56d9be8",
-            "hash": "9f81f0cf30a561b1a7e44d8c5e4d9655f56d9be8",
+            "size": 934370,
+            "MD5": "7c20cd223bc2334edf153e074f35acdbcab3c976",
+            "hash": "7c20cd223bc2334edf153e074f35acdbcab3c976",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/FTBLib-5.4.7.2.jar",
             "path": "mods/FTBLib-5.4.7.2.jar"
         }
@@ -12272,9 +12272,9 @@
         "name": "FTBQuests-1202.9.0.15.jar",
         "type": "File",
         "artifact": {
-            "size": 130152,
-            "MD5": "fda7f08e571ff9f0a181eb9d54dd0d422c27c71a",
-            "hash": "fda7f08e571ff9f0a181eb9d54dd0d422c27c71a",
+            "size": 1091954,
+            "MD5": "03413411b820e0fb91f36013aa5954dde3bc85e9",
+            "hash": "03413411b820e0fb91f36013aa5954dde3bc85e9",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/FTBQuests-1202.9.0.15.jar",
             "path": "mods/FTBQuests-1202.9.0.15.jar"
         }
@@ -12284,9 +12284,9 @@
         "name": "Forgelin-1.8.4.jar",
         "type": "File",
         "artifact": {
-            "size": 180224,
-            "MD5": "926ef412e9f8b196688677a39e2294e93a19bee3",
-            "hash": "926ef412e9f8b196688677a39e2294e93a19bee3",
+            "size": 6278399,
+            "MD5": "7a87553fcb808a45d9c7e03f113b355ac7fd10d7",
+            "hash": "7a87553fcb808a45d9c7e03f113b355ac7fd10d7",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/Forgelin-1.8.4.jar",
             "path": "mods/Forgelin-1.8.4.jar"
         }
@@ -12296,9 +12296,9 @@
         "name": "Hwyla-1.8.26-B41_1.12.2.jar",
         "type": "File",
         "artifact": {
-            "size": 245760,
-            "MD5": "e1639436ef621240e9f94b2c5e224939afa0fe70",
-            "hash": "e1639436ef621240e9f94b2c5e224939afa0fe70",
+            "size": 453778,
+            "MD5": "7280d5c0dab42436549bcefc63ff64a1049e5501",
+            "hash": "7280d5c0dab42436549bcefc63ff64a1049e5501",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/Hwyla-1.8.26-B41_1.12.2.jar",
             "path": "mods/Hwyla-1.8.26-B41_1.12.2.jar"
         }
@@ -12372,27 +12372,11 @@
         "name": "Mantle-1.12-1.3.3.55.jar",
         "type": "File",
         "artifact": {
-            "size": 601088,
-            "MD5": "edcbd22466fb71d8e172cf6396523860b049ac9b",
-            "hash": "edcbd22466fb71d8e172cf6396523860b049ac9b",
+            "size": 843486,
+            "MD5": "a1e5d5c197dae3e92637cafb8cd996185191165b",
+            "hash": "a1e5d5c197dae3e92637cafb8cd996185191165b",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/Mantle-1.12-1.3.3.55.jar",
             "path": "mods/Mantle-1.12-1.3.3.55.jar"
-        }
-    },
-    {
-        "id": "mods/MouseTweaks-2.10-mc1.12.2.jar",
-        "name": "MouseTweaks-2.10-mc1.12.2.jar",
-        "type": "File",
-        "artifact": {
-            "size": 0,
-            "MD5": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/MouseTweaks-2.10-mc1.12.2.jar",
-            "path": "mods/MouseTweaks-2.10-mc1.12.2.jar"
-        },
-        "required": {
-            "value": false,
-            "def": false
         }
     },
     {
@@ -12405,6 +12389,10 @@
             "hash": "0d3b0589021905b2eab8ba93805e9fdef463288e",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/MouseTweaks-2.10.jar",
             "path": "mods/MouseTweaks-2.10.jar"
+        },
+        "required": {
+            "value": false,
+            "def": false
         }
     },
     {
@@ -12412,9 +12400,9 @@
         "name": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
         "type": "File",
         "artifact": {
-            "size": 16384,
-            "MD5": "bf26e16e1c6de4037d5bc2ad5f53a5faeacbe3bf",
-            "hash": "bf26e16e1c6de4037d5bc2ad5f53a5faeacbe3bf",
+            "size": 31802,
+            "MD5": "7835c1dcc006e5d4a406a6b0615012b825e25044",
+            "hash": "7835c1dcc006e5d4a406a6b0615012b825e25044",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/RedstoneFlux-1.12-2.1.1.1-universal.jar",
             "path": "mods/RedstoneFlux-1.12-2.1.1.1-universal.jar"
         }
@@ -12424,9 +12412,9 @@
         "name": "ResourceLoader-MC1.12.1-1.5.3.jar",
         "type": "File",
         "artifact": {
-            "size": 0,
-            "MD5": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 16612,
+            "MD5": "d8c10e6e29df5f9bc51e468642d9b3cae5f2f8e4",
+            "hash": "d8c10e6e29df5f9bc51e468642d9b3cae5f2f8e4",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/ResourceLoader-MC1.12.1-1.5.3.jar",
             "path": "mods/ResourceLoader-MC1.12.1-1.5.3.jar"
         }
@@ -12436,9 +12424,9 @@
         "name": "TConstruct-1.12.2-2.13.0.183.jar",
         "type": "File",
         "artifact": {
-            "size": 0,
-            "MD5": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 4023372,
+            "MD5": "e37e1f05ad0eaf567497ce655bc877dc1778bd0f",
+            "hash": "e37e1f05ad0eaf567497ce655bc877dc1778bd0f",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/TConstruct-1.12.2-2.13.0.183.jar",
             "path": "mods/TConstruct-1.12.2-2.13.0.183.jar"
         }
@@ -12448,9 +12436,9 @@
         "name": "ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
         "type": "File",
         "artifact": {
-            "size": 0,
-            "MD5": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 98845,
+            "MD5": "4aef97dad21a3b8cd6cce7bcf601b41574cb22ff",
+            "hash": "4aef97dad21a3b8cd6cce7bcf601b41574cb22ff",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
             "path": "mods/ThermalCultivation-1.12.2-0.3.6.1-universal.jar"
         }
@@ -12460,9 +12448,9 @@
         "name": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
         "type": "File",
         "artifact": {
-            "size": 0,
-            "MD5": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 728082,
+            "MD5": "691d7fafc4e104e41b878d8e1ce885785c995840",
+            "hash": "691d7fafc4e104e41b878d8e1ce885785c995840",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
             "path": "mods/ThermalDynamics-1.12.2-2.5.6.1-universal.jar"
         }
@@ -12472,9 +12460,9 @@
         "name": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
         "type": "File",
         "artifact": {
-            "size": 0,
-            "MD5": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 2329387,
+            "MD5": "dd2cfa8793694efe10cb275ab1ed14e721a4958e",
+            "hash": "dd2cfa8793694efe10cb275ab1ed14e721a4958e",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
             "path": "mods/ThermalExpansion-1.12.2-5.5.7.1-universal.jar"
         }
@@ -12484,9 +12472,9 @@
         "name": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
         "type": "File",
         "artifact": {
-            "size": 0,
-            "MD5": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 2202488,
+            "MD5": "dccfb047f5f3e09dc9ee1af1bcb19786762ada60",
+            "hash": "dccfb047f5f3e09dc9ee1af1bcb19786762ada60",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
             "path": "mods/ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
         }
@@ -12496,9 +12484,9 @@
         "name": "ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
         "type": "File",
         "artifact": {
-            "size": 0,
-            "MD5": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 182379,
+            "MD5": "a2603c82d0deefef67b3708fd79fd1e813b4d080",
+            "hash": "a2603c82d0deefef67b3708fd79fd1e813b4d080",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
             "path": "mods/ThermalInnovation-1.12.2-0.3.6.1-universal.jar"
         }
