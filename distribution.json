@@ -1,5 +1,5 @@
 {
-    "version": "1.0.34",
+    "version": "1.0.37",
     "socials": {
         "discord": "https://discord.gg/",
         "github": "https://github.com/",
@@ -11,32 +11,6 @@
         "smallImageKey": "seal"
     },
     "servers": [
-        {
-            "id": "NTI_SKY_INDUTRIAL",
-            "name": "NTI Sky Industrialization",
-            "version": "1.0.0",
-            "minecraftVersion": "1.12.2",
-            "address": "srv4.bedrockhost.pl",
-            "port": 35047,
-            "modules": [],
-            "gitSubfolder": "NTI_SKY_INDUSTRALIZATION",
-            "discord": {
-                "shortId": "NTI",
-                "largeImageText": "New Modpack",
-                "largeImageKey": "server"
-            },
-            "javaOptions": {
-                "ram": {
-                    "recommended": 10240
-                }
-            },
-            "modLoaders": [
-                {
-                    "id": "forge",
-                    "version": "14.23.5.2864"
-                }
-            ]
-        },
         {
             "id": "NTI_SKY_INDUSTRALIZATION",
             "name": "NTI SKY",
