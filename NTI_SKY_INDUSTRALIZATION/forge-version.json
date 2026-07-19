@@ -4,9 +4,9 @@
         "Our efforts are supported by ads from the download page.",
         "If you MUST automate this, please consider supporting the project through https://www.patreon.com/LexManos/"
     ],
-    "id": "1.12.2-forge-14.23.5.2860",
-    "time": "2021-12-13T04:40:03+00:00",
-    "releaseTime": "2021-12-13T04:40:03+00:00",
+    "id": "1.12.2-forge-14.23.5.2864",
+    "time": "2025-12-04T02:43:28+00:00",
+    "releaseTime": "2025-12-04T02:43:28+00:00",
     "type": "release",
     "mainClass": "net.minecraft.launchwrapper.Launch",
     "inheritsFrom": "1.12.2",
@@ -16,13 +16,13 @@
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge",
     "libraries": [
         {
-            "name": "net.minecraftforge:forge:1.12.2-14.23.5.2860",
+            "name": "net.minecraftforge:forge:1.12.2-14.23.5.2864",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860.jar",
+                    "path": "net/minecraftforge/forge/1.12.2-14.23.5.2864/forge-1.12.2-14.23.5.2864.jar",
                     "url": "",
-                    "sha1": "029250575d3aa2cf80b56dffb66238a1eeaea2ac",
-                    "size": 4466148
+                    "sha1": "d0ab8e116da0e50c6e6099791f97772a08469626",
+                    "size": 4301162
                 }
             }
         },
@@ -240,7 +240,7 @@
             "downloads": {
                 "artifact": {
                     "path": "org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar",
-                    "url": "https://maven.minecraftforge.net/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar",
+                    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar",
                     "sha1": "4a5aa7e55a29391c6f66e0b259d5189aa11e45d0",
                     "size": 301804
                 }
@@ -251,7 +251,7 @@
             "downloads": {
                 "artifact": {
                     "path": "org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar",
-                    "url": "https://maven.minecraftforge.net/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar",
+                    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar",
                     "sha1": "ba55c13d7ac2fd44df9cc8074455719a33f375b9",
                     "size": 1789769
                 }
