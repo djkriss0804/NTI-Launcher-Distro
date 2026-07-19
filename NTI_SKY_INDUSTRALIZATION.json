@@ -12213,6 +12213,10 @@
             "hash": "151671af56599d39ef5ca41bf9bda3584b6818e1",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/Controlling-3.0.10.jar",
             "path": "mods/Controlling-3.0.10.jar"
+        },
+        "required": {
+            "value": false,
+            "def": false
         }
     },
     {
@@ -12309,6 +12313,10 @@
             "hash": "6e00827d1a009da39fa6db5afd2a3d6b024abfe9",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/InventoryTweaks-1.63.jar",
             "path": "mods/InventoryTweaks-1.63.jar"
+        },
+        "required": {
+            "value": false,
+            "def": false
         }
     },
     {
@@ -12381,6 +12389,10 @@
             "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/MouseTweaks-2.10-mc1.12.2.jar",
             "path": "mods/MouseTweaks-2.10-mc1.12.2.jar"
+        },
+        "required": {
+            "value": false,
+            "def": false
         }
     },
     {
@@ -13156,9 +13168,9 @@
         "name": "NTI.zs",
         "type": "File",
         "artifact": {
-            "size": 21999,
-            "MD5": "b1f460a7e2bae53dd3b8c569a989fbddfecefac6",
-            "hash": "b1f460a7e2bae53dd3b8c569a989fbddfecefac6",
+            "size": 19099,
+            "MD5": "a2e7a3f423b6cacf44d82fb713917fca47e68851",
+            "hash": "a2e7a3f423b6cacf44d82fb713917fca47e68851",
             "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/scripts/NTI.zs",
             "path": "scripts/NTI.zs"
         }
