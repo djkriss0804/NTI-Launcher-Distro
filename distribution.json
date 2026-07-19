@@ -1,5 +1,5 @@
 {
-    "version": "1.0.19",
+    "version": "1.0.20",
     "socials": {
         "discord": "https://discord.gg/",
         "github": "https://github.com/",
@@ -13097,7 +13097,21 @@
                         "hash": "402aa47f2f77b23ec203a5560ef04143",
                         "path": "forge-1.12.2-14.23.5.2847-installer.jar",
                         "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-installer.jar"
-                    }
+                    },
+                    "subModules": [
+                        {
+                            "id": "forge-14.23.5.2847-version",
+                            "name": "Forge Version Manifest",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 0,
+                                "MD5": "00000000000000000000000000000000",
+                                "hash": "00000000000000000000000000000000",
+                                "path": "forge-version.json",
+                                "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/forge-version.json"
+                            }
+                        }
+                    ]
                 }
             ],
             "gitSubfolder": "NTI_SKY_INDUSTRALIZATION",
