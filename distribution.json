@@ -1,5 +1,5 @@
 {
-    "version": "1.0.24",
+    "version": "1.0.25",
     "socials": {
         "discord": "https://discord.gg/",
         "github": "https://github.com/",
@@ -12036,9 +12036,9 @@
                     "name": "forge-version.json",
                     "type": "File",
                     "artifact": {
-                        "size": 11812,
-                        "MD5": "6b48963265264172cee9296ba0ce3742f75edcc0",
-                        "hash": "6b48963265264172cee9296ba0ce3742f75edcc0",
+                        "size": 11810,
+                        "MD5": "50cf3b75e3d075fb59ea07f5595709083ac39fb9",
+                        "hash": "50cf3b75e3d075fb59ea07f5595709083ac39fb9",
                         "path": "forge-version.json",
                         "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/forge-version.json"
                     }
@@ -13100,25 +13100,25 @@
                     }
                 },
                 {
-                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
+                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2864",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
-                        "size": 5336478,
-                        "MD5": "402aa47f2f77b23ec203a5560ef04143",
-                        "hash": "402aa47f2f77b23ec203a5560ef04143",
-                        "path": "forge-1.12.2-14.23.5.2847-installer.jar",
-                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-installer.jar"
+                        "size": 4532339,
+                        "MD5": "552044b39ebb751431d78f000be5eb5a",
+                        "hash": "552044b39ebb751431d78f000be5eb5a",
+                        "path": "forge-1.12.2-14.23.5.2864-installer.jar",
+                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2864/forge-1.12.2-14.23.5.2864-installer.jar"
                     },
                     "subModules": [
                         {
-                            "id": "forge-14.23.5.2847-version",
+                            "id": "forge-14.23.5.2864-version",
                             "name": "Forge Version Manifest",
                             "type": "VersionManifest",
                             "artifact": {
-                                "size": 0,
-                                "MD5": "00000000000000000000000000000000",
-                                "hash": "00000000000000000000000000000000",
+                                "size": 11810,
+                                "MD5": "f79f6c34243cf0bcfa7244caf818a067",
+                                "hash": "f79f6c34243cf0bcfa7244caf818a067",
                                 "path": "forge-version.json",
                                 "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/forge-version.json"
                             }
@@ -13140,7 +13140,7 @@
             "modLoaders": [
                 {
                     "id": "forge",
-                    "version": "14.23.5.2847"
+                    "version": "14.23.5.2864"
                 }
             ]
         }
