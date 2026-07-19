@@ -12144,9 +12144,9 @@
         }
     },
     {
-        "id": "mods/!mixinbooter-10.5.jar",
+        "id": "local.mod:!mixinbooter-10.5:1.0",
         "name": "!mixinbooter-10.5.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 2380953,
             "MD5": "b54a69ed72273227d94c419d3b040ace7e0e0c68",
@@ -12156,9 +12156,9 @@
         }
     },
     {
-        "id": "mods/AE2-1.0.0.jar",
+        "id": "local.mod:AE2-1.0.0:1.0",
         "name": "AE2-1.0.0.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 4484883,
             "MD5": "080ca8764318e5b6130c61457e9e1756eb43152e",
@@ -12168,9 +12168,9 @@
         }
     },
     {
-        "id": "mods/CoFHCore-1.12.2-4.6.6.1-universal.jar",
+        "id": "local.mod:CoFHCore-1.12.2-4.6.6.1-universal:1.0",
         "name": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 848187,
             "MD5": "4dd5aa3ff30d7966ae253556f79bb3f13bc5576e",
@@ -12180,9 +12180,9 @@
         }
     },
     {
-        "id": "mods/CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+        "id": "local.mod:CoFHWorld-1.12.2-1.4.0.1-universal:1.0",
         "name": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 505987,
             "MD5": "863e1524fe0087d434a5e44d27cc2dd0353b9399",
@@ -12192,9 +12192,9 @@
         }
     },
     {
-        "id": "mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+        "id": "local.mod:CodeChickenLib-1.12.2-3.2.3.358-universal:1.0",
         "name": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 704330,
             "MD5": "b6a7e3b889c354216059a3bfad298e30a1e46a2d",
@@ -12204,9 +12204,9 @@
         }
     },
     {
-        "id": "mods/Controlling-3.0.10.jar",
+        "id": "local.mod:Controlling-3.0.10:1.0",
         "name": "Controlling-3.0.10.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 29043,
             "MD5": "151671af56599d39ef5ca41bf9bda3584b6818e1",
@@ -12220,9 +12220,9 @@
         }
     },
     {
-        "id": "mods/CraftTweaker2-1.12-4.1.20.702.jar",
+        "id": "local.mod:CraftTweaker2-1.12-4.1.20.702:1.0",
         "name": "CraftTweaker2-1.12-4.1.20.702.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 1589287,
             "MD5": "3957e803048817b9fe7fda827cb15a6be57a300f",
@@ -12232,9 +12232,9 @@
         }
     },
     {
-        "id": "mods/CustomLoadingScreen-1.12.2-1.5.7.jar",
+        "id": "local.mod:CustomLoadingScreen-1.12.2-1.5.7:1.0",
         "name": "CustomLoadingScreen-1.12.2-1.5.7.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 977090,
             "MD5": "572743381779b245e6c4bb74765078c90dd40f37",
@@ -12244,9 +12244,9 @@
         }
     },
     {
-        "id": "mods/EnderIO_NTI-1.0.0.jar",
+        "id": "local.mod:EnderIO_NTI-1.0.0:1.0",
         "name": "EnderIO_NTI-1.0.0.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 7922199,
             "MD5": "d6ad9bb5a0300cb3fee58e612eb4e0b553f2f00f",
@@ -12256,9 +12256,9 @@
         }
     },
     {
-        "id": "mods/FTBLib-5.4.7.2.jar",
+        "id": "local.mod:FTBLib-5.4.7.2:1.0",
         "name": "FTBLib-5.4.7.2.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 934370,
             "MD5": "7c20cd223bc2334edf153e074f35acdbcab3c976",
@@ -12268,9 +12268,9 @@
         }
     },
     {
-        "id": "mods/FTBQuests-1202.9.0.15.jar",
+        "id": "local.mod:FTBQuests-1202.9.0.15:1.0",
         "name": "FTBQuests-1202.9.0.15.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 1091954,
             "MD5": "03413411b820e0fb91f36013aa5954dde3bc85e9",
@@ -12280,9 +12280,9 @@
         }
     },
     {
-        "id": "mods/Forgelin-1.8.4.jar",
+        "id": "local.mod:Forgelin-1.8.4:1.0",
         "name": "Forgelin-1.8.4.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 6278399,
             "MD5": "7a87553fcb808a45d9c7e03f113b355ac7fd10d7",
@@ -12292,9 +12292,9 @@
         }
     },
     {
-        "id": "mods/Hwyla-1.8.26-B41_1.12.2.jar",
+        "id": "local.mod:Hwyla-1.8.26-B41_1.12.2:1.0",
         "name": "Hwyla-1.8.26-B41_1.12.2.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 453778,
             "MD5": "7280d5c0dab42436549bcefc63ff64a1049e5501",
@@ -12304,9 +12304,9 @@
         }
     },
     {
-        "id": "mods/InventoryTweaks-1.63.jar",
+        "id": "local.mod:InventoryTweaks-1.63:1.0",
         "name": "InventoryTweaks-1.63.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 263258,
             "MD5": "6e00827d1a009da39fa6db5afd2a3d6b024abfe9",
@@ -12320,9 +12320,9 @@
         }
     },
     {
-        "id": "mods/ItemBlacklist-1.4.3.jar",
+        "id": "local.mod:ItemBlacklist-1.4.3:1.0",
         "name": "ItemBlacklist-1.4.3.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 46403,
             "MD5": "1b1d44a9d8fab776efee060e4cc88b6eca05c546",
@@ -12332,9 +12332,9 @@
         }
     },
     {
-        "id": "mods/ItemFilters-1.0.4.2.jar",
+        "id": "local.mod:ItemFilters-1.0.4.2:1.0",
         "name": "ItemFilters-1.0.4.2.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 78935,
             "MD5": "6b6560aea35c6e0e8a550ea7044501412b0fb335",
@@ -12344,9 +12344,9 @@
         }
     },
     {
-        "id": "mods/LagGoggles-1.12.2-5.9-140.jar",
+        "id": "local.mod:LagGoggles-1.12.2-5.9-140:1.0",
         "name": "LagGoggles-1.12.2-5.9-140.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 179329,
             "MD5": "ef22439d92e38e4fc79df4ff95b2e8708f645db8",
@@ -12356,9 +12356,9 @@
         }
     },
     {
-        "id": "mods/MTLib-3.0.7.jar",
+        "id": "local.mod:MTLib-3.0.7:1.0",
         "name": "MTLib-3.0.7.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 30009,
             "MD5": "7d2b9e97518dca1e9326fd347ba1eb93dec35999",
@@ -12368,9 +12368,9 @@
         }
     },
     {
-        "id": "mods/Mantle-1.12-1.3.3.55.jar",
+        "id": "local.mod:Mantle-1.12-1.3.3.55:1.0",
         "name": "Mantle-1.12-1.3.3.55.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 843486,
             "MD5": "a1e5d5c197dae3e92637cafb8cd996185191165b",
@@ -12380,15 +12380,15 @@
         }
     },
     {
-        "id": "mods/MouseTweaks-2.10-mc1.12.2.jar",
-        "name": "MouseTweaks-2.10-mc1.12.2.jar",
-        "type": "File",
+        "id": "local.mod:MouseTweaks-2.10:1.0",
+        "name": "MouseTweaks-2.10.jar",
+        "type": "ForgeMod",
         "artifact": {
             "size": 75170,
             "MD5": "0d3b0589021905b2eab8ba93805e9fdef463288e",
             "hash": "0d3b0589021905b2eab8ba93805e9fdef463288e",
-            "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/MouseTweaks-2.10-mc1.12.2.jar",
-            "path": "mods/MouseTweaks-2.10-mc1.12.2.jar"
+            "url": "https://raw.githubusercontent.com/djkriss0804/NTI-Launcher-Distro/main/NTI_SKY_INDUSTRALIZATION/mods/MouseTweaks-2.10.jar",
+            "path": "mods/MouseTweaks-2.10.jar"
         },
         "required": {
             "value": false,
@@ -12396,9 +12396,9 @@
         }
     },
     {
-        "id": "mods/RedstoneFlux-1.12-2.1.1.1-universal.jar",
+        "id": "local.mod:RedstoneFlux-1.12-2.1.1.1-universal:1.0",
         "name": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 31802,
             "MD5": "7835c1dcc006e5d4a406a6b0615012b825e25044",
@@ -12408,9 +12408,9 @@
         }
     },
     {
-        "id": "mods/ResourceLoader-MC1.12.1-1.5.3.jar",
+        "id": "local.mod:ResourceLoader-MC1.12.1-1.5.3:1.0",
         "name": "ResourceLoader-MC1.12.1-1.5.3.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 16612,
             "MD5": "d8c10e6e29df5f9bc51e468642d9b3cae5f2f8e4",
@@ -12420,9 +12420,9 @@
         }
     },
     {
-        "id": "mods/TConstruct-1.12.2-2.13.0.183.jar",
+        "id": "local.mod:TConstruct-1.12.2-2.13.0.183:1.0",
         "name": "TConstruct-1.12.2-2.13.0.183.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 4023372,
             "MD5": "e37e1f05ad0eaf567497ce655bc877dc1778bd0f",
@@ -12432,9 +12432,9 @@
         }
     },
     {
-        "id": "mods/ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
+        "id": "local.mod:ThermalCultivation-1.12.2-0.3.6.1-universal:1.0",
         "name": "ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 98845,
             "MD5": "4aef97dad21a3b8cd6cce7bcf601b41574cb22ff",
@@ -12444,9 +12444,9 @@
         }
     },
     {
-        "id": "mods/ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+        "id": "local.mod:ThermalDynamics-1.12.2-2.5.6.1-universal:1.0",
         "name": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 728082,
             "MD5": "691d7fafc4e104e41b878d8e1ce885785c995840",
@@ -12456,9 +12456,9 @@
         }
     },
     {
-        "id": "mods/ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+        "id": "local.mod:ThermalExpansion-1.12.2-5.5.7.1-universal:1.0",
         "name": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 2329387,
             "MD5": "dd2cfa8793694efe10cb275ab1ed14e721a4958e",
@@ -12468,9 +12468,9 @@
         }
     },
     {
-        "id": "mods/ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+        "id": "local.mod:ThermalFoundation-1.12.2-2.6.7.1-universal:1.0",
         "name": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 2202488,
             "MD5": "dccfb047f5f3e09dc9ee1af1bcb19786762ada60",
@@ -12480,9 +12480,9 @@
         }
     },
     {
-        "id": "mods/ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
+        "id": "local.mod:ThermalInnovation-1.12.2-0.3.6.1-universal:1.0",
         "name": "ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 182379,
             "MD5": "a2603c82d0deefef67b3708fd79fd1e813b4d080",
@@ -12492,9 +12492,9 @@
         }
     },
     {
-        "id": "mods/TickCentral-3.2.jar",
+        "id": "local.mod:TickCentral-3.2:1.0",
         "name": "TickCentral-3.2.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 53554,
             "MD5": "79bcdbd58175111c7541a08e8d512ba6bf6ceb93",
@@ -12504,9 +12504,9 @@
         }
     },
     {
-        "id": "mods/TinkersComplement-1.12.2-0.4.3.jar",
+        "id": "local.mod:TinkersComplement-1.12.2-0.4.3:1.0",
         "name": "TinkersComplement-1.12.2-0.4.3.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 998411,
             "MD5": "fa890e49c131e8ff93d8a4e6de0a5476083df6c3",
@@ -12516,9 +12516,9 @@
         }
     },
     {
-        "id": "mods/UniDict-1.12.2-3.0.10.jar",
+        "id": "local.mod:UniDict-1.12.2-3.0.10:1.0",
         "name": "UniDict-1.12.2-3.0.10.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 225385,
             "MD5": "2b72e49682aca50fa55522c5080f2ba20173c565",
@@ -12528,9 +12528,9 @@
         }
     },
     {
-        "id": "mods/WanionLib-1.12.2-2.91.jar",
+        "id": "local.mod:WanionLib-1.12.2-2.91:1.0",
         "name": "WanionLib-1.12.2-2.91.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 223035,
             "MD5": "68196be7d926aee4fe8b5c0d535909c5b2ce3f2c",
@@ -12540,9 +12540,9 @@
         }
     },
     {
-        "id": "mods/Wawla-1.12.2-2.6.275.jar",
+        "id": "local.mod:Wawla-1.12.2-2.6.275:1.0",
         "name": "Wawla-1.12.2-2.6.275.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 94115,
             "MD5": "783157c607149875de1e045d72382d370256257c",
@@ -12552,9 +12552,9 @@
         }
     },
     {
-        "id": "mods/YABBA-1.1.2.54.jar",
+        "id": "local.mod:YABBA-1.1.2.54:1.0",
         "name": "YABBA-1.1.2.54.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 232794,
             "MD5": "a55cc1892d54b37e3a6c6c59cbb6e3b18f2d3f00",
@@ -12564,9 +12564,9 @@
         }
     },
     {
-        "id": "mods/bdlib-1.14.3.12-mc1.12.2.jar",
+        "id": "local.mod:bdlib-1.14.3.12-mc1.12.2:1.0",
         "name": "bdlib-1.14.3.12-mc1.12.2.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 1962731,
             "MD5": "96d4142448fe2fd1245caa4dcfde3cf73a00132d",
@@ -12576,9 +12576,9 @@
         }
     },
     {
-        "id": "mods/fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar",
+        "id": "local.mod:fancymenu_forge_2.14.9_MC_1.12-1.12.2:1.0",
         "name": "fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 1260832,
             "MD5": "b85302e855530f799697b2850e70293111f0cdbe",
@@ -12588,9 +12588,9 @@
         }
     },
     {
-        "id": "mods/foamflower-1.12.2-1.0.0.0-beta1.jar",
+        "id": "local.mod:foamflower-1.12.2-1.0.0.0-beta1:1.0",
         "name": "foamflower-1.12.2-1.0.0.0-beta1.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 67908,
             "MD5": "ed6f1a1114d464b91bff8358ad66834f22e9bbe5",
@@ -12600,9 +12600,9 @@
         }
     },
     {
-        "id": "mods/jei_1.12.2-4.16.1.1013.jar",
+        "id": "local.mod:jei_1.12.2-4.16.1.1013:1.0",
         "name": "jei_1.12.2-4.16.1.1013.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 655406,
             "MD5": "91767806d0329ef91b9277142a359b078c57e92d",
@@ -12612,9 +12612,9 @@
         }
     },
     {
-        "id": "mods/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
+        "id": "local.mod:konkrete_forge_1.6.1_MC_1.12-1.12.2:1.0",
         "name": "konkrete_forge_1.6.1_MC_1.12-1.12.2.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 618150,
             "MD5": "d8853dbd60fd050709d2d687d875cb0d93806e92",
@@ -12624,9 +12624,9 @@
         }
     },
     {
-        "id": "mods/mekanism_nti-1.0.0.jar",
+        "id": "local.mod:mekanism_nti-1.0.0:1.0",
         "name": "mekanism_nti-1.0.0.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 12378625,
             "MD5": "fb75e205b9a4e11225ce99d7113ec5b3c6452146",
@@ -12636,9 +12636,9 @@
         }
     },
     {
-        "id": "mods/modtweaker-4.0.20.11.jar",
+        "id": "local.mod:modtweaker-4.0.20.11:1.0",
         "name": "modtweaker-4.0.20.11.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 493285,
             "MD5": "f0bdbf6f4257e392e59023289998aaa8c295df47",
@@ -12648,9 +12648,9 @@
         }
     },
     {
-        "id": "mods/newtechindustrial-1.1.6.jar",
+        "id": "local.mod:newtechindustrial-1.1.6:1.0",
         "name": "newtechindustrial-1.1.6.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 5145039,
             "MD5": "cea32b6a31efe01297a037110d3062eba22cc19c",
@@ -12660,9 +12660,9 @@
         }
     },
     {
-        "id": "mods/p455w0rdslib-1.12.2-2.3.161.jar",
+        "id": "local.mod:p455w0rdslib-1.12.2-2.3.161:1.0",
         "name": "p455w0rdslib-1.12.2-2.3.161.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 328793,
             "MD5": "be56bc229b7f418675bf46277e37a8272def5327",
@@ -12672,9 +12672,9 @@
         }
     },
     {
-        "id": "mods/reim-0.1.jar",
+        "id": "local.mod:reim-0.1:1.0",
         "name": "reim-0.1.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 30343,
             "MD5": "5446b1459e0530ed6756f3e1a09427eb34921751",
@@ -12684,9 +12684,9 @@
         }
     },
     {
-        "id": "mods/xaerolib-forge-1.12.2-1.1.0.jar",
+        "id": "local.mod:xaerolib-forge-1.12.2-1.1.0:1.0",
         "name": "xaerolib-forge-1.12.2-1.1.0.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 597314,
             "MD5": "4e7132d646d330d28a973543a4ba96ff94944af5",
@@ -12696,9 +12696,9 @@
         }
     },
     {
-        "id": "mods/xaerominimap-forge-1.12.2-25.3.13.jar",
+        "id": "local.mod:xaerominimap-forge-1.12.2-25.3.13:1.0",
         "name": "xaerominimap-forge-1.12.2-25.3.13.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 1992503,
             "MD5": "5a22a66b9724c361df4042edcdda18899ce9d32b",
@@ -12708,9 +12708,9 @@
         }
     },
     {
-        "id": "mods/xptome-1.12.2-v2.0.1.jar",
+        "id": "local.mod:xptome-1.12.2-v2.0.1:1.0",
         "name": "xptome-1.12.2-v2.0.1.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 16743,
             "MD5": "7382f9d0cb925a40ed660cf5b66d2fa9b092a176",
@@ -12720,9 +12720,9 @@
         }
     },
     {
-        "id": "mods/zerocore-1.12.2-0.1.2.9.jar",
+        "id": "local.mod:zerocore-1.12.2-0.1.2.9:1.0",
         "name": "zerocore-1.12.2-0.1.2.9.jar",
-        "type": "File",
+        "type": "ForgeMod",
         "artifact": {
             "size": 227426,
             "MD5": "bc87c72b3aac54367b6641f9dbd41f6a218043cd",
