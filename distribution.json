@@ -14,6 +14,8 @@
         {
             "id": "NTI_SKY_INDUSTRALIZATION",
             "name": "NTI SKY",
+            "icon": "https://github.com/djkriss0804/NTI-Launcher-Distro/blob/main/NTI_SKY_INDUSTRALIZATION/logoST2.png?raw=true",
+            "description": "Tech SkyBlock Server",
             "version": "1.0.0",
             "minecraftVersion": "1.12.2",
             "address": "srv4.bedrockhost.pl",
